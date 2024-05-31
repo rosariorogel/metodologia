@@ -113,27 +113,28 @@ post_search: false
 # footer-link-col: "#404040"
 
 
-# navbar-col: "#2C3E50"         # Dark Blue-Grey
-# navbar-text-col: "#ECF0F1"    # Light Grey
-# navbar-border-col: "#BDC3C7"  # Silver
-# page-col: "#FDFEFE"           # Almost White
-# text-col: "#2C3E50"           # Dark Blue-Grey
-# link-col: "#3498DB"           # Bright Blue
-# hover-col: "#2980B9"          # Deep Blue
-# footer-col: "#2C3E50"         # Dark Blue-Grey
-# footer-text-col: "#ECF0F1"    # Light Grey
-# footer-link-col: "#3498DB"    # Bright Blue
-
-navbar-col: "#4CAF50"         # Medium Green
+navbar-col: "#B22222"         # Firebrick
 navbar-text-col: "#FFFFFF"    # White
-navbar-border-col: "#81C784"  # Light Green
-page-col: "#F0FFF0"           # Honeydew
-text-col: "#2E7D32"           # Dark Green
-link-col: "#388E3C"           # Vibrant Green
-hover-col: "#1B5E20"          # Deep Green
-footer-col: "#4CAF50"         # Medium Green
+navbar-border-col: "#E57373"  # Light Red
+page-col: "#FFF5F5"           # Light Pink
+text-col: "#4B0000"           # Dark Red
+link-col: "#FF6347"           # Tomato
+hover-col: "#D32F2F"          # Red
+footer-col: "#B22222"         # Firebrick
 footer-text-col: "#FFFFFF"    # White
 footer-link-col: "#FFEB3B"    # Bright Yellow-Green
+
+
+# navbar-col: "#4CAF50"         # Medium Green
+# navbar-text-col: "#FFFFFF"    # White
+# navbar-border-col: "#81C784"  # Light Green
+# page-col: "#F0FFF0"           # Honeydew
+# text-col: "#2E7D32"           # Dark Green
+# link-col: "#388E3C"           # Vibrant Green
+# hover-col: "#1B5E20"          # Deep Green
+# footer-col: "#4CAF50"         # Medium Green
+# footer-text-col: "#FFFFFF"    # White
+# footer-link-col: "#FFEB3B"    # Bright Yellow-Green
 
 
 
