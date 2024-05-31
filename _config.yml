@@ -10,8 +10,7 @@ url: https://rosariorogel.net
 basurl: /newsite
 
 # Name of website
-title: "Teoría General de los Sistemas Sociales: Niklas Luhmann"
-
+title: "Methodology Course"
 
 # Your name to show in the footer
 author: Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México
@@ -102,21 +101,40 @@ post_search: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#336699"
-navbar-text-col: "#FFFFFF" #"#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+# navbar-col: "#336699"
+# navbar-text-col: "#FFFFFF" #"#404040"
+# navbar-border-col: "#DDDDDD"
+# page-col: "#FFFFFF"
+# text-col: "#404040"
+# link-col: "#008AFF"
+# hover-col: "#0085A1"
+# footer-col: "#EAEAEA"
+# footer-text-col: "#777777"
+# footer-link-col: "#404040"
 
 
+# navbar-col: "#2C3E50"         # Dark Blue-Grey
+# navbar-text-col: "#ECF0F1"    # Light Grey
+# navbar-border-col: "#BDC3C7"  # Silver
+# page-col: "#FDFEFE"           # Almost White
+# text-col: "#2C3E50"           # Dark Blue-Grey
+# link-col: "#3498DB"           # Bright Blue
+# hover-col: "#2980B9"          # Deep Blue
+# footer-col: "#2C3E50"         # Dark Blue-Grey
+# footer-text-col: "#ECF0F1"    # Light Grey
+# footer-link-col: "#3498DB"    # Bright Blue
 
+navbar-col: "#4CAF50"         # Medium Green
+navbar-text-col: "#FFFFFF"    # White
+navbar-border-col: "#81C784"  # Light Green
+page-col: "#F0FFF0"           # Honeydew
+text-col: "#2E7D32"           # Dark Green
+link-col: "#388E3C"           # Vibrant Green
+hover-col: "#1B5E20"          # Deep Green
+footer-col: "#4CAF50"         # Medium Green
+footer-text-col: "#FFFFFF"    # White
+footer-link-col: "#388E3C"    # Vibrant Green
 
-#336699#DAF7A6#FFC300#FF5733#C70039#900C3F
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
