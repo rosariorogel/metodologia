@@ -133,7 +133,8 @@ link-col: "#388E3C"           # Vibrant Green
 hover-col: "#1B5E20"          # Deep Green
 footer-col: "#4CAF50"         # Medium Green
 footer-text-col: "#FFFFFF"    # White
-footer-link-col: "#388E3C"    # Vibrant Green
+footer-link-col: "#FFEB3B"    # Bright Yellow-Green
+
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
