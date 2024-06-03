@@ -1,6 +1,6 @@
-# Repositorio del sitio Luhmann Web
+# Repositorio del sitio Metodología a tu alcance
 
-Teoría Social en Web es un proyecto de pedagogía digital desarrollado por Rosario Rogel, profesora de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México.
+**Metodología a tu Alncance** es un proyecto de pedagogía digital desarrollado por Rosario Rogel, profesora de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México.
 
 Desarrollado a partir de Beatutiful Jekyll:
 
