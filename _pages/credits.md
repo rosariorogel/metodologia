@@ -6,21 +6,21 @@ permalink: credits
 ---
 
 
-## Desarrollo de contenidos, estudiantes de pregrado
+### Desarrollo de contenidos, estudiantes de pregrado
 
 <img src="{{ site.baseurl }}/assets/img/IMAGE_FILENAME_HERE.jpg" style="float:left;width:200px;padding-right:20px;">
 **NAME** Short Description/Bio.
 
 <div style="clear: both;"></div>
 
-## Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
+### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
 <img src="{{ site.baseurl }}/assets/img/IMAGE_FILENAME_HERE.jpg" style="float:left;width:200px;padding-right:20px;">
 **NAME** Short Description/Bio.
 
 <div style="clear: both;"></div>
 
-## Coordinación
+### Coordinación
 
 <img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
 **Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales.
