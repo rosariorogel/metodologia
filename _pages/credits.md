@@ -27,6 +27,7 @@ permalink: credits
 
 ORCID: [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
 Twitter: [@rosariorogel](https://twitter.com/rosariorogel)
+[Página web personal](https://rosariorogel.net/)
 
 <div style="clear: both;"></div>
 
