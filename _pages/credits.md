@@ -43,3 +43,9 @@ Twitter: [@blros](https://twitter.com/blros)
 **Andrea Villa-Mateos** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Twiter: [@Andrea89789258](https://x.com/Andrea89789258?t=kN-DlY7g-z57Io-uFZGbmg&s=09)
+
+
+<img src="{{ site.baseurl }}/assets/img/FotoTeresa.jpg" style="float:left;width:200px;padding-right:20px;">
+**Teresa Pueblas** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Instagram: [@tere_pl](https://www.instagram.com/tere_pl?igsh=YTRrZGYyZTh0Y2Fx)
