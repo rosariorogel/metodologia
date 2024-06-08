@@ -33,6 +33,14 @@ Instagram: [@tere_pl](https://www.instagram.com/tere_pl?igsh=YTRrZGYyZTh0Y2Fx)
 
 Instagram: [@dxrxkz](https://www.instagram.com/dxrxkz/)
 
+<img src="{{ site.baseurl }}/assets/img/Ramses Santos.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Ramses Santos** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+Instagram:https://www.instagram.com/rams_01004?igsh=MXI4YjQ5aG1pdXM2aA%3D%3D&utm_source=qr
+
+
+
+
+
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
 <img src="{{ site.baseurl }}/assets/img/IMAGE_FILENAME_HERE.jpg" style="float:left;width:200px;padding-right:20px;">
