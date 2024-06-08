@@ -60,6 +60,8 @@ Instagram: [@nan_llen](https://www.instagram.com/nan_llen?igsh=MXFrNDJmMTRlbGY3e
 <img src="{{ site.baseurl }}/assets/img/FotoPaola.jpg" style="float:left;width:200px;padding-right:20px;">
 **Paola Altamirano** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
+Instagram: [@paola158_digitalwriter](https://www.instagram.com/paola158_digitalwriter?igsh=a2p1dDloazV3Ym00)
+
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
 <img src="{{ site.baseurl }}/assets/img/IMAGE_FILENAME_HERE.jpg" style="float:left;width:200px;padding-right:20px;">
