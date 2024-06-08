@@ -122,8 +122,9 @@ Instagram: [@ale.x_turner](https://www.instagram.com/ale.x_turner/)
 
 Instagram: [@ivana.sanabriaa](https://www.instagram.com/ivana.sanabriaa/)
 
-<img src="{{ site.baseurl }}/assets/img/FotoDiego.jpg" style="float:left;width:200px;padding-right:20px;">
-**Diego Gonzalez** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+<[img src="{{ site.baseurl }}/assets/img/FotoDiego.jpg" style="float:left;width:200px;padding-right:20px;"](https://github.com/rosariorogel/methodology/blob/main/assets/img/FotoDiego.jpg)>
+**Diego Gonzalez** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx)
+
 Instagram: @diiego_reyesss
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
