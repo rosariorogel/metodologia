@@ -39,12 +39,6 @@ ORCID: [0000-0002-2973-8901](https://orcid.org/0000-0002-2973-8901)
 Twitter: [@blros](https://twitter.com/blros)
 
 
-<img src="{{ site.baseurl }}/assets/img/FotoAndrea.jpg" style="float:left;width:200px;padding-right:20px;">
-**Andrea Villa-Mateos** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
-
-Twiter: [@Andrea89789258](https://x.com/Andrea89789258?t=kN-DlY7g-z57Io-uFZGbmg&s=09)
-
-
 <img src="{{ site.baseurl }}/assets/img/FotoFatima.jng" style="float:left;width:200px;padding-right:20px;">
 **Fátima Pantoja** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
