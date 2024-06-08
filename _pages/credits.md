@@ -105,17 +105,7 @@ Twitter: [@rosariorogel](https://twitter.com/rosariorogel)
 
 ORCID: [0000-0002-2973-8901](https://orcid.org/0000-0002-2973-8901)
 Twitter: [@blros](https://twitter.com/blros)
-
-
-<img src="{{ site.baseurl }}/assets/img/FotoFatima.jng" style="float:left;width:200px;padding-right:20px;">
-**Fátima Pantoja** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
-
-Instagram: [@pántojafaty](https://www.instagram.com/pantojafaty?igsh=MWd3c3BjZGYwamQ4dw===)
-
-<img src="{{ site.baseurl }}/assets/img/FotoFernanda.jpg" style="float:left;width:200px;padding-right:20px;">
-**Fernanda De Jesús** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
-
-Instagram: [@fernandade110](https://www.instagram.com/fernandade110?igsh=MW53MWY3ZjBxZTJtag==) 
+ 
 
 
 
