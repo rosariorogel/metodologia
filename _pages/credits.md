@@ -13,6 +13,12 @@ permalink: credits
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoAndrea.jpg" style="float:left;width:200px;padding-right:20px;">
+**Andrea Villa-Mateos** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Twiter: [@Andrea89789258](https://x.com/Andrea89789258?t=kN-DlY7g-z57Io-uFZGbmg&s=09)
+
+
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
 <img src="{{ site.baseurl }}/assets/img/IMAGE_FILENAME_HERE.jpg" style="float:left;width:200px;padding-right:20px;">
