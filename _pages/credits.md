@@ -54,7 +54,8 @@ Instagram: [@lupitaromm](https://www.instagram.com/lupitaromm?igsh=dHV4c3ZjcnBsO
 
 Instagram: [@nan_llen](https://www.instagram.com/nan_llen?igsh=MXFrNDJmMTRlbGY3eQ==)
 
-
+<img src="{{ site.baseurl }}/assets/img/FotoEfren.jpg" style="float:left;width:200px;padding-right:20px;">
+**Efren Yair** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
