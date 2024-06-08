@@ -126,7 +126,7 @@ Instagram: [@ivana.sanabriaa](https://www.instagram.com/ivana.sanabriaa/)
 
 **Diego Gonzalez** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx)
 
-Instagram: @diiego_reyesss
+Instagram: [@diiego_reyesss](https://www.instagram.com/diiego_reyesss?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
