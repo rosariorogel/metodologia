@@ -86,7 +86,10 @@ Instagram: [@dannaanderes](https://www.instagram.com/dannaanderes/?igsh=d213N3J4
 
 Instagram: [@fernandade110](https://www.instagram.com/fernandade110?utm_source=qr&igsh=MW53MWY3ZjBxZTJtag==) 
 
+<img src="{{ site.baseurl }}/assets/img/FotoEmilio.jpg" style="float:left;width:200px;padding-right:20px;">
+**Emilio Diaz Pereira** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
+Instagram: [@chu_tins](https://www.instagram.com/chu_tins/)
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
