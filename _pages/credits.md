@@ -68,6 +68,10 @@ Instagram: [@pantojafaty](https://www.instagram.com/pantojafaty?igsh=MWd3c3BjZGY
 **Paola Altamirano** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@paola158_digitalwriter](https://www.instagram.com/paola158_digitalwriter?igsh=a2p1dDloazV3Ym00)
+<img src="{{ site.baseurl }}/assets/img/FotoGerardo.jpg" style="float:left;width:200px;padding-right:20px;">
+**Gerardo Gael Bernal-Sandoval** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Instagram: [https://www.instagram.com/gael.mp3/) 
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
@@ -104,6 +108,9 @@ Instagram: [@pántojafaty](https://www.instagram.com/pantojafaty?igsh=MWd3c3BjZG
 **Fernanda De Jesús** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@fernandade110](https://www.instagram.com/fernandade110?igsh=MW53MWY3ZjBxZTJtag==) 
+
+
+
 
 
 
