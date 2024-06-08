@@ -61,3 +61,8 @@ Instagram: [@tere_pl](https://www.instagram.com/tere_pl?igsh=YTRrZGYyZTh0Y2Fx)
 **Derek Rosales** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@dxrxkz](https://www.instagram.com/dxrxkz/)
+
+<img src="{{ site.baseurl }}/assets/img/FotoFernanda.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Fernanda Sanchez** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Instagram: [@fer_samrt](https://www.instagram.com/fer_samrt?igsh=bWp2NWFjeTF4ZWtk)
