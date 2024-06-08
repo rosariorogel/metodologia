@@ -81,6 +81,13 @@ Instagram: [https://www.instagram.com/gael.mp3/)
 
 Instagram: [@dannaanderes](https://www.instagram.com/dannaanderes/?igsh=d213N3J4OWY0c2Ji)
 
+<img src="{{ site.baseurl }}/assets/img/FotoFernanda.jpg" style="float:left;width:200px;padding-right:20px;">
+**Fernanda De Jesus** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Instagram: [@fernandade110](https://www.instagram.com/fernandade110?utm_source=qr&igsh=MW53MWY3ZjBxZTJtag==) 
+
+
+
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
 <img src="{{ site.baseurl }}/assets/img/IMAGE_FILENAME_HERE.jpg" style="float:left;width:200px;padding-right:20px;">
