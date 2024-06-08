@@ -107,6 +107,12 @@ Instagram: [@PaolaLP](https://www.instagram.com/paolalazaropastor/)
 
 Instagram: [@bubbly_fabi](https://www.instagram.com/bubbly_fabi/)
 
+<img src="{{ site.baseurl }}/assets/img/FotoAlex.jpg" style="float:left;width:200px;padding-right:20px;">
+
+**Alex Guerrero Torres** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). 
+
+Instagram: [@ale.x_turner](https://www.instagram.com/ale.x_turner/)
+
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
 <img src="{{ site.baseurl }}/assets/img/IMAGE_FILENAME_HERE.jpg" style="float:left;width:200px;padding-right:20px;">
