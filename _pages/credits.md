@@ -28,6 +28,10 @@ Instagram: [@fer_samrt](https://www.instagram.com/fer_samrt?igsh=bWp2NWFjeTF4ZWt
 
 Instagram: [@tere_pl](https://www.instagram.com/tere_pl?igsh=YTRrZGYyZTh0Y2Fx)
 
+<img src="{{ site.baseurl }}/assets/img/FotoDerek.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
+**Derek Rosales** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Instagram: [@dxrxkz](https://www.instagram.com/dxrxkz/)
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
@@ -61,9 +65,6 @@ Twitter: [@blros](https://twitter.com/blros)
 Instagram: [@pántojafaty](https://www.instagram.com/pantojafaty?igsh=MWd3c3BjZGYwamQ4dw===)
 
 
-<img src="{{ site.baseurl }}/assets/img/FotoDerek.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
-**Derek Rosales** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
-Instagram: [@dxrxkz](https://www.instagram.com/dxrxkz/)
 
 
