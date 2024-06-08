@@ -33,7 +33,7 @@ Instagram: [@tere_pl](https://www.instagram.com/tere_pl?igsh=YTRrZGYyZTh0Y2Fx)
 
 Instagram: [@dxrxkz](https://www.instagram.com/dxrxkz/)
 
-<img src="{{ site.baseurl }}/assets/img/FotoDerek.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/Fotoanapau.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ana Paula Alanis** Estudiante de la Licenciatura en Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@paualaniss](https://www.instagram.com/paualaniss)
