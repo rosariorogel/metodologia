@@ -57,6 +57,13 @@ Instagram: [@nan_llen](https://www.instagram.com/nan_llen?igsh=MXFrNDJmMTRlbGY3e
 <img src="{{ site.baseurl }}/assets/img/FotoEfren.jpg" style="float:left;width:200px;padding-right:20px;">
 **Efren Yair** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
+
+<img src="{{ site.baseurl }}/assets/img/FotoFatima.png" style="float:left;width:200px;padding-right:20px;">
+**Fatima Pantoja** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Instagram: [@pantojafaty](https://www.instagram.com/pantojafaty?igsh=MWd3c3BjZGYwamQ4dw==)
+
+
 <img src="{{ site.baseurl }}/assets/img/FotoPaola.jpg" style="float:left;width:200px;padding-right:20px;">
 **Paola Altamirano** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
