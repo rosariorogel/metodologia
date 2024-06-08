@@ -75,6 +75,12 @@ Instagram: [@paola158_digitalwriter](https://www.instagram.com/paola158_digitalw
 
 Instagram: [https://www.instagram.com/gael.mp3/) 
 
+
+<img src="{{ site.baseurl }}/assets/img/FotoDanna.jpg" style="float:left;width:200px;padding-right:20px;">
+**Danna Anderes** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Instagram: [@dannaanderes](https://www.instagram.com/dannaanderes/?igsh=d213N3J4OWY0c2Ji)
+
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
 <img src="{{ site.baseurl }}/assets/img/IMAGE_FILENAME_HERE.jpg" style="float:left;width:200px;padding-right:20px;">
