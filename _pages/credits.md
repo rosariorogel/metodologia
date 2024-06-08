@@ -18,6 +18,11 @@ permalink: credits
 
 Twiter: [@Andrea89789258](https://x.com/Andrea89789258?t=kN-DlY7g-z57Io-uFZGbmg&s=09)
 
+<img src="{{ site.baseurl }}/assets/img/FotoFernanda.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Fernanda Sanchez** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Instagram: [@fer_samrt](https://www.instagram.com/fer_samrt?igsh=bWp2NWFjeTF4ZWtk)
+
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
@@ -62,7 +67,4 @@ Instagram: [@tere_pl](https://www.instagram.com/tere_pl?igsh=YTRrZGYyZTh0Y2Fx)
 
 Instagram: [@dxrxkz](https://www.instagram.com/dxrxkz/)
 
-<img src="{{ site.baseurl }}/assets/img/FotoFernanda.jpeg" style="float:left;width:200px;padding-right:20px;">
-**Fernanda Sanchez** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
-Instagram: [@fer_samrt](https://www.instagram.com/fer_samrt?igsh=bWp2NWFjeTF4ZWtk)
