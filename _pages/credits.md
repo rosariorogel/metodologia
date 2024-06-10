@@ -7,8 +7,7 @@ permalink: credits
 
 
 ### Desarrollo de contenidos, estudiantes de pregrado
-
-<img src="{{ site.baseurl }}/assets/img/Fotoanapau.jpg" style="float:left;width:200px;padding-right:20px;">
+![]<img src="{{ site.baseurl }}/assets/img/Fotoanapau.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ana Paula Alanis-Sámano** Estudiante de la carrera en comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@paualaniss](https://www.instagram.com/paualaniss)
