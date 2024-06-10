@@ -63,7 +63,7 @@ Instagram: [@vinsmok_mario](https://www.instagram.com/vinsmok_mario/)
 
 <img src="{{ site.baseurl }}/assets/img/FotoValentina.jpg" style="float:left;width:200px;padding-right:20px;">      **Valentina Martínez** Estudiante de la carrera de comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/).
 
-Instagram: (@nan_llen)[https://www.instagram.com/nan_llen?igsh=MXFrNDJmMTRlbGY3eQ==]
+Instagram: (@nan_llen)[https://www.instagram.com/nan_llen/]
 
 <div style="clear: both;"></div>
 
