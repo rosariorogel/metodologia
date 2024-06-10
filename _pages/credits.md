@@ -131,6 +131,7 @@ Instagram: [@diiego_reyesss](https://www.instagram.com/diiego_reyesss?utm_source
 **Dareysa Lopez-Gonzalez** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx)
 
 Instagram: https://www.instagram.com/daregnlz?igsh=MWN2MTNxdDAycXRnOQ==
+
 assets/img/FotoDareysa.jpeg
 
 
