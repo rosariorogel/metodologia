@@ -5,9 +5,27 @@ subtitle: Las personas que contribuyen en este sitio
 permalink: credits
 ---
 
+### Coordinación
+
+<img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
+**Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales.
+
+ORCID: [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
+Twitter: [@rosariorogel](https://twitter.com/rosariorogel)
+
+[Página web personal](https://rosariorogel.net/)
+
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/FotoBrianRosenblum.jpg" style="float:left;width:200px;padding-right:20px;">
+**Brian Rosenblum** Digital Humanities Librarian, University of Kansas Libraries and Co-Director, Institute for Digital Research in the Humanities.
+
+ORCID: [0000-0002-2973-8901](https://orcid.org/0000-0002-2973-8901)
+Twitter: [@blros](https://twitter.com/blros)
 
 ### Desarrollo de contenidos, estudiantes de pregrado
-![]<img src="{{ site.baseurl }}/assets/img/Fotoanapau.jpg" style="float:left;width:200px;padding-right:20px;">
+
+<img src="{{ site.baseurl }}/assets/img/fotoanapau.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ana Paula Alanis-Sámano** Estudiante de la carrera en comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@paualaniss](https://www.instagram.com/paualaniss)
@@ -61,7 +79,7 @@ Instagram: [@fernandade110](https://www.instagram.com/fernandade110?utm_source=q
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Foto Clara.jpeg" style="float:left;width:200px;padding-right:20px;"> 
+<img src="{{ site.baseurl }}/assets/img/Foto Clara" style="float:left;width:200px;padding-right:20px;"> 
 **Alma De La Cruz-Mejía** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx)
 
 Instagram: [@clar_mj](https://www.instagram.com/clar_mj?igsh=MXA2MHAwdmR1ZXF0NA==)
@@ -130,7 +148,7 @@ Instagram: [@tere_pl](https://www.instagram.com/tere_pl?igsh=YTRrZGYyZTh0Y2Fx)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/fotofabiola.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/fotofabiola.JPG" style="float:left;width:200px;padding-right:20px;">
 **Fabiola Pulido-Márquez** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). 
 
 Instagram: [@bubbly_fabi](https://www.instagram.com/bubbly_fabi/)
@@ -158,7 +176,7 @@ Instagram: [@dxrxkz](https://www.instagram.com/dxrxkz/)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoIvana.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoIvana.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ivana Sanabria-Salazar** Estudiante de la Licenciatura en comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). 
 
 Instagram: [@ivana.sanabriaa](https://www.instagram.com/ivana.sanabriaa/)
@@ -183,23 +201,3 @@ Instagram: [@rams_01004](https://www.instagram.com/rams_01004?igsh=MXI4YjQ5aG1pd
 **Andrea Villa-Mateos** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 X: [@Andrea89789258](https://x.com/Andrea89789258?t=kN-DlY7g-z57Io-uFZGbmg&s=09)
-
-<div style="clear: both;"></div>
-
-### Coordinación
-
-<img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
-**Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Líneas de investigación: Ciencia Abierta, Comunicación Cientifica y Teoría de Sistemas Sociales.
-
-ORCID: [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
-Twitter: [@rosariorogel](https://twitter.com/rosariorogel)
-
-[Página web personal](https://rosariorogel.net/)
-
-<div style="clear: both;"></div>
-
-<img src="{{ site.baseurl }}/assets/img/FotoBrianRosenblum.jpg" style="float:left;width:200px;padding-right:20px;">
-**Brian Rosenblum** Digital Humanities Librarian, University of Kansas Libraries and Co-Director, Institute for Digital Research in the Humanities.
-
-ORCID: [0000-0002-2973-8901](https://orcid.org/0000-0002-2973-8901)
-Twitter: [@blros](https://twitter.com/blros)
