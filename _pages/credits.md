@@ -134,7 +134,7 @@ Instagram: [@diiego_reyesss](https://www.instagram.com/diiego_reyesss?utm_source
 Instagram: https://www.instagram.com/daregnlz?igsh=MWN2MTNxdDAycXRnOQ==
 
 
-assets/img/FotoDareysa.jpeg
+
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
