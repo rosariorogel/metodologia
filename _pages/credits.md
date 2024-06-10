@@ -23,6 +23,8 @@ Twitter: [@rosariorogel](https://twitter.com/rosariorogel)
 ORCID: [0000-0002-2973-8901](https://orcid.org/0000-0002-2973-8901)
 Twitter: [@blros](https://twitter.com/blros)
 
+<div style="clear: both;"></div>
+
 ### Desarrollo de contenidos, estudiantes de pregrado
 
 <img src="{{ site.baseurl }}/assets/img/fotoanapau.jpg" style="float:left;width:200px;padding-right:20px;">
