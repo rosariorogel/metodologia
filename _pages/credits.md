@@ -143,7 +143,7 @@ Instagram: [@clar_mj](https://www.instagram.com/clar_mj?igsh=MXA2MHAwdmR1ZXF0NA=
 
 Instagram: [@mich_1968](https://www.instagram.com/mich_1968/)
 
-site/assets/img/FotoAxel.jpg
+<img src="{{ site.baseurl }}/assets/img/FotoAxel.jpg" style="float:left;width:200px;padding-right:20px;">
 
 **AxelRomero** Estudiante de la carrera de comunicación en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autónoma del Estado de México] (https://www.uaemex.mx).
 
