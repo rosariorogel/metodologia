@@ -57,6 +57,8 @@ Instagram: [@rams_01004](https://www.instagram.com/rams_01004?igsh=MXI4YjQ5aG1pd
 **María Cruz** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). Áreas de interés: Comunicación Social, política y enseñanza de la educación. 
 Instagram: [@lupitaromm](https://www.instagram.com/lupitaromm?igsh=dHV4c3ZjcnBsOHdv)
 
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoAlberto.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
 **Mario Rojas** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 Instagram: [@vinsmok_mario](https://www.instagram.com/vinsmok_mario/)
