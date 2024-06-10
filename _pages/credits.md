@@ -157,7 +157,7 @@ Instagram: [@mich_1968](https://www.instagram.com/mich_1968/)
 
 **AxelRomero** Estudiante de la carrera de comunicación en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autónoma del Estado de México] (https://www.uaemex.mx).
 
-Instagram: https://www.instagram.com/el_chelovsky
+Instagram: [el_chelovsky](https://www.instagram.com/el_chelovsky)
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
