@@ -50,7 +50,8 @@ Instagram: [@paualaniss](https://www.instagram.com/paualaniss)
 
 <img src="{{ site.baseurl }}/assets/img/Ramses Santos.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Ramses Santos** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
-Instagram:https://www.instagram.com/rams_01004?igsh=MXI4YjQ5aG1pdXM2aA%3D%3D&utm_source=qr
+
+Instagram: [@rams_01004](https://www.instagram.com/rams_01004?igsh=MXI4YjQ5aG1pdXM2aA%3D%3D&utm_source=qr)
 
 <img src="{{ site.baseurl }}/assets/img/FotoMariaGuadalupe.jpg" style="float:left;width:200px;padding-right:20px;">
 **María Cruz** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
