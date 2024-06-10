@@ -137,6 +137,11 @@ Instagram: https://www.instagram.com/daregnlz?igsh=MWN2MTNxdDAycXRnOQ==
 
 Instagram: [@clar_mj](https://www.instagram.com/clar_mj?igsh=MXA2MHAwdmR1ZXF0NA==)
 
+<img src="{{ site.baseurl }}/assets/img/FotoMichelle.jpg" style="float:left;width:200px;padding-right:20px;">
+
+**Michelle Camargo** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). 
+
+Instagram: [@mich_1968](https://www.instagram.com/mich_1968/)
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
