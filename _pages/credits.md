@@ -1,4 +1,4 @@
- _site/assets/img/FotoChristian.jpg
+site/assets/img/FotoChristian.jpg
 **Christian Galván** Estudiante de la carrera de comunicación en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autónoma del Estado de México] (https://www.uaemex.mx).
 Instagram: https://www.instagram.com/christian_cdt13/
 
