@@ -54,8 +54,7 @@ Instagram: [@paualaniss](https://www.instagram.com/paualaniss)
 Instagram: [@rams_01004](https://www.instagram.com/rams_01004?igsh=MXI4YjQ5aG1pdXM2aA%3D%3D&utm_source=qr)
 
 <img src="{{ site.baseurl }}/assets/img/FotoMariaGuadalupe.jpg" style="float:left;width:200px;padding-right:20px;">
-**María Cruz** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
-
+**María Cruz** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). Áreas de interés: Comunicación Social, política y enseñanza de la educación. 
 Instagram: [@lupitaromm](https://www.instagram.com/lupitaromm?igsh=dHV4c3ZjcnBsOHdv)
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlberto.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
