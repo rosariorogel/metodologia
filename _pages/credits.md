@@ -128,12 +128,13 @@ Instagram: [@ivana.sanabriaa](https://www.instagram.com/ivana.sanabriaa/)
 
 Instagram: [@diiego_reyesss](https://www.instagram.com/diiego_reyesss?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
+<img src="{{ site.baseurl }}/assets/img/FotoDareysa.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Dareysa Lopez-Gonzalez** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx)
 
 Instagram: https://www.instagram.com/daregnlz?igsh=MWN2MTNxdDAycXRnOQ==
 
 
-
+assets/img/FotoDareysa.jpeg
 
 ### Apoyo en el desarrollo de contenidos, estudiantes de Doctorado
 
