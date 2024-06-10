@@ -122,7 +122,7 @@ link-col: "#FF6347"           # Tomato
 hover-col: "#D32F2F"          # Red
 footer-col: "#B22222"         # Firebrick
 footer-text-col: "#FFFFFF"    # White
-footer-link-col: "#FFEB3B"    # Bright Yellow-Green
+footer-link-col: "#00BFFF"    # Deep Sky Blue
 
 
 # navbar-col: "#4CAF50"         # Medium Green
