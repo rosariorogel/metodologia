@@ -11,7 +11,8 @@ permalink: credits
 <img src="{{ site.baseurl }}/assets/img/FotoChristian.jpg" style="float:left;width:200px;padding-right:20px;">
 **Christian Galván** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: 
 
-Instagram: (Christian_cdt13)[https://www.instagram.com/christian_cdt13/]
+Instagram: [Christian_cdt13](https://www.instagram.com/christian_cdt13/)
+
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAndrea.jpg" style="float:left;width:200px;padding-right:20px;">
