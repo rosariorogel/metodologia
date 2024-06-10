@@ -1,6 +1,6 @@
-# Repositorio del sitio Metodología a tu alcance
+# Repositorio del sitio Metodología de la Investigación Social
 
-**Metodología a tu Alncance** es un proyecto de pedagogía digital desarrollado por Rosario Rogel, profesora de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México.
+**Metodología de la Investigación Social: recursos, guías y herramientas digitales** es un proyecto de pedagogía digital desarrollado por Rosario Rogel, profesora de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México, en colaboración con estudiantes de la carrera en Comunciación. 
 
 Desarrollado a partir de Beatutiful Jekyll:
 
