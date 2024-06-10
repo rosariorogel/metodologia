@@ -58,11 +58,14 @@ Instagram: [@lupitaromm](https://www.instagram.com/lupitaromm?igsh=dHV4c3ZjcnBsO
 **Mario Rojas** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 Instagram: [@vinsmok_mario](https://www.instagram.com/vinsmok_mario/)
 
+<div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoValentina.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
 **Valentina Martinez** Estudiante de la licenciatura en Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
-Instagram: [@nan_llen](https://www.instagram.com/nan_llen?igsh=MXFrNDJmMTRlbGY3eQ==)
+Instagram: (@nan_llen)[https://www.instagram.com/nan_llen?igsh=MXFrNDJmMTRlbGY3eQ==]
+
+<div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoEfren.jpg" style="float:left;width:200px;padding-right:20px;">
 **Efren Yair** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
