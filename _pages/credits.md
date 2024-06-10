@@ -27,6 +27,7 @@ Twiter: [@Andrea89789258](https://x.com/Andrea89789258?t=kN-DlY7g-z57Io-uFZGbmg&
 
 Instagram: [@fer_samrt](https://www.instagram.com/fer_samrt?igsh=bWp2NWFjeTF4ZWtk)
 
+<div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/fotoTeresa.jpg" style="float:left;width:200px;padding-right:20px;">
 **Teresa Pueblas** Estudiante de la carrera de Comunicación de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
