@@ -88,7 +88,7 @@ Instagram: [@clar_mj](https://www.instagram.com/clar_mj?igsh=MXA2MHAwdmR1ZXF0NA=
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoEmilio.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoEmilio.png" style="float:left;width:200px;padding-right:20px;">
 **Emilio Díaz-Pereira** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@chu_tins](https://www.instagram.com/chu_tins/)
