@@ -27,6 +27,13 @@ Twitter: [@blros](https://twitter.com/blros)
 
 ### Desarrollo de contenidos, estudiantes de pregrado
 
+<img src="{{ site.baseurl }}/assets/img/FotoElizabeth.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Elizabeth de Jesus Acuña Medina** Estudiante de la carrera en comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+
+Instagram: [@lizzy_chocochip](https://www.instagram.com/lizzy_chocochip/)
+
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/FotoAnapau.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ana Paula Alanis-Sámano** Estudiante de la carrera en comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
