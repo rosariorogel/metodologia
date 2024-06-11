@@ -44,7 +44,7 @@ Instagram: [@paola158_digitalwriter](https://www.instagram.com/paola158_digitalw
 <img src="{{ site.baseurl }}/assets/img/FotoDanna.jpg" style="float:left;width:200px;padding-right:20px;">
 **Danna Anderes-Rosas** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
-Instagram: [@dannaanderes](https://www.instagram.com/dannaanderes/?igsh=d213N3J4OWY0c2Ji)
+Instagram: [dannaanderes](https://www.instagram.com/dannaanderes/?igsh=d213N3J4OWY0c2Ji)
 
 <div style="clear: both;"></div>
 
