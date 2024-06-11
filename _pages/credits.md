@@ -74,8 +74,8 @@ Instagram: [@lupitaromm](https://www.instagram.com/lupitaromm?igsh=dHV4c3ZjcnBsO
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoFernanda.jpg" style="float:left;width:200px;padding-right:20px;">
-**Fernanda De Jesus-Nicolás** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
+<img src="{{ site.baseurl }}/assets/img/FotoFernandadejesus.jpg" style="float:left;width:200px;padding-right:20px;">
+**Fernanda De Jesus-Nicolás** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). Áreas de interés: Fotografía, lectura.
 
 Instagram: [@fernandade110](https://www.instagram.com/fernandade110?utm_source=qr&igsh=MW53MWY3ZjBxZTJtag==)
 
