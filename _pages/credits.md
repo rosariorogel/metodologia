@@ -27,7 +27,7 @@ Twitter: [@blros](https://twitter.com/blros)
 
 ### Desarrollo de contenidos, estudiantes de pregrado
 
-<img src="{{ site.baseurl }}/assets/img/fotoanapau.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAnapau.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ana Paula Alanis-Sámano** Estudiante de la carrera en comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@paualaniss](https://www.instagram.com/paualaniss)
@@ -60,7 +60,7 @@ Instagram: [https://www.instagram.com/gael.mp3/)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FOTOMICHELLE.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoMichelle.jpg" style="float:left;width:200px;padding-right:20px;">
 **Michelle Camargo-González** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). 
 
 Instagram: [@mich_1968](https://www.instagram.com/mich_1968/)
@@ -81,7 +81,7 @@ Instagram: [@fernandade110](https://www.instagram.com/fernandade110?utm_source=q
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Foto Clara" style="float:left;width:200px;padding-right:20px;"> 
+<img src="{{ site.baseurl }}/assets/img/FotoClara.jpg" style="float:left;width:200px;padding-right:20px;"> 
 **Alma De La Cruz-Mejía** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx)
 
 Instagram: [@clar_mj](https://www.instagram.com/clar_mj?igsh=MXA2MHAwdmR1ZXF0NA==)
@@ -136,42 +136,42 @@ Instagram: [@nan_llen](https://www.instagram.com/nan_llen/)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoFatima.png" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoFatima.jpg" style="float:left;width:200px;padding-right:20px;">
 **Fátima Pantoja-Gallarza** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@pantojafaty](https://www.instagram.com/pantojafaty?igsh=MWd3c3BjZGYwamQ4dw==)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/fotoTeresa.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoTeresa.jpg" style="float:left;width:200px;padding-right:20px;">
 **Teresa Pueblas-Lagunas** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@tere_pl](https://www.instagram.com/tere_pl?igsh=YTRrZGYyZTh0Y2Fx)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/fotofabiola.JPG" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoFabiola.jpg" style="float:left;width:200px;padding-right:20px;">
 **Fabiola Pulido-Márquez** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). 
 
 Instagram: [@bubbly_fabi](https://www.instagram.com/bubbly_fabi/)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAlberto.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAlberto.jpg" style="float:left;width:200px;padding-right:20px;">
 **Mario Rojas-Camacho** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@vinsmok_mario](https://www.instagram.com/vinsmok_mario/)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAxel.jpg.JPG" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAxel.jpg" style="float:left;width:200px;padding-right:20px;">
 **Axel Romero-Álvarez** Estudiante de la carrera de comunicación en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx)
 
 Instagram: [el_chelovsky](https://www.instagram.com/el_chelovsky)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoDerek.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoDerek.jpg" style="float:left;width:200px;padding-right:20px;">
 **Derek Rosales-Nava** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@dxrxkz](https://www.instagram.com/dxrxkz/)
@@ -185,14 +185,14 @@ Instagram: [@ivana.sanabriaa](https://www.instagram.com/ivana.sanabriaa/)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoFernanda.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoFernanda.jpg" style="float:left;width:200px;padding-right:20px;">
 **Fernanda Sánchez-Martínez** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@fer_samrt](https://www.instagram.com/fer_samrt?igsh=bWp2NWFjeTF4ZWtk)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/Ramses Santos.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoRamses.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Ramses Santos-Mendoza** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@rams_01004](https://www.instagram.com/rams_01004?igsh=MXI4YjQ5aG1pdXM2aA%3D%3D&utm_source=qr)
