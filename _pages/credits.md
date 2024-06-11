@@ -27,7 +27,7 @@ Twitter: [@blros](https://twitter.com/blros)
 
 ### Desarrollo de contenidos, estudiantes de pregrado
 
-<img src="{{ site.baseurl }}/assets/img/FotoElizabeth.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoEli.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Elizabeth de Jesus Acuña Medina** Estudiante de la carrera en comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
 Instagram: [@lizzy_chocochip](https://www.instagram.com/lizzy_chocochip/)
