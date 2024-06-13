@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bibliografía
-subtitle: Metodologia de la Investgación Social
+subtitle: Metodología de la Investigación Social
 permalink: bibliography
 ---
 
