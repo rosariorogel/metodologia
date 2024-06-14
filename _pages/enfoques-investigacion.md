@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enfoques
-subtitle: Enfoques de investigación cuantitativos, cualitivos y mixtos
+subtitle: Enfoques de investigación cuantitativos, cualitativos y mixtos
 permalink: enfoques-investigacion
 ---
 
