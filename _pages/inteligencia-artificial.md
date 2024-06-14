@@ -11,7 +11,7 @@ La Inteligencia Artificial es la disciplina científica y tecnológica cuyo obje
 
 # A través del tiempo
 
-En este primer apartado, se proporciona información acerca de una parte del desarrollo de la inteligencia artificial, con el propósito de dar un contexto histórico sobre cómo hemos logrado llegar hasta el avance que hoy se tiene de esta disciplina científica, mismo proceso se visualiza a través de una línea del tiempo, elaborada con la plataforma de código abierto [TimelineJS (https://timeline.knightlab.com/#preview-embed).
+En este primer apartado, se proporciona información acerca de una parte del desarrollo de la inteligencia artificial, con el propósito de dar un contexto histórico sobre cómo hemos logrado llegar hasta el avance que hoy se tiene de esta disciplina científica, mismo proceso se visualiza a través de una línea del tiempo, elaborada con la plataforma de código abierto [TimelineJS](https://timeline.knightlab.com/#preview-embed).
 
 # Linea del tiempo de la Inteligencia Artificial
 
