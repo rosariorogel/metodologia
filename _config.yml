@@ -10,7 +10,7 @@ url: https://rosariorogel.net
 basurl: /newsite
 
 # Name of website
-title: "Methodology Course"
+title: "Metodología de la Investigación Social"
 
 # Your name to show in the footer
 author: Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México
@@ -66,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Class website devoted to Juan Pérez
+rss-description: Website de la clase Metodología de la Investigación Social
 
 # --- General options --- #
 
@@ -79,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://www.politicas-sociales.com"
+url-pretty: "https://cienciaspoliticasysociales.uaemex.mx/"
 
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
