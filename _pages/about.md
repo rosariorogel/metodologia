@@ -32,9 +32,3 @@ El equipo detrás de este proyecto está abierto a comentarios, dudas y sugerenc
 Este sitio es un [Recurso Educativo Abierto](https://es.wikipedia.org/wiki/Recursos_educativos_abiertos); por lo tanto, todos los contenidos tienen una licencia abierta [CC-BY 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es), que permite la redistribución, modificación, reuso y adaptación de toda la información disponible, siempre que se mantenga la atribución al proyecto.
 
 **¡Esperamos que este sitio te sea de utilidad!**
-
-<div style="clear:both"></div>
-
-<img src="{{ site.baseurl }}/assets/img/Luhmann.jpeg" style="float: left; padding-right: 20px;"> **Niklas Luhmann** (1927-1998) sociólogo alemán, reconocido por la formulación de la Teoría General de Sistemas Sociales.
-
-<div style="clear:both"></div>
