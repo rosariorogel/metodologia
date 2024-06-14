@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inteligencia Artificial en Investigación
-subtitle: subtitular
+subtitle: Historia, uso y ventajas
 permalink: inteligencia-artificial
 ---
 
