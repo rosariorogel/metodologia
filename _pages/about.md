@@ -26,3 +26,15 @@ En este sitio, los usuarios encontrarán una variedad de proyectos que abarcan d
 Este proyecto destaca la importancia de las estrategias de Pedagogía Digital, permitiendo a los alumnos aprender de manera práctica mientras colaboran en el diseño y desarrollo de contenido educativo. Todos los recursos y entradas en este sitio están en constante actualización y construcción, con el fin de promover el análisis, el diálogo y el intercambio de ideas para una comprensión más profunda de las metodologías en ciencias sociales.
 
 El equipo detrás de este proyecto está abierto a comentarios, dudas y sugerencias de mejora, buscando siempre enriquecer y actualizar los contenidos ofrecidos. A través de este sitio, se busca también reconocer la labor de sistematización y difusión de metodologías de investigación desde la academia latinoamericana, destacando su influencia y relevancia en el campo global de las ciencias sociales.
+
+## Este es un Recurso Educativo Abierto
+
+Este sitio es un [Recurso Educativo Abierto](https://es.wikipedia.org/wiki/Recursos_educativos_abiertos); por lo tanto, todos los contenidos tienen una licencia abierta [CC-BY 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es), que permite la redistribución, modificación, reuso y adaptación de toda la información disponible, siempre que se mantenga la atribución al proyecto.
+
+**¡Esperamos que este sitio te sea de utilidad!**
+
+<div style="clear:both"></div>
+
+<img src="{{ site.baseurl }}/assets/img/Luhmann.jpeg" style="float: left; padding-right: 20px;"> **Niklas Luhmann** (1927-1998) sociólogo alemán, reconocido por la formulación de la Teoría General de Sistemas Sociales.
+
+<div style="clear:both"></div>
