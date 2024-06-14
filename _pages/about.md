@@ -5,7 +5,7 @@ subtitle: Qué ofrece este sitio
 permalink: about
 ---
 
-### Acerca de "Metodología de la Investigación Social: recursos, guías y herramientas digitales"
+# Este es un sitio web dedicado a la Metodología de la Investigación Social
 
 **Metodología de la Investigación Social: recursos, guías y herramientas digitales** es un [Recurso Educativo Abierto (REA)](https://www.unesco.org/en/open-educational-resources) desarrollado en colaboración con estudiantes de Comunicación de la [Facultad de Ciencias Políticas y Sociales](https://cienciaspoliticasysociales.uaemex.mx/) de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), bajo la coordinación de la [Dra. Rosario Rogel-Salazar](https://rosariorogel.net/), en el marco del curso "Metodología de la Investigación Social".
 
