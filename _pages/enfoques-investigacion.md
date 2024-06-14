@@ -5,4 +5,5 @@ subtitle: Enfoques de investigación cuantitativos, cualitativos y mixtos
 permalink: "enfoques-investigacion"
 ---
 
-Durante la visualización de este apartado, encontrarás información útil acerca de la Inteligencia artificial en la investigación, también parte de su desarrollo a lo largo del tiempo, y estadísticas actuales de su uso.
+Hipster ipsum has become a staple for designers and developers looking to add some humor and personality to their projects. It’s a type of Lorem Ipsum text that mimics the quirky and non-traditional language used by hipsters. Hipster ipsum is often made up of phrases that are ironic, nonsensical, or just plain odd.
+
