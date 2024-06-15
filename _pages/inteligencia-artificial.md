@@ -35,6 +35,8 @@ Los resultados a cada una de las preguntas fueron los que se muestran a continua
 
 ### **Pregunta No. 1**
 
+assets/img/Gráfica1NiveldeEstudioIA.png
+
 
 
 
