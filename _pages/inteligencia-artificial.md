@@ -35,7 +35,8 @@ Los resultados a cada una de las preguntas fueron los que se muestran a continua
 
 ### **Pregunta No. 1**
 
-<img src="{{site.baseurl }}assets/img/Gráfica1NiveldeEstudioIA.png" style="float:left;width:200px;padding-right:28px;">
+###<img src="{{site.baseurl }}assets/img/Gráfica1NiveldeEstudioIA.png" style="float:left;width:200px;padding-right:28px;">
+
 
 De acuerdo con esta primera gráfica, se determina que el 91% de las personas encuestadas se encuentran estudiando una licenciatura.
 
