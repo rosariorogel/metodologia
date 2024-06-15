@@ -97,3 +97,17 @@ Es el desarrollo de una empresa llamada [Open AI](https://openai.com/). Este es 
 
 
 ## [Perplexity AI](https://www.perplexity.ai/)
+
+Es un motor de búsqueda conversacional basado en inteligencia artificial que utiliza grandes modelos lingüísticos para ofrecer respuestas precisas a las consultas de los usuarios, citando las fuentes. Se fundo en agosto de 2022 por Denis Yarats, Aravind Srinivas, Johnny Ho y Andy Konwinski. (cuentas de twitter, instagram)
+
+**Ventajas:**
+
+* Mayor rapidez en la generación de respuestas, debido a que utiliza algoritmos avanzados de procesamiento de lenguaje natural y aprendizaje automático
+
+* Proporciona las páginas de donde se obtuvo la información que está proporcionando, te otorga las referencias.
+
+* Facilita la creación de contenido verficiable con fuentes, al proporcionar información sobre cualquier tema o evento en cuestión de segundos.
+
+* Puede sintetizar contenido de manera precisa y eficiente, ahorrando tiempo y esfuerzo en el proceso de creación de contenido.
+
+* Tiene la capacidad de comprender el contexto de una pregunta y proporcionar respuestas relevantes al tema que se está tratando.
