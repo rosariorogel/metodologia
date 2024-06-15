@@ -93,7 +93,7 @@ Es el desarrollo de una empresa llamada [Open AI](https://openai.com/). Este es 
 
 * Su información esta actualizada hasta finales del 2023.
 
-**Nota importante:** La versión mas actualizada de esta plataforma a fecha de 2024, es CHAT GPT - 4.0, solo que es de paga, tiene un costo de 20 USD al mes, las diferencias entre vada versión no son muy notorios de acuerdo con lo que dice la plataforma, lo más relevante es con la versión de paga puedes crear imagenes más detalladas con su sitema artificial [DALL E](https://openai.com/index/dall-e-2/).
+**Nota importante:** La versión mas actualizada de esta plataforma a fecha de 2024, es [CHAT GPT - 4.0](https://openai.com/index/gpt-4/), solo que es de paga, tiene un costo de 20 USD al mes, las diferencias entre vada versión no son muy notorios de acuerdo con lo que dice la plataforma, lo más relevante es con la versión de paga puedes crear imagenes más detalladas con su sitema artificial [DALL E](https://openai.com/index/dall-e-2/).
 
 
 ## [Perplexity AI](https://www.perplexity.ai/)
@@ -121,7 +121,7 @@ Es un motor de búsqueda conversacional basado en inteligencia artificial que ut
 
 * Te brinda información clara, pero no te dice de dónde se obtuvo, no genera referencias (excepto Perplexity).
 
-* Acceso limitado a documentos completos (revisar Chat gpt 4o)
+* Acceso limitado a documentos completos (a excepción de Chat gpt 4.0).
 
 * La plataforma puede tener limitaciones en cuanto a la cantidad de recursos y funcionalidades que se pueden ofrecer.
 
