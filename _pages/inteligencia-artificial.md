@@ -57,7 +57,7 @@ De acuerdo con el gráfico, existió una participación mayor para dar respuesta
 
 ### **Pregunta No. 3**
 
-assets/img/Gráfica3UsoIA.png
+<img src="{{site.baseurl }}/assets/img/Gráfica3UsoIA.png" style="float:left;width:200px;padding-right:28px;">
 
 De acuerdo con este gráfico, el 74% por ciento de alumnos que estudian en el nivel superior de educación utilizan la inteligencia artificial para la investigación y el trabajo académico.
 
