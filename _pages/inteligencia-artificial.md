@@ -43,12 +43,14 @@ assets/img/Gráfica1NiveldeEstudioIA.png
 
 ### **Pregunta No. 2**
 
+assets/img/Gráfica2ÁreadeEstudioIA.png
 
 
 
 
 ### **Pregunta No. 3**
 
+assets/img/Gráfica3UsoIA.png
 
 
 
