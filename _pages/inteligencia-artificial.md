@@ -111,3 +111,6 @@ Es un motor de búsqueda conversacional basado en inteligencia artificial que ut
 * Puede sintetizar contenido de manera precisa y eficiente, ahorrando tiempo y esfuerzo en el proceso de creación de contenido.
 
 * Tiene la capacidad de comprender el contexto de una pregunta y proporcionar respuestas relevantes al tema que se está tratando.
+
+
+# Desventajas de los sitios de Inteligencia Artificial
