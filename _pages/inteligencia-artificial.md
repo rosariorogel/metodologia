@@ -114,3 +114,16 @@ Es un motor de búsqueda conversacional basado en inteligencia artificial que ut
 
 
 # Desventajas de los sitios de Inteligencia Artificial
+
+* Todo lo que se escribe en los sitios queda registrado, los desarrolladores pueden tener acceso a tus contenidos para continuar con el entrenamiento al chat de Inteligencia Artificial, se recomienda no incluir información personal.
+
+* Es inestable, debido a la alta demanda el sistema puede caerse.
+
+* Te brinda información clara, pero no te dice de dónde se obtuvo, no genera referencias (excepto Perplexity).
+
+* Acceso limitado a documentos completos (revisar Chat gpt 4o)
+
+* La plataforma puede tener limitaciones en cuanto a la cantidad de recursos y funcionalidades que se pueden ofrecer.
+
+* Su información esta actualizada hasta una cierta fecha, es posible que no tenga información de los eventos más recientes.
+
