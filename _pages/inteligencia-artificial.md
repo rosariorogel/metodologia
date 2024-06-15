@@ -93,6 +93,6 @@ Es el desarrollo de una empresa llamada [Open AI](https://openai.com/). Este es 
 
 * Su información esta actualizada hasta finales del 2023.
 
-
+**Nota importante:** La versión mas actualizada de esta plataforma a fecha de 2024, es CHAT GPT - 4.0, solo que es de paga, tiene un costo de 20 USD al mes, las diferencias entre vada versión no son muy notorios de acuerdo con lo que dice la plataforma, lo más relevante es con la versión de paga puedes crear imagenes más detalladas con su sitema artificial [DALL E](https://openai.com/index/dall-e-2/).
 
   
