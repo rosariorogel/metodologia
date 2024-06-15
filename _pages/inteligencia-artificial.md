@@ -77,4 +77,5 @@ En esta sección buscamos resaltar y mostrar ventajas y algunas desventajas, de 
 
 ## [Chat GPT - 3 AI](https://chatgpt.com/)
 
+Es el desarrollo de una empresa llamada [Open AI](https://openai.com/). Este es un sistema de chat, está basado en un modelo de lenguaje por Inteligencia Artificial GPT-3. Su modelo cuenta con al menos 175 millones de parámetros y está entrenado para hacer diferentes tareas de texto.
 
