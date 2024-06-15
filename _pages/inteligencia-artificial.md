@@ -65,7 +65,7 @@ El presente gráfico indica que, el 48% de los universitarios usan la Inteligenc
 
 ### **Pregunta No. 5**
 
-
+<img src="{{site.baseurl }}/assets/img/Gráfica5SitiosUsadosIA.png" style="float:left;width:200px;padding-right:28px;">
 
 
 
