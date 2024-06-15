@@ -44,6 +44,7 @@ Los resultados a cada una de las preguntas fueron los que se muestran a continua
 
 
 
+
 ### **Pregunta No. 3**
 
 
@@ -55,6 +56,7 @@ Los resultados a cada una de las preguntas fueron los que se muestran a continua
 
 
 
+
 ### **Pregunta No. 5**
 
 
@@ -62,3 +64,8 @@ Los resultados a cada una de las preguntas fueron los que se muestran a continua
 
 
 ***Créditos:*** María Cruz-Romero, Mario Rojas-Camacho, y Ramses Santos-Mendoza.
+
+# Siempre es bueno saberlo
+
+En esta sección buscamos resaltar y mostrar ventajas y algunas desventajas, de cuatro de las Inteligencias Artificiales más utilizadas por alumnos de estudios superiores, con el fin de compartir sitios seguros y con gran ayuda para la resolución de problemas y apoyo a la investigación.
+
