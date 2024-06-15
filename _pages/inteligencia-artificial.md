@@ -79,3 +79,20 @@ En esta sección buscamos resaltar y mostrar ventajas y algunas desventajas, de 
 
 Es el desarrollo de una empresa llamada [Open AI](https://openai.com/). Este es un sistema de chat, está basado en un modelo de lenguaje por Inteligencia Artificial GPT-3. Su modelo cuenta con al menos 175 millones de parámetros y está entrenado para hacer diferentes tareas de texto.
 
+**Ventajas:**
+
+* Entiende perfectamente español, puede entender más de 25 idiomas.
+
+* Es capaz de escribir guiones originales, y de alta calidad.
+
+* De no estar conforme con una respuesta se puede generar un contenido nuevo.
+
+* Comprende instrucciones complejas.
+
+* Puede generar contenido con un amplio contexto.
+
+* Su información esta actualizada hasta finales del 2023.
+
+
+
+  
