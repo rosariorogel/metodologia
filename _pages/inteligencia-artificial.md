@@ -39,22 +39,22 @@ Los resultados a cada una de las preguntas fueron los que se muestran a continua
 <img src="{{site.baseurl }}/assets/img/Gráfica1NiveldeEstudioIA.png" style="float:left;width:200px;padding-right:28px;">
 De acuerdo con esta primera gráfica, se determina que el 91% de las personas encuestadas se encuentran estudiando una licenciatura.
 
-<div style="clear: both;"></div>
+
 
 ### **Pregunta No. 2**
 
+
 <img src="{{site.baseurl }}/assets/img/Gráfica2ÁreadeEstudioIA.png" style="float:left;width:200px;padding-right:28px;">
-
-
-
 De acuerdo con el gráfico, existió una participación mayor para dar respuesta a esta encuesta por parte de estudiantes de ciencias sociales con el 56%, tan solo delante de ciencias de la salud con un 34%, mientras que, 10% de los encuestados estudian las ciencias exactas.
+
 
 
 ### **Pregunta No. 3**
 
-<img src="{{site.baseurl }}/assets/img/Gráfica3UsoIA.png" style="float:left;width:200px;padding-right:28px;">
 
+<img src="{{site.baseurl }}/assets/img/Gráfica3UsoIA.png" style="float:left;width:200px;padding-right:28px;">
 De acuerdo con este gráfico, el 74% por ciento de alumnos que estudian en el nivel superior de educación utilizan la inteligencia artificial para la investigación y el trabajo académico.
+
 
 
 ### **Pregunta No. 4**
