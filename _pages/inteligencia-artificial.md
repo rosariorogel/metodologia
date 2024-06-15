@@ -45,7 +45,7 @@ De acuerdo con esta primera gráfica, se determina que el 91% de las personas en
 
 
 <img src="{{site.baseurl }}/assets/img/Gráfica2ÁreadeEstudioIA.png" style="float:left;width:200px;padding-right:28px;">
-De acuerdo con el gráfico, los estudiantes de ciencias sociales con el 56% fueron quienes más respondieron la encuesta, tan solo delante de los de ciencias de la salud con un 34%, mientras que, el 10% fueron estudiantes de las ciencias exactas.
+De acuerdo con el gráfico, los estudiantes de ciencias sociales con el 56% fueron quienes más respondieron la encuesta, siguiendo los de ciencias de la salud con un 34%, mientras que, el 10% fueron estudiantes de las ciencias exactas.
 
 
 
