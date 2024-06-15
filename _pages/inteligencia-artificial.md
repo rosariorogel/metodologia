@@ -66,6 +66,7 @@ El presente gráfico indica que, el 48% de los universitarios usan la Inteligenc
 ### **Pregunta No. 5**
 
 <img src="{{site.baseurl }}/assets/img/Gráfica5SitiosUsadosIA.png" style="float:left;width:200px;padding-right:28px;">
+
 A partir del gráfico anterior se puede observar una gran tendencia al uso de Chat GPT abarcando el 56%, siendo así que existe un gran desconocimiento de los demás sitios de Inteligencia Artificial, mientras Chat GPT abarca más de la mitad, el sitio You solo obtuvo el 1%, lo que representa que solo una de cada cien personas usa You.com IA.
 En esta gráfica se coloca la opción “otro”, dentro del cuestionario se coloco la pregunta de cuál sería ese otro, del 19% que contesto con “otro”, el 18% dijo que ninguna de las presentadas, y solo una persona menciono que usa “Character.ai”.
 
