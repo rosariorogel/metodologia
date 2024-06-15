@@ -75,3 +75,6 @@ De acuerdo con este gráfico, el 74% por ciento de alumnos que estudian en el ni
 
 En esta sección buscamos resaltar y mostrar ventajas y algunas desventajas, de cuatro de las Inteligencias Artificiales más utilizadas por alumnos de estudios superiores, con el fin de compartir sitios seguros y con gran ayuda para la resolución de problemas y apoyo a la investigación.
 
+## [Chat GPT - 3 AI](https://chatgpt.com/)
+
+
