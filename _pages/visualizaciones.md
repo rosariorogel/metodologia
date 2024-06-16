@@ -81,15 +81,15 @@ Elegir alguna de ellas depende de los resultados y el análisis que quieras obte
 
 >**Para esto puedes usar VOSviewer**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dfzIKQYH9aM?si=3NxNhKh13NL6N4Kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![¡VOSviewer tú mejor opción!]<iframe width="560" height="315" src="https://www.youtube.com/embed/dfzIKQYH9aM?si=3NxNhKh13NL6N4Kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >**Para esto puedes usar Open Knowledge Maps**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NanEAoxIp8M?si=o1dRhHDj6ERMUUOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Explora el Conocimiento: Cómo Open Knowledge Maps Impulsa tu Investigación]<iframe width="560" height="315" src="https://www.youtube.com/embed/NanEAoxIp8M?si=o1dRhHDj6ERMUUOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >**Para esto puedes usar Connected Papers**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LMywqkchNtI?si=jZeqkGmZOIiovATh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Revoluciona tu Investigación: Cómo Connected Papers Facilita tu Trabajo]<iframe width="560" height="315" src="https://www.youtube.com/embed/LMywqkchNtI?si=jZeqkGmZOIiovATh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ¡Esperamos haberte ayudado a que tu elección sea mucho más fácil!
