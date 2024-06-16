@@ -68,7 +68,7 @@ El presente gráfico indica que, el 48% de los universitarios usan la Inteligenc
 
 <img src="{{site.baseurl }}/assets/img/Gráfica5SitiosUsadosIA.png" style="float:left;width:500px;padding-right:28px;">
 A partir del gráfico anterior se puede observar una gran tendencia al uso de Chat GPT abarcando el 56%, siendo así que existe un gran desconocimiento de los demás sitios de Inteligencia Artificial, mientras Chat GPT abarca más de la mitad, el sitio You solo obtuvo el 1%, lo que representa que solo una de cada cien personas usa You.com IA.
-En esta gráfica se puede visualizar la opción “otro”, dentro del cuestionario se coloco la pregunta de cuál sería ese otro, del 19% que contesto con “otro”, el 18% dijo que ninguna de las presentadas, y solo una persona menciono que usa “Character.ai”.
+En esta gráfica se puede visualizar la opción “otro”, dentro del cuestionario se coloco la pregunta de cuál sería ese otro, del 19% que contesto con “otro”, el 18% dijo que ninguna de las presentadas, y solo una persona menciono que usa [Character.ai](https://character.ai/).
 
 
 
@@ -103,7 +103,7 @@ Es el desarrollo de una empresa llamada [Open AI](https://openai.com/). Este es 
 
 Es un motor de búsqueda conversacional basado en inteligencia artificial que utiliza grandes modelos lingüísticos para ofrecer respuestas precisas a las consultas de los usuarios, citando las fuentes. Se fundo en agosto de 2022 por [Denis Yarats](https://x.com/denisyarats?lang=es), [Aravind Srinivas](https://x.com/AravSrinivas/highlights), [Johnny Ho](https://x.com/randomjohnnyh?lang=es), y [Andy Konwinski](https://x.com/andykonwinski?lang=es).
 
-* *Nota: Los nombres de cada uno de los co-fundadores de Perplexity AI, te enlazan a su cuenta de X (antes twitter), para que puedas visitar sus publicaciones más recientes.*
+* *Nota: Los nombres de cada uno de los co-fundadores de Perplexity AI, te enlazan a su cuenta de [X](https://x.com/?lang=es) (antes twitter), para que puedas visitar sus publicaciones más recientes.*
 
 **Ventajas:**
 
