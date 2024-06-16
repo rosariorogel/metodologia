@@ -149,7 +149,15 @@ Valentina Martinez-Landa
 
 ###Regionales
 
-SCIELO
+## [SCIELO](https://scielo.org/es)
+
+[Texto]
+
+**Sirve para:**
+
+Encontrar artículos científicos de diversas áreas del conocimiento: Alberga una colección de más de 3.500 revistas que abarcan todas las áreas del conocimiento, desde las ciencias naturales y exactas hasta las ciencias sociales y humanidades.
+Leer artículos en español, portugués e inglés: Se ofrece la mayoría de sus artículos en español y portugués, y muchos de ellos también están disponibles en inglés.
+
 
 ## [Redalyc](https://www.redalyc.org/home.oa)
 
@@ -208,7 +216,14 @@ Valentina Martinez-Landa
 
 Swissocows
 
-World wide science
+## [World wide science](https://worldwidescience.org/)
+
+[Texto]
+
+**Sirve para:**
+
+1. Encontrar información científica de diversas fuentes: Te brinda acceso a una amplia gama de recursos científicos, incluyendo artículos de revistas, libros, informes, datos de investigación, etc.
+2. Realizar búsquedas exhaustivas: Te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
 
 DuckDuckGo
 
