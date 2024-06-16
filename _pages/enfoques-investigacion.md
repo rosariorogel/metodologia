@@ -33,7 +33,9 @@ Las metodologías cuantitativas desempeñan un papel crucial en varios campos, c
 
 La investigación cuantitativa busca dar un análisis de información enfocado a los datos, preciso y objetivo, sin caer en subjetividades ni opiniones personales, los datos son reales y existentes. Lo único que cambia es la manera de interpretar estos datos, no la información en sí.
 
-<img src="{{ site.baseurl }}/metodologia/assets/img/Enfoque_Cuantitativo.png" style="float:left;width:643px;padding-right:1600px;">
+<img src="{{ site.baseurl }}github/docs/blob/main/assets/img/Enfoque_Cuantitativo.png" style="float:left;width:643px;padding-right:1600px;">
+
+<import logo from src= '/src/assets/img/imagen.png'>
 
 Imagen con licencia de Creative Commons CC0.
 
