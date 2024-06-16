@@ -132,3 +132,5 @@ Es un motor de búsqueda conversacional basado en inteligencia artificial que ut
 
 * Su información esta actualizada hasta una cierta fecha, es posible que no tenga información de los eventos más recientes.
 
+***Créditos:*** Efrén Yair Blanquel-Vara y Diego González-Reyes.
+
