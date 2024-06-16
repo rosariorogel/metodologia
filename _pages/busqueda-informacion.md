@@ -19,12 +19,18 @@ Nuestro objetivo es brindar a los investigadores una guía completa y actualizad
 
 ### Créditos:
 1
-2
+Fernanda De Jesús-Nicolás
 3
 4
 Valentina Martinez-Landa
 
 # RECURSOS FORMALES
+La investigación es un proceso bastante complejo, en el que los usuarios al momento de realizar una investigación de cualquier índole, utilizan recursos formales, en los que puedan tener presión y calidad en los resultados, para así incluir herramientas y técnicas que les permitan recopilar y analizar los datos de manera eficaz. 
+
+Algunas de estas herramientas nos permiten ingresar de manera fácil y gratuita, por lo que en algunos casos sólo necesitas un dispositivo móvil e ingresar sin problema alguno,  ya que no se hace un registro previo, esto permite que la búsqueda de información sea más rápida.
+
+Cabe mencionar que en el ámbito académico, se utilizan diferentes herramientas de investigación en donde se busca la mejora de los resultados, por ello, en las bibliotecas digitales que ofrecen  las diferentes instituciones, tienen como objetivo hacer una investigación más enriquecedora y que con ello se pueda acceder a otras herramientas, ya sean gratuitas o de paga.
+
 
 ## Base de datos de publicaciones científicas
 ## Paga
@@ -214,7 +220,21 @@ Tiene una amplia gama de fuentes anexadas, permite filtrar los resultados de dif
 **Créditos:**
 Valentina Martinez-Landa
 
-Swissocows
+## Mixto
+## Mundial
+## [Swissocows](https://swisscows.com/es)
+Este se enfoca en la privacidad y no almacena datos a los usuarios, proporciona información de manera instantánea, está disponible en varios idiomas. lo que permite tener fácil acceso a información, de diferentes partes del mundo de una manera fácil y anónima, para así proteger tus datos personales.
+
+**Sirve para:**
+Buscar información en el menor tiempo posible, de forma rápida y segura, ya que cuando hagas una consulta de información no quedará rastro alguno, esto permite proteger a los usuarios, para así ser una comunidad segura, respeta tu privacidad, puedes consultar cualquier tema de tu agrado en el idioma que desees.
+
+**Experiencia**
+“Fue muy fácil de ingresar, no tuve que registrarme en la versión gratuita, no deja historial, tu búsqueda se hace de forma automática, encuentras variedad de información.
+Tiene dos opciones de uso el primero es de manera gratuita y el segundo de paga, como usuario decides cómo quieres pagar, de forma anual o mensual.”
+
+**Créditos:**
+Fernanda De Jesús-Nicolás
+
 
 ## [World wide science](https://worldwidescience.org/)
 
@@ -225,7 +245,22 @@ Swissocows
 1. Encontrar información científica de diversas fuentes: Te brinda acceso a una amplia gama de recursos científicos, incluyendo artículos de revistas, libros, informes, datos de investigación, etc.
 2. Realizar búsquedas exhaustivas: Te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
 
-DuckDuckGo
+## Gratuita
+## Mundial
+## [DuckDuckGo](https://duckduckgo.com)
+
+Es una herramienta de búsqueda, que enfatiza la protección y la privacidad de los usuarios, ya que no rastrea y almacena información personal, esto permite que aquellas personas que busquen información en esta herramienta se sientan seguras.
+
+**Sirve para:**
+
+En los navegadores actúa como buscador, pero en su versión para dispositivos móviles es un navegador web, con un buscador incorporado que nos ofrece tener una mayor búsqueda en la red, en donde podemos encontrar una gran variedad de información, además no guarda ninguna información personal y bloquea rastreadores en los sitios web.
+
+**Experiencia**
+
+Fue muy fácil ingresar, ya que no tienes que registrarte y tu búsqueda se hace de manera automática, esta puede ser en diferentes idiomas, con ello obtendrás más información, uno de ellos es el Inglés, ya que solo en el buscador escribes lo que desees y esto te permitirá tener mayor acceso a información.   
+
+**Créditos:**
+Fernanda De Jesús-Nicolás
 
 # INFORMALES
 
