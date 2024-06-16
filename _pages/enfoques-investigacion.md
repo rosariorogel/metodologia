@@ -37,6 +37,8 @@ La investigación cuantitativa busca dar un análisis de información enfocado a
 
 Imagen con licencia de Creative Commons CC0.
 
+*Créditos: Alex Guerrero-Torres.*
+
 ---
 
 ## **Enfoque cualitativo**
@@ -66,4 +68,4 @@ Es un proceso de investigación que busca comprender un fenómeno dentro de su e
 Pie de foto: Imagen con licencia de Creative Commons CC0.
 
 *Créditos: Derek Rosales Nava.*
-*Créditos: Alex Guerrero-Torres.*
+
