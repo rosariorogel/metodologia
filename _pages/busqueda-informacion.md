@@ -18,11 +18,11 @@ Es aquí donde herramientas digitales para la investigación entran en juego. Es
 Nuestro objetivo es brindar a los investigadores una guía completa y actualizada sobre las herramientas digitales que pueden potenciar su trabajo, permitiéndoles navegar con mayor facilidad y efectividad en el vasto mar de la información.
 
 ### Créditos:
-1
-Fernanda De Jesús-Nicolás
+
+*Fernanda De Jesús-Nicolás*
 3
 4
-Valentina Martinez-Landa
+*Valentina Martinez-Landa*
 
 # RECURSOS FORMALES
 La investigación es un proceso bastante complejo, en el que los usuarios al momento de realizar una investigación de cualquier índole, utilizan recursos formales, en los que puedan tener presión y calidad en los resultados, para así incluir herramientas y técnicas que les permitan recopilar y analizar los datos de manera eficaz. 
