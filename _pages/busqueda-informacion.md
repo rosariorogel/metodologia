@@ -266,7 +266,7 @@ Hidden Wiki
 <img alt="Archivo:Redalyc.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Redalyc.png/600px-Redalyc.png?20140217193230" decoding="async" width="600" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f7/Redalyc.png?20140217193230 1.5x" data-file-width="800" data-file-height="800">
 
 ## SciHub
-<img src="//live.staticflickr.com/1709/25958240680_d8be0da1b5_b.jpg" class="zoom-large">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://textumdergi.net/wp-content/uploads/2020/10/scihub.jpg" width="981" height="565">
 
 ## Hidden wiki
 <img alt="Archivo:Hidden Wiki en Tor Browser.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/800px-Hidden_Wiki_en_Tor_Browser.png?20210814183306" decoding="async" width="800" height="438" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1200px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1600px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 2x" data-file-width="1849" data-file-height="1012">
