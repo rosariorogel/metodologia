@@ -63,7 +63,7 @@ Es un proceso de investigación que busca comprender un fenómeno dentro de su e
 *   El investigador **confía en el proceso mismo de investigación** para identificarlos y descubrir cómo se relacionan.
 * Los **datos que se recolectan son presentados** en forma de textos, imágenes, piezas audiovisuales, documentos y objetos por lo regular personales.
 
-<img src="{{ site.baseurl }}/assets/img/Enfoque_Cualitativo.png" style="float:left;width:643px;padding-right:1600px;">
+<img src="{{ site.baseurl }}/assets/img/Método_Cualitativo.png" style="float:left;width:643px;padding-right:1600px;">
 
 Pie de foto: Imagen con licencia de Creative Commons CC0.
 
