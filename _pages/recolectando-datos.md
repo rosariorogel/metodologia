@@ -33,6 +33,29 @@ Consideramos que la herramienta puede ayudar de una buena forma al análisis de 
 En el artículo The Journal of Open Source Software nos hacen un pequeño resumen sobre el uso de la herramienta y nos comentan sobre publicaciones de investigaciones y artículos que han usado este software, tiene un grupo en [Zotero](https://www.zotero.org/groups/4373578/taguette) donde recopilan dichos textos.
 Investigación cualitativa y cuantitativa: Características y ventajas. (s. f.). Recuperado 13 de junio de 2024, de https://www.santanderopenacademy.com/es/blog/cualitativa-y-cuantitativa.html
 
+
+## **Enfoque cuantitativo**
+El enfoque cuantitativo de investigación utiliza la recolección de datos para probar hipótesis con base en la medición numérica y el análisis estadístico, con el fin de establecer pautas de comportamiento y probar teorías. Se basa en el uso de técnicas estadísticas para conocer y describir a la población o fenómeno que se está estudiando; se puede utilizar en diferentes áreas de conocimiento (Hernández,  Fernándezy Baptista; 2014, pp. 4-5).
+
+Su  intención  es  buscar  la  exactitud  de  mediciones  o  indicadores  sociales  con  el  fin  de generalizar sus resultados a poblaciones o situaciones amplias. Trabajan fundamentalmente con el número, el dato cuantificable (Galeano, 2004:24).
+
+A continuación, te recomendamos 2 herramientas para la recopilación de datos cuantitativos con la finalidad de crear formularios de forma fácil y rápida:
+
+
+### Herramientas
+### [Google Forms](https://docs.google.com/forms/u/1/?pli=1)
+Puede utilizarse tanto como herramienta cuantitativa, dependiendo de los objetivos y el tipo de datos que se deseen recopilar. Es una herramienta con una interfaz amigable y es de código abierto, permite recopilar datos numéricos y estadísticos a través de encuestas y cuestionarios, facilita la creación de encuestas con opciones de respuesta cerradas además registra automáticamente las respuestas en una hoja de cálculo, lo que simplifica el análisis de datos.
+#### *Ejemplo de uso*
+La herramienta Google Forms fue utilizada en la evaluación diagnóstica como apoyo en las actividades docentes, tal fue el caso con estudiantes de la Licenciatura en Turismo.
+Hermelinda Patricia Leyva López y sus coautoras Monserrat Gabriela Pérez Vera y Sandra Mercedes Pérez Vera publican el artículo científico con el propósito de promover el desarrollo y divulgación de la investigación en educación en América Latina en la Revista Iberoamericana para la Investigación y el Desarrollo Educativo (RIDE).
+#### [KoboToolbox](https://www.kobotoolbox.org/)
+Herramienta desarrollada por la **Iniciativa Humanitaria de Harvard** (https://www.kobotoolbox.org/about-us/impact/) para la recolección de datos cuantitativos y cualitativos en contextos humanitarios y de investigación. Esta es una herramienta de codigo abierto pero que se convierte de paga cuando se supera 1GB de almacenamiento de datos.
+Características: Fácil creación de formularios para la recolección de datos offline y online, análisis de datos integrados, compatible con dispositivos móviles. Lo recomendamos por que es una herramienta facil de usar y para crear formularios rapidos.
+#### *Ejemplo de uso*
+
+  Das, A. S. (2024). Chapter 4 - KoboToolbox. In A. Pundhir, A. K. Mehto, & A. Jaiswal (Eds.), Open Electronic Data Capture Tools for Medical and Biomedical Research and Medical Allied Professionals (pp. 241–329). Academic Press. https://doi.org/10.1016/B978-0-443-15665-6.00004-X
+
+
 ## **Enfoque mixto**
 La “metodología mixta”, es un enfoque pragmático de investigación, busca  que  los  datos  cualitativos se acoplen  a  los datos  cuantitativos, con  el  fin de enriquecer   la   metodología   y   los   resultados   de investigación. Este enfoque es adecuado por que logra una perspectiva más amplia y profunda, logrando una mayor teorización, los  datos son  más  y  variados. (Gómez, Deslauriers y Alzate,2010, p. 171)
 ### Herramientas
