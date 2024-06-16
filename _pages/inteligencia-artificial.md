@@ -103,7 +103,7 @@ Es el desarrollo de una empresa llamada [Open AI](https://openai.com/). Este es 
 
 Es un motor de búsqueda conversacional basado en inteligencia artificial que utiliza grandes modelos lingüísticos para ofrecer respuestas precisas a las consultas de los usuarios, citando las fuentes. Se fundo en agosto de 2022 por [Denis Yarats](https://x.com/denisyarats?lang=es), [Aravind Srinivas](https://x.com/AravSrinivas/highlights), [Johnny Ho](https://x.com/randomjohnnyh?lang=es), y [Andy Konwinski](https://x.com/andykonwinski?lang=es).
 
-
+* *Nota: Los nombres de cada uno de los co-fundadores de Perplexity AI, te enlazan a su cuenta de X (antes twitter), para que puedas visitar sus publicaciones más recientes.*
 
 **Ventajas:**
 
