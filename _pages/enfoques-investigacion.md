@@ -37,4 +37,33 @@ La investigación cuantitativa busca dar un análisis de información enfocado a
 
 Imagen con licencia de Creative Commons CC0.
 
+---
+
+## **Enfoque cualitativo**
+
+### **Introducción y definición:**
+
+El estudio cualitativo refiere a la realidad subjetiva, donde realiza reflexiones profundas y estudios de los componentes. A pesar de su subjetividad este método es tan científico como el cuantitativo pues va más allá del criterio del investigador. Abarca propiedades no cuantificables, que serían mejor describir y explicar cómo acontecimientos.
+
+Es un proceso de investigación que busca comprender un fenómeno dentro de su entorno natural. Se centra en el “por qué” en lugar del “qué” y se enfoca en recopilar datos no numéricos. Prioriza la recolección de datos relacionados con la comunicación y no tanto en procedimientos lógicos o estadísticos. El enfoque principal de este procedimiento son los individuos, la sociedad y la cultura. La hipótesis de este método propone que el conocimiento es más subjetivo que objetivo. En este tipo de investigación, el investigador aprende de los participantes.
+
+### **Características:**
+
+*   El investigador examina el mundo social y en este proceso desarrolla una teoría acorde a los datos, llamada **teoría fundamentada**.
+*   Consiste en **recolectar las perspectivas y puntos de los participantes**: sus emociones, prioridades, experiencias, significados y otros aspectos subjetivos.
+*   **Recoge datos cualitativos**, que se entienden como descripciones detalladas de situaciones, eventos, personas, interacciones, conductas observadas y sus manifestaciones.
+*   Se utilizan **técnicas para recolectar datos** como: la observación no estructurada, entrevistas abiertas, revisión de documentos, discusión en grupo, evaluación de experiencias personales, registro de historias de vida e introspección con grupos o comunidades.
+*   Para este enfoque existen varias **realidades subjetivas en la investigación**, las cuales varían en su forma y contenido entre individuos, grupos y culturas.
+*   Se aplica la **lógica inductiva**. De lo particular a lo general, de los datos a las generalizaciones.
+*   La **posición personal del investigador es explícita**, ya que reconoce sus propios valores y creencias, incluso llegando a veces ser parte del mismo estudio.
+*   La **interacción física y psicológica entre el investigador y el fenómeno** es cercana, próxima, empática y con involucramiento, el papel del investigador es activo; suele haber contacto. Comprende a las personas y sus contextos.
+*   El método **no se fundamenta en estudios anteriores**, sino que se genera y construye a partir de los datos empíricos obtenidos y analizados.
+*   El investigador **confía en el proceso mismo de investigación** para identificarlos y descubrir cómo se relacionan.
+* Los **datos que se recolectan son presentados** en forma de textos, imágenes, piezas audiovisuales, documentos y objetos por lo regular personales.
+
+<img src="{{ site.baseurl }}/assets/img/Enfoque_Cualitativo.png" style="float:left;width:643px;padding-right:1600px;">
+
+Pie de foto: Imagen con licencia de Creative Commons CC0.
+
+*Créditos: Derek Rosales Nava.*
 *Créditos: Alex Guerrero-Torres.*
