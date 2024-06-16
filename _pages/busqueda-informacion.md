@@ -39,7 +39,7 @@ Cabe mencionar que en el ámbito académico, se utilizan diferentes herramientas
 
 Scopus es una base de datos bibliográfica de resúmenes y citas de artículos de revistas científicas propiedad de Elsevier lanzada en el año 2004.
 
-**Sirve para:**
+**Te permite:**
 
 1. El motor de búsqueda te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
 2. Acceder a métricas de impacto: Scopus te proporciona información sobre el impacto y la relevancia de las publicaciones, como el índice H5 y el factor de impacto.
@@ -54,7 +54,7 @@ Valentina Martinez-Landa
 ## [WoS](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
 WoS es una plataforma que integra varios índices de citas, incluyendo el Science Citation Index Expanded (SCIE), el Social Sciences Citation Index (SSCI), el Arts & Humanities Citation Index (A&HCI), y el Emerging Sources Citation Index (ESCI).
 
-**Sirve para:**
+**Te permite:**
 
 1. Acceso a la literatura científica: proporciona acceso a una amplia variedad de revistas y artículos de alta calidad, lo que facilita la búsqueda y el análisis de la literatura científica.
 2. Evaluación de la calidad de los artículos: Los índices de citas de WoS permiten evaluar la calidad y el impacto de los artículos científicos
@@ -73,7 +73,7 @@ Valentina Martinez-Landa
 
 Es una plataforma digital que te permite acceder a un universo de publicaciones científicas de acceso abierto. Funciona como una biblioteca virtual gigante, reuniendo millones de artículos de investigación de miles de repositorios y revistas alrededor del mundo.
 
-**Sirve para:**
+**Te permite:**
 
 Encontrar artículos científicos gratuitos sobre cualquier tema que te interese.
 Descubrir investigaciones innovadoras en tu campo de estudio.
@@ -89,7 +89,7 @@ Valentina Martinez-Landa
 
 BASE se enfoca en proporcionar una búsqueda multidisciplinaria y amplia de recursos académicos, incluyendo revistas, repositorios institucionales, colecciones digitales y otros tipos de recursos.
 
-**Sirve para:**
+**Te permite:**
 
 1. Acceso a recursos académicos: Proporciona acceso a más de 120 millones de documentos de más de 6,000 fuentes, lo que es una gran cantidad de recursos para cualquier investigador.
 2. Búsqueda interdisciplinaria: Permite buscar recursos en diferentes disciplinas y campos de estudio, lo que es especialmente útil para investigaciones que involucran múltiples áreas.
@@ -105,7 +105,7 @@ Valentina Martinez-Landa
 
 Es un directorio que lista revistas de acceso libre, científicas y académicas, que cumplan con estándares de alta calidad al utilizar la revisión por pares o control de calidad editorial y que sean gratuitas para todos al momento de su publicación.
 
-**Sirve para:**
+**Te permite:**
 
 1. Acceso a contenido académico: DOAJ proporciona acceso a una amplia variedad de información académica y científica en acceso abierto, lo que facilita la investigación y el aprendizaje.
 2. Promoción del acceso abierto: DOAJ fomenta el acceso abierto a la información académica y científica, lo que ayuda a reducir las barreras de acceso y a aumentar la visibilidad y el impacto de la investigación.
@@ -122,7 +122,7 @@ Valentina Martinez-Landa
 
 Imagina a Project MUSE como una biblioteca virtual que alberga un tesoro de publicaciones académicas en humanidades y ciencias sociales. Es una plataforma sin fines de lucro que reúne miles de artículos y libros electrónicos de editoriales universitarias y sociedades académicas de todo el mundo.
 
-**Sirve para:**
+**Te permite:**
 
 1. Navegar por un mar de conocimiento en áreas como literatura, historia, filosofía, arte, estudios culturales y mucho más.
 2. Descubrir investigaciones innovadoras de autores y pensadores influyentes.
@@ -141,7 +141,7 @@ Valentina Martinez-Landa
 
 Anna's Archive es un archivo digital que alberga una vasta colección de recursos científicos, incluyendo libros, artículos, revistas, registros de biblioteca, metadatos y más.
 
-**Sirve para:**
+**Te permite:**
 
 1. Encontrar recursos educativos para complementar tu aprendizaje.
 2. Contribuir a la preservación del conocimiento al compartir y sembrar los torrents de la base de datos.
@@ -159,7 +159,7 @@ Valentina Martinez-Landa
 
 [Texto]
 
-**Sirve para:**
+**Te permite:**
 
 Encontrar artículos científicos de diversas áreas del conocimiento: Alberga una colección de más de 3.500 revistas que abarcan todas las áreas del conocimiento, desde las ciencias naturales y exactas hasta las ciencias sociales y humanidades.
 Leer artículos en español, portugués e inglés: Se ofrece la mayoría de sus artículos en español y portugués, y muchos de ellos también están disponibles en inglés.
@@ -169,7 +169,7 @@ Leer artículos en español, portugués e inglés: Se ofrece la mayoría de sus 
 
 Redalyc, la Red de Revistas Científicas de América Latina y el Caribe, España y Portugal, es un proyecto sin fines de lucro que su principal objetivo es democratizar el acceso a la información académica, brindando a investigadores, estudiantes y público en general la posibilidad de leer, descargar, imprimir y distribuir de forma gratuita millones de artículos científicos publicados en revistas especializadas de Ciencias Sociales y Humanidades.
 
-**Sirve para:**
+**Te permite:**
 
 Búsqueda avanzada: Permite encontrar artículos por autor, título, palabras clave, tema, fecha de publicación y otros criterios, facilitando la búsqueda precisa de información relevante.
 Acceso abierto: Todos los artículos publicados en revistas indexadas en Redalyc son de libre acceso, eliminando barreras económicas y promoviendo la democratización del conocimiento.
@@ -186,7 +186,7 @@ Valentina Martinez-Landa
 
 Es como una biblioteca colosal dedicada a la ciencia en español. Esta plataforma digital te permite acceder a millones de artículos de investigación, libros, tesis doctorales y otros recursos en áreas como las ciencias sociales, las humanidades, las ciencias exactas y las ciencias de la salud.
 
-**Sirve para:**
+**Te permite:**
 
 1. Encontrar información confiable para tus trabajos académicos, proyectos o simplemente para saciar tu curiosidad intelectual.
 2. Explorar diferentes perspectivas sobre temas que te apasionan desde una mirada hispanoamericana.
@@ -206,7 +206,7 @@ REDIB
 
 Google Scholar es un motor de búsqueda que se enfoca en artículos académicos, tesis, libros, conferencias y otros documentos científicos y académicos. Funciona al escanear la web para encontrar y indexar estos documentos, y luego utiliza un algoritmo para clasificar y presentar los resultados relevantes en función de la relevancia y autoridad
 
-**Sirve para:**
+**Te permite:**
 
 Investigación: Puedes encontrar una amplia variedad de información académica y científica, incluyendo artículos de revistas, libros, tesis, conferencias y patentes.
 Trabajos académicos: Es una herramienta útil para estudiantes y profesionales que necesitan encontrar información actualizada y confiable para sus trabajos académicos o de investigación.
@@ -225,7 +225,7 @@ Valentina Martinez-Landa
 ## [Swissocows](https://swisscows.com/es)
 Este se enfoca en la privacidad y no almacena datos a los usuarios, proporciona información de manera instantánea, está disponible en varios idiomas. lo que permite tener fácil acceso a información, de diferentes partes del mundo de una manera fácil y anónima, para así proteger tus datos personales.
 
-**Sirve para:**
+**Te permite:**
 Buscar información en el menor tiempo posible, de forma rápida y segura, ya que cuando hagas una consulta de información no quedará rastro alguno, esto permite proteger a los usuarios, para así ser una comunidad segura, respeta tu privacidad, puedes consultar cualquier tema de tu agrado en el idioma que desees.
 
 **Experiencia**
@@ -240,7 +240,7 @@ Fernanda De Jesús-Nicolás
 
 [Texto]
 
-**Sirve para:**
+**Te permite:**
 
 1. Encontrar información científica de diversas fuentes: Te brinda acceso a una amplia gama de recursos científicos, incluyendo artículos de revistas, libros, informes, datos de investigación, etc.
 2. Realizar búsquedas exhaustivas: Te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
@@ -251,7 +251,7 @@ Fernanda De Jesús-Nicolás
 
 Es una herramienta de búsqueda, que enfatiza la protección y la privacidad de los usuarios, ya que no rastrea y almacena información personal, esto permite que aquellas personas que busquen información en esta herramienta se sientan seguras.
 
-**Sirve para:**
+**Te permite:**
 
 En los navegadores actúa como buscador, pero en su versión para dispositivos móviles es un navegador web, con un buscador incorporado que nos ofrece tener una mayor búsqueda en la red, en donde podemos encontrar una gran variedad de información, además no guarda ninguna información personal y bloquea rastreadores en los sitios web.
 
@@ -270,7 +270,7 @@ Fernanda De Jesús-Nicolás
 
 Es un repositorio en línea y sitio web de biblioteca fantasma que brinda acceso gratuito a millones de artículos académicos, libros y otras publicaciones científicas. Su objetivo es democratizar el conocimiento haciendo que la investigación científica esté disponible para todos, independientemente de su afiliación institucional o capacidad de pago.
 
-**Sirve para:**
+**Te permite:**
 
 Estudiantes e investigadores: Acceder a artículos académicos y libros para sus estudios e investigaciones, incluso si no tienen acceso a bases de datos pagas.
 Profesores y educadores: Encontrar materiales de enseñanza y recursos para sus cursos.
