@@ -256,20 +256,21 @@ Scielo
 
 Scopus:
 
+
 Google Scholar
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Frosefirerising%2F6359040623&psig=AOvVaw20RJHbCrCP5JyzSweGc8SI&ust=1718296072899000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDP2Om91oYDFQAAAAAdAAAAABAE
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png">
 
 DOAJ
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AResponsiveWriting.png&psig=AOvVaw040BmLwZTW9DW-HZfIku6O&ust=1718296225735000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiS2rK-1oYDFQAAAAAdAAAAABAE
+<img alt="Archivo:ResponsiveWriting.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ResponsiveWriting.png/800px-ResponsiveWriting.png?20180814160522" decoding="async" width="800" height="500" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ResponsiveWriting.png/1200px-ResponsiveWriting.png?20180814160522 1.5x, https://upload.wikimedia.org/wikipedia/commons/c/c6/ResponsiveWriting.png?20180814160522 2x" data-file-width="1280" data-file-height="800">E
 
 Redalyc
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ARedalyc.png&psig=AOvVaw2RtdeEPY7nyYRWGq8z3Jo0&ust=1718296275327000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDL1cq-1oYDFQAAAAAdAAAAABAE
+<img alt="Archivo:Redalyc.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Redalyc.png/600px-Redalyc.png?20140217193230" decoding="async" width="600" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f7/Redalyc.png?20140217193230 1.5x" data-file-width="800" data-file-height="800">
 
 SciHub
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fdustmoon%2F25958240680&psig=AOvVaw11EidqsUExAIjsjEykLtX9&ust=1718296393987000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDK7oK_1oYDFQAAAAAdAAAAABAE
+<img src="//live.staticflickr.com/1709/25958240680_d8be0da1b5_b.jpg" class="zoom-small">
 
 Hidden wiki
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHidden_Wiki_en_Tor_Browser.png&psig=AOvVaw1WWTs110AplqGwUUwk5T1S&ust=1718296451762000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCCgJ-_1oYDFQAAAAAdAAAAABAE
+<img alt="Archivo:Hidden Wiki en Tor Browser.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/800px-Hidden_Wiki_en_Tor_Browser.png?20210814183306" decoding="async" width="800" height="438" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1200px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1600px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 2x" data-file-width="1849" data-file-height="1012">
 
 ## Herramienta de ayuda
 
