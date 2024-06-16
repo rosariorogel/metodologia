@@ -7,9 +7,9 @@ permalink: busqueda-informacion
 
 Hipster ipsum has become a staple for designers and developers looking to add some humor and personality to their projects. It’s a type of Lorem Ipsum text that mimics the quirky and non-traditional language used by hipsters. Hipster ipsum is often made up of phrases that are ironic, nonsensical, or just plain odd.
 
-#Herramientas Digitales
+# Herramientas Digitales
 
-##¿De qué trata?
+## ¿De qué trata?
 
 En la era digital, la investigación se ha convertido en una tarea cada vez más compleja. La variedad de información disponible en línea, aunque es una oportunidad para adquirir conocimientos, también puede ser abrumadora y poco práctica. Encontrar información confiable, relevante y organizada puede ser un desafío, lo que lleva a una pérdida de tiempo y esfuerzo.
 
@@ -17,19 +17,19 @@ Es aquí donde herramientas digitales para la investigación entran en juego. Es
 
 Nuestro objetivo es brindar a los investigadores una guía completa y actualizada sobre las herramientas digitales que pueden potenciar su trabajo, permitiéndoles navegar con mayor facilidad y efectividad en el vasto mar de la información.
 
-###Créditos:
+### Créditos:
 1
 2
 3
 4
 Valentina Martinez-Landa
 
-#RECURSOS FORMALES
+# RECURSOS FORMALES
 
-##Base de datos de publicaciones científicas
-##Paga
+## Base de datos de publicaciones científicas
+## Paga
 
-##[Scopus](https://www.scopus.com/)
+## [Scopus](https://www.scopus.com/)
 
 Scopus es una base de datos bibliográfica de resúmenes y citas de artículos de revistas científicas propiedad de Elsevier lanzada en el año 2004.
 
@@ -45,7 +45,7 @@ Scopus es una base de datos bibliográfica de resúmenes y citas de artículos d
 **Créditos:**
 Valentina Martinez-Landa
 
-##[WoS](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
+## [WoS](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
 WoS es una plataforma que integra varios índices de citas, incluyendo el Science Citation Index Expanded (SCIE), el Social Sciences Citation Index (SSCI), el Arts & Humanities Citation Index (A&HCI), y el Emerging Sources Citation Index (ESCI).
 
 **Sirve para:**
@@ -60,10 +60,10 @@ WoS es una plataforma que integra varios índices de citas, incluyendo el Scienc
 **Créditos:**
 Valentina Martinez-Landa
 
-##Gratuita
-###Mundiales
+## Gratuita
+### Mundiales
 
-##[CORE](https://core.ac.uk/)
+## [CORE](https://core.ac.uk/)
 
 Es una plataforma digital que te permite acceder a un universo de publicaciones científicas de acceso abierto. Funciona como una biblioteca virtual gigante, reuniendo millones de artículos de investigación de miles de repositorios y revistas alrededor del mundo.
 
@@ -95,7 +95,7 @@ BASE se enfoca en proporcionar una búsqueda multidisciplinaria y amplia de recu
 **Créditos:**
 Valentina Martinez-Landa
 
-##[DOAJ](https://www.doaj.org/)
+## [DOAJ](https://www.doaj.org/)
 
 Es un directorio que lista revistas de acceso libre, científicas y académicas, que cumplan con estándares de alta calidad al utilizar la revisión por pares o control de calidad editorial y que sean gratuitas para todos al momento de su publicación.
 
@@ -129,7 +129,7 @@ Comencé buscando artículos sobre el impacto de la música en diferentes cultur
 **Créditos:**
 Valentina Martinez-Landa
 
-##[Anna's Archive](https://t.me/s/annasarchiveorg?before=31)
+## [Anna's Archive](https://t.me/s/annasarchiveorg?before=31)
 
 *Para entrar a esta herramienta es necesario visitar su canal en telegram*
 
@@ -151,7 +151,7 @@ Valentina Martinez-Landa
 
 SCIELO
 
-##[Redalyc](https://www.redalyc.org/home.oa)
+## [Redalyc](https://www.redalyc.org/home.oa)
 
 Redalyc, la Red de Revistas Científicas de América Latina y el Caribe, España y Portugal, es un proyecto sin fines de lucro que su principal objetivo es democratizar el acceso a la información académica, brindando a investigadores, estudiantes y público en general la posibilidad de leer, descargar, imprimir y distribuir de forma gratuita millones de artículos científicos publicados en revistas especializadas de Ciencias Sociales y Humanidades.
 
@@ -168,7 +168,7 @@ Indicadores bibliométricos: Ofrece indicadores como el factor de impacto y el �
 **Créditos:**
 Valentina Martinez-Landa
 
-##[Dialnet](https://dialnet.unirioja.es/)
+## [Dialnet](https://dialnet.unirioja.es/)
 
 Es como una biblioteca colosal dedicada a la ciencia en español. Esta plataforma digital te permite acceder a millones de artículos de investigación, libros, tesis doctorales y otros recursos en áreas como las ciencias sociales, las humanidades, las ciencias exactas y las ciencias de la salud.
 
@@ -186,9 +186,9 @@ Valentina Martinez-Landa
 
 REDIB
 
-###Buscadores de recursos
+### Buscadores de recursos
 
-##[Google Scholar](https://scholar.google.com/)
+## [Google Scholar](https://scholar.google.com/)
 
 Google Scholar es un motor de búsqueda que se enfoca en artículos académicos, tesis, libros, conferencias y otros documentos científicos y académicos. Funciona al escanear la web para encontrar y indexar estos documentos, y luego utiliza un algoritmo para clasificar y presentar los resultados relevantes en función de la relevancia y autoridad
 
@@ -212,9 +212,9 @@ World wide science
 
 DuckDuckGo
 
-#INFORMALES
+# INFORMALES
 
-##[Sci-Hub](https://t.me/scihubreal)
+## [Sci-Hub](https://t.me/scihubreal)
 
 *Para entrar a esta herramienta es necesario visitar su canal en telegram*
 
@@ -238,14 +238,14 @@ Biblioteca de Minecraft
 
 Hidden Wiki
 
-#Herramientas
+# Herramientas
 
 MINECRAFT
 
 <p>from <strong><a href="https://pxhere.com/es/photo/508643?utm_content=clipUser&utm_medium=referral&utm_source=pxhere">PxHere</a></strong></p>
 
 DuckDuck Go
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AThe_DuckDuckGo_Duck.png&psig=AOvVaw0lhgl5LNKYMA_LFv7_9Gu1&ust=1718295878059000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiFho291oYDFQAAAAAdAAAAABAE
+<img alt="Archivo:El pato DuckDuckGo Duck.png" src="//upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/600px-The_DuckDuckGo_Duck.png?20211207123706" decoding="async" width="600" height="600" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/900px-The_DuckDuckGo_Duck.png?20211207123706 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/1200px-The_DuckDuckGo_Duck.png?20211207123706 2x" data-file-width="2000" data-file-height="2000">
 
 Swisscows
 
@@ -271,6 +271,6 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fdust
 Hidden wiki
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHidden_Wiki_en_Tor_Browser.png&psig=AOvVaw1WWTs110AplqGwUUwk5T1S&ust=1718296451762000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCCgJ-_1oYDFQAAAAAdAAAAABAE
 
-##Herramienta de ayuda
+## Herramienta de ayuda
 
-#BIBLIOGRAFIA
+# BIBLIOGRAFIA
