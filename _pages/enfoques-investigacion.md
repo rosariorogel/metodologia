@@ -67,5 +67,5 @@ Es un proceso de investigación que busca comprender un fenómeno dentro de su e
 
 Pie de foto: Imagen con licencia de Creative Commons CC0.
 
-*Créditos: Derek Rosales Nava.*
+*Créditos: Derek Rosales-Nava.*
 
