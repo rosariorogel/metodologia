@@ -240,36 +240,35 @@ Hidden Wiki
 
 # Herramientas
 
-MINECRAFT
+## MINECRAFT
+<img itemprop="contentURL" width="1200" height="799" src="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" srcset="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" alt="edificio, pasillo, biblioteca, inmuebles, Biblioteca Pública, Librería">
 
-<p>from <strong><a href="https://pxhere.com/es/photo/508643?utm_content=clipUser&utm_medium=referral&utm_source=pxhere">PxHere</a></strong></p>
-
-DuckDuck Go
+## DuckDuck Go
 <img alt="Archivo:El pato DuckDuckGo Duck.png" src="//upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/600px-The_DuckDuckGo_Duck.png?20211207123706" decoding="async" width="600" height="600" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/900px-The_DuckDuckGo_Duck.png?20211207123706 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/1200px-The_DuckDuckGo_Duck.png?20211207123706 2x" data-file-width="2000" data-file-height="2000">
 
-Swisscows
+## Swisscows
 
-world wide science
+## world wide science
 
-Scielo
+## Scielo
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Imagenes_paises_scielo.png" width="886" height="762">
 
-Scopus:
+## Scopus:
 
 
-Google Scholar
+## Google Scholar
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png">
 
-DOAJ
+## DOAJ
 <img alt="Archivo:ResponsiveWriting.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ResponsiveWriting.png/800px-ResponsiveWriting.png?20180814160522" decoding="async" width="800" height="500" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ResponsiveWriting.png/1200px-ResponsiveWriting.png?20180814160522 1.5x, https://upload.wikimedia.org/wikipedia/commons/c/c6/ResponsiveWriting.png?20180814160522 2x" data-file-width="1280" data-file-height="800">E
 
-Redalyc
+## Redalyc
 <img alt="Archivo:Redalyc.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Redalyc.png/600px-Redalyc.png?20140217193230" decoding="async" width="600" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f7/Redalyc.png?20140217193230 1.5x" data-file-width="800" data-file-height="800">
 
-SciHub
+## SciHub
 <img src="//live.staticflickr.com/1709/25958240680_d8be0da1b5_b.jpg" class="zoom-small">
 
-Hidden wiki
+## Hidden wiki
 <img alt="Archivo:Hidden Wiki en Tor Browser.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/800px-Hidden_Wiki_en_Tor_Browser.png?20210814183306" decoding="async" width="800" height="438" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1200px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1600px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 2x" data-file-width="1849" data-file-height="1012">
 
 ## Herramienta de ayuda
