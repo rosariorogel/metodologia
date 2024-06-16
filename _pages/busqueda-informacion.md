@@ -244,7 +244,7 @@ Hidden Wiki
 <img itemprop="contentURL" width="1200" height="799" src="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" srcset="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" alt="edificio, pasillo, biblioteca, inmuebles, Biblioteca Pública, Librería">
 
 ## DuckDuck Go
-<img alt="Archivo:El pato DuckDuckGo Duck.png" src="//upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/600px-The_DuckDuckGo_Duck.png?20211207123706" decoding="async" width="600" height="600" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/900px-The_DuckDuckGo_Duck.png?20211207123706 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/1200px-The_DuckDuckGo_Duck.png?20211207123706 2x" data-file-width="2000" data-file-height="2000">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i2.wp.com/nksistemas.com/wp-content/uploads/2014/02/duckduckgo.jpg?fit=545%2C326&amp;ssl=1">
 
 ## Swisscows
 
