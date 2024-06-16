@@ -42,6 +42,9 @@ De acuerdo con esta primera gráfica, se determina que el 91% de las personas en
 
 
 
+
+
+
 ### **Pregunta No. 2**
 
 
