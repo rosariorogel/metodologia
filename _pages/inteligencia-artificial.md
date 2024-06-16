@@ -52,14 +52,14 @@ De acuerdo con el gráfico, los estudiantes de ciencias sociales con el 56% fuer
 ### **Pregunta No. 3**
 
 
-<img src="{{site.baseurl }}/assets/img/Gráfica3UsoIA.png" style="float:left;width:200px;padding-right:28px;">
+<img src="{{site.baseurl }}/assets/img/Gráfica3UsoIA.png" style="float:left;width:500px;padding-right:28px;">
 De acuerdo con este gráfico, el 74% por ciento de alumnos que estudian en el nivel superior de educación utilizan la inteligencia artificial para la investigación y el trabajo académico.
 
 <div style="clear: both;"></div>
 
 ### **Pregunta No. 4**
 
-<img src="{{site.baseurl }}/assets/img//Gráfica4FrecuenciaUsoIA.png" style="float:left;width:200px;padding-right:28px;">
+<img src="{{site.baseurl }}/assets/img//Gráfica4FrecuenciaUsoIA.png" style="float:left;width:500px;padding-right:28px;">
 El presente gráfico indica que, el 48% de los universitarios usan la Inteligencia Artificial 2 veces por semana, mientras que, el 17% lo utiliza siempre, es decir que no hay investigación que no lleve una respuesta dada por alguna Inteligencia Artificial.
 
 <div style="clear: both;"></div>
