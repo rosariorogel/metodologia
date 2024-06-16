@@ -10,6 +10,15 @@ Hipster ipsum has become a staple for designers and developers looking to add so
 
 
 
+## **Enfoques de investigación**
+Los enfoques de investigación social son un conjunto de planteamientos, sistematizados y controlados que sirve para cuestionarte y entender mejor un problema (Faneite,2023).
+
+
+Para ello, las y los investigadores deben establecer qué pretende hacer en su estudio y su elección depende de los objetivos de su investigación, la naturaleza de los datos, los métodos y herramientas de recopilación que utilizará y otros aspectos que pueden definir su centro de atención en la investigación (Faneite,2023).
+
+Una vez que tenemos elaborado el problema de investigación, preguntas, objetivos e hipótesis, se elabora el diseño y se selecciona la muestra que se utilizará en el estudio de acuerdo con el enfoque elegido, la siguiente etapa consiste en recolectar datos pertinentes sobre las variables, sucesos, comunidades u objetos involucrados en la investigación (Gómez, 2006:121).
+
+
 ## **Enfoque Cualitativo**
 La investigación cualitativa implica recopilar y analizar datos no numéricos para comprender conceptos, opiniones o experiencias, así como datos sobre experiencias vividas, emociones o comportamientos, con los significados que las personas les atribuyen. Por esta razón, los resultados se expresan en palabras. (Investigación cualitativa y cuantitativa, s. f.)
 
@@ -23,3 +32,15 @@ Consideramos que la herramienta puede ayudar de una buena forma al análisis de 
 #### *Ejemplos de Uso*
 En el artículo The Journal of Open Source Software nos hacen un pequeño resumen sobre el uso de la herramienta y nos comentan sobre publicaciones de investigaciones y artículos que han usado este software, tiene un grupo en [Zotero](https://www.zotero.org/groups/4373578/taguette) donde recopilan dichos textos.
 Investigación cualitativa y cuantitativa: Características y ventajas. (s. f.). Recuperado 13 de junio de 2024, de https://www.santanderopenacademy.com/es/blog/cualitativa-y-cuantitativa.html
+
+## **Enfoque mixto**
+La “metodología mixta”, es un enfoque pragmático de investigación, busca  que  los  datos  cualitativos se acoplen  a  los datos  cuantitativos, con  el  fin de enriquecer   la   metodología   y   los   resultados   de investigación. Este enfoque es adecuado por que logra una perspectiva más amplia y profunda, logrando una mayor teorización, los  datos son  más  y  variados. (Gómez, Deslauriers y Alzate,2010, p. 171)
+### Herramientas
+#### [LimeSurvey](https://www.limesurvey.org/es)
+Es una aplicación gratuita de encuestas en línea de código abierto. El software permite a los usuarios crear y publicar encuestas en línea, recopilar respuestas, crear estadísticas y exportar los resultados a otras aplicaciones. Es posible usar esta herramienta después de haber creado una cuenta y ofrece un plan gratuito que tiene la opción de tener un solo administrador, tiene un límite de respuestas por día y 250 MB de almacenamiento. Es posible usar esta herramienta después de haber creado una cuenta y ofrece un plan gratuito que tiene la opción de tener un solo administrador, tiene un límite de respuestas por día y 250 MB de almacenamiento.
+Sin embargo, la elección de usar la versión gratuita o pagar dependerá de cada persona, pues tendrá que considerar cuantas encuestas necesita.
+
+Se trata de una herramienta extremadamente versátil, donde se puede crear todo tipo de encuestas, con la posibilidad de definir preguntas en varios idiomas y crear usuarios para limitar el acceso a las encuestas. Además permite exportar los resultados en múltiples formatos. Y por si fuese poco, incorpora la posibilidad de generar encuestas en papel con un formato que permite se procesado automáticamente tan solo escaneando los resultados a PDF.
+### *Ejemplo de uso*
+LimeSurvey es una herramienta útil para realizar encuestas en línea no solo en investigaciones sino también en trabajos de tesis como lo es “Diseño e implementación de un sistema de información para la gestión de seguimiento a exalumnos de la facultad de Ingeniería”, en donde el objetivo fue diseñar una metodología de seguimiento a graduados y para ello se les aplicaron encuestas a través de LimeSurvey.
+
