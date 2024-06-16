@@ -79,7 +79,7 @@ Descubrir investigaciones innovadoras en tu campo de estudio.
 **Créditos:**
 Valentina Martinez-Landa
 
-##[BASE](https://www.base-search.net/.)
+## [BASE](https://www.base-search.net/.)
 
 BASE se enfoca en proporcionar una búsqueda multidisciplinaria y amplia de recursos académicos, incluyendo revistas, repositorios institucionales, colecciones digitales y otros tipos de recursos.
 
@@ -112,7 +112,7 @@ Es un directorio que lista revistas de acceso libre, científicas y académicas,
 **Créditos:**
 Valentina Martinez-Landa
 
-##[Project MUSE](https://muse.jhu.edu/)
+## [Project MUSE](https://muse.jhu.edu/)
 
 Imagina a Project MUSE como una biblioteca virtual que alberga un tesoro de publicaciones académicas en humanidades y ciencias sociales. Es una plataforma sin fines de lucro que reúne miles de artículos y libros electrónicos de editoriales universitarias y sociedades académicas de todo el mundo.
 
