@@ -117,6 +117,35 @@ Es un motor de búsqueda conversacional basado en inteligencia artificial que ut
 
 * Tiene la capacidad de comprender el contexto de una pregunta y proporcionar respuestas relevantes al tema que se está tratando.
 
+## [Gemini IA](https://gemini.google.com/app?hl=es)
+Es un modelo de inteligencia artificial creado por Google, y que busca liderar el competitivo mercado de la inteligencia artificial, es un modelo multimodal, entiende varios tipos de información, tanto los textos que le escribas como las imágenes. Antes llevaba por nombre "Bard".
+
+*Ventajas:*
+
+* Da respuestas combinando conocimientos escritos con información extraída de las imágenes y los videos.
+
+* Responde preguntas relacionadas con la identificación detallada de objetos en imágenes y videos.
+
+* Responder a las preguntas y extrae información de diversos contenidos, como infografías, gráficos, cifras, tablas y páginas web.
+
+* Genera descripciones de imágenes y videos con diferentes niveles de detalle.
+
+* Sugiere qué más ver según una ubicación, qué podría suceder después, antes o entre imágenes o videos.
+
+## [Consensus IA](https://consensus.app/)
+Es una herramienta que te permite explorar relaciones y obtener resúmenes de investigaciones académicas específicas. A diferencia de Chat GPT, Consensus tiene acceso limitado a bases de datos académicas de código abierto, lo que le permite ofrecer información precisa y confiable.
+
+*Ventajas:*
+
+* Acceso a bases de datos académicas de código abierto.
+
+* Ofrece resúmenes y citas de investigaciones específicas.
+
+* Permite acceder a documentos completos cuando estén disponibles.
+
+* Función de sintetizar múltiples estudios en un resumen general.
+
+* Orienta en la búsqueda de ideas y preguntas para un proyecto de investigación.
 
 # Desventajas de los sitios de Inteligencia Artificial
 
