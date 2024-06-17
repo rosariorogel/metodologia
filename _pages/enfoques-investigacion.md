@@ -5,15 +5,13 @@ subtitle: Enfoques de investigación cuantitativos, cualitativos y mixtos
 permalink: enfoques-investigacion
 ---
 
-# **Enfoques de Investigación**
-
 Los enfoques de investigación son los métodos y estrategias utilizados para investigar y adquirir conocimiento en diversas disciplinas, más en específico en las de carácter cinetífico o que requieren del método científico para su análisis, explicacicón y entendimiento. Este proyecto orienta y brinda algunas características sobre los métodos cuantitativos, cualitativos y mixtos, además exponemos ventajas y desventajas de los métodos "cuanti" y "cuali".
 
 Este apartado web es una herramienta valiosa para estudiantes, investigadores y público interesados en conocer las diferentes metodologías utilizadas para generar conocimiento, además, permite a los usuarios comprender los fundamentos de cada enfoque de investigación, sus aplicaciones y sus limitaciones, lo que les ayudará a tomar decisiones informadas sobre la mejor manera de abordar un problema de investigación específico.  
 
 Todo aquel que busque ampliar su conocimiento, tendrá acceso a un grupo en Zotero, donde encontrará journals de acceso abierto, ensayos, libros, videos y páginas web asegurando así que la información es confiable. Las infografías mostradas en todas las imágenes fueron creadas con [Canva.](https://www.canva.com/ "Canva")
 
-*Créditos: Paola Altamirano-Dávila.*
+***Créditos: Paola Altamirano-Dávila.***
 
 ---
 
@@ -37,7 +35,7 @@ La investigación cuantitativa busca dar un análisis de información enfocado a
 
 Imagen con licencia de Creative Commons CC0.
 
-*Créditos: Alex Guerrero-Torres.*
+***Créditos: Alex Guerrero-Torres.***
 
 
 ---
@@ -69,7 +67,7 @@ Es un proceso de investigación que busca comprender un fenómeno dentro de su e
 
 Imagen con licencia de Creative Commons CC0.
 
-*Créditos: Derek Rosales-Nava.*
+***Créditos: Derek Rosales-Nava.***
 
 ---
 
@@ -113,4 +111,4 @@ Utilizar métodos mixtos en la investigación proporciona varios beneficios impo
 
 Imagen con licencia de Creative Commons CC0.
 
-*Créditos: Paola Altamirano-Dávila.*
+***Créditos: Paola Altamirano-Dávila.***
