@@ -124,7 +124,7 @@ Instagram: [@ale.x_turner](https://www.instagram.com/ale.x_turner/)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoPaolaLP.jpg" style="float:left;width:200px;padding-right:20px;">
-**Paola Lázaro-Pastor** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). 
+**Paola Lazaro-Pastor** Estudiante de la carrera de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). 
 
 Instagram: [@PaolaLP](https://www.instagram.com/paolalazaropastor/)
 
