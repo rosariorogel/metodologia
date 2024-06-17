@@ -5,7 +5,8 @@ subtitle: Herramientas para recolectar datos de investigación
 permalink: recolectando-datos
 ---
 
-Bienvenidx
+Bienvenidxs
+
 En este apartado encontrarás una serie de herramientas que te ayudarán a recolectar/analizar datos para tus trabajos de investigación.
 
 En primer lugar, hallarás una breve introducción sobre los tres principales tipos de enfoques (cuantitativo, cualitativo y mixto), posteriormente encontrarás enlistadas las seis herramientas con una breve descripción y adicionalmente un ejemplo de uso.
