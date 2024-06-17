@@ -31,6 +31,9 @@ Algunas de estas herramientas nos permiten ingresar de manera fácil y gratuita,
 
 Cabe mencionar que en el ámbito académico, se utilizan diferentes herramientas de investigación en donde se busca la mejora de los resultados, por ello, en las bibliotecas digitales que ofrecen  las diferentes instituciones, tienen como objetivo hacer una investigación más enriquecedora y que con ello se pueda acceder a otras herramientas, ya sean gratuitas o de paga.
 
+**Créditos**
+Fernanda De Jesús-Nicolás
+
 
 ## Base de datos de publicaciones científicas
 ## Paga
@@ -293,6 +296,27 @@ Fue muy fácil ingresar, ya que no tienes que registrarte y tu búsqueda se hace
 **Créditos:**
 Fernanda De Jesús-Nicolás
 
+## Gratuita
+### Mundiales
+
+## [springer link](https://link.springer.com/)
+
+ Es un portafolio científico, técnico y médico líder a nivel mundial que brinda a los investigadores del mundo académico, instituciones 
+ científicas y departamentos corporativos de I + D contenido de calidad mediante información, productos y servicios innovadores.
+ 
+ **Te permite**
+
+ Buscar información electrónica del campo de las ciencias, la técnica y las ciencias sociales. Proporciona acceso a publicaciones de 
+ todo tipo: revistas, libros, series de libros, protocolos y cualquier otra ofra de prefencia.
+
+ **Experiencia**
+ Es de acceso abierto, esto permite que los investigadores o cual quier otra persona interedasa en la investigación puean acceder a este, no necesitas registrarte, puedes ingresar de morma rápida. La información con la que cuenta es confiable y de calidad, esto permite hacer mejores investigaciones.
+
+ **Créditos**
+ Fernanda De Jesús-Nicolás
+
+ 
+
 # **INFORMALES**
 En la era digital, el acceso a la información es más fácil y rápido que nunca, gracias a las diversas herramientas de búsqueda informales que encontramos disponibles en Internet, estas herramientas son esenciales para la vida cotidiana, el trabajo y el aprendizaje, permitiendo a los usuarios obtener datos relevantes de manera rápida y eficaz.
 
@@ -324,6 +348,43 @@ Sci-Hub me permitió superar esta barrera económica y acceder a una gran cantid
 
 **Créditos:**
 Valentina Martinez-Landa
+
+## Gratuita
+## Mundiales
+
+## [z-library](https://z-lib.id/) 
+
+Es un proyecto de biblioteca fantasma, que tiene una operación y administración que no está bien documentadas, se sabe que utiliza una página de inicio en un dominio fácil de recordar y enumera dominios espejo para diferentes regiones para evitar la inclusión en listas negras de dominios. 
+
+**Te permite**
+
+ Descargar libros de cualquier índole, de manera rápida y automática, es de fácil acceso para los usuarios, permite acceder a articulos, libros academicos y de interés general. Ya que en él puedes encontrar herramientas de investigación, pero también puedes encontar libros de ciencia ficción, de remoce o cualquier otro.
+
+**Experiencia**
+
+Solo tienes que ingresar, poner el nombre de el artiículo o libro que deses buscar, posteriormente  te registras y lo descargas, es una plataforma de fácil acceso y abierta para todos los uruarios.
+
+**Créditos**
+Fernanda De Jesús-Nicolás
+
+## Gratuita
+### Mundiales
+
+## [Library Genesis](https://libgen.is/)
+
+Es una plataforma de intercambio de archivos que proporciona acceso a una gran colección de libros y artículos académicos, se puede acceder a través de una aplicación de escritorio. Con sede en Rusia y Holanda, y también desde la darknet o deep web, LibGen es probablemente la shadow library con el acervo más grande de libros en la historia de internet.
+
+**Te permite**
+
+Tener acceso a una gran catidad herramientas académicas y científicas, además de que prorcina una gran variedad de comics y cualquier otro libro de ficción.
+
+**Experiencia**
+El acceso es muy rápido y fácil, ingresas a la prataforma, no tienes que registrarte, solo buscas el nombre del libro que deseas, escoges el idioma, posteriormete seleccionas el formato de el libro y puedes tener acceso a este de manera automática.
+
+**Créditos**
+Fernanda De Jesús-Nicolás 
+
+
 
 ## **[Biblioteca de Minecraft](https://www.uncensoredlibrary.com/en)**
 
