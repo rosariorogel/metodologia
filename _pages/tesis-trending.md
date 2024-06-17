@@ -12,7 +12,7 @@ Querido lector, a continuación te presentamos una sección de periódico en don
 
 *Créditos: Fátima-Pantoja, Tere-Pueblas.*
 
-<img src="{{site.baseurl }}/assets/img/Birrete.jpg style="float:left;width:500px;padding-right:28px;">
+<img src="{{site.baseurl }}/assets/img/Birrete.jpg" style="float:left;width:500px;padding-right:28px;">
 
 Esperamos,que la información del periódico te sea útil para que puedas en un futuro elaborar con éxito tu tesis doctoral.
 
