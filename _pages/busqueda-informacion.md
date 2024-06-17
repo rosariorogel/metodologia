@@ -296,7 +296,7 @@ Sci-Hub me permitió superar esta barrera económica y acceder a una gran cantid
 **Créditos:**
 Valentina Martinez-Landa
 
-# **[Biblioteca de Minecraft](https://www.uncensoredlibrary.com/en)**
+## **[Biblioteca de Minecraft](https://www.uncensoredlibrary.com/en)**
 
 La Uncensored Library es un proyecto desarrollado por Reporteros Sin Fronteras (RSF) en colaboración con BlockWorks y MediaMonks. La biblioteca se encuentra dentro del popular juego de computadora Minecraft y fue lanzada el 12 de marzo de 2020, coincidiendo con el Día Mundial Contra la Censura en Internet.
 
@@ -317,7 +317,7 @@ La principal motivación de esta biblioteca es brindar una fuente de informació
 **Créditos:**
 Sofia Michelle Camargo-González
 
-# **Hidden Wiki**
+## **[Hidden Wiki](https://thehiddenwiki.org)**
 La Hidden Wiki es un punto de partida popular para quienes desean explorar la Dark Web. Proporciona enlaces categorizados a una variedad de sitios, que van desde foros y servicios de correo electrónico anónimos hasta mercados ilegales y bibliotecas digitales. Es importante señalar que, debido a la naturaleza no regulada de la Dark Web, muchos de los enlaces pueden llevar a contenido ilegal o malicioso.
 
 Se trata de un repositorio de información en la dark web (o web profunda), funciona como un índice para acceder a páginas de dominio “.onion”.
