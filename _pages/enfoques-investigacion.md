@@ -137,6 +137,7 @@ El enfoque mixto surge como una alternativa que busca combinar las fortalezas de
 
 Sin embargo, el enfoque mixto también presenta sus propias complejidades. La integración de datos de naturaleza tan diversa exige un mayor dominio de metodologías y técnicas tanto cuantitativas como cualitativas, lo que incrementa la complejidad del diseño de la investigación. Además, el proceso de integración y análisis de datos mixtos puede ser más demandante en términos de tiempo y recursos.
 
+![Infografía Ventajas y Desventajas](https://upload.wikimedia.org/wikipedia/commons/4/4c/Ventajas_y_Desventajas.jpg)
 
 *Créditos: Fabiola Pulido-Márquez.*
 
