@@ -12,5 +12,5 @@ Querido lector, a continuación te presentamos una sección de periódico en don
 
 *Créditos: Fátima-Pantoja, Tere-Pueblas.*
 
-Esperamos, que la información del periódico te sea útil para que puedas elaborar con éxito tu tesis doctoral.
+
 
