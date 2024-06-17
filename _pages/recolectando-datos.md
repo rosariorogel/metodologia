@@ -84,3 +84,9 @@ LimeSurvey es una herramienta útil para realizar encuestas en línea no solo en
 
 ## **Cuadro comparativo**
 <img src="{{ site.baseurl }}/assets/img/Herramientas.png">
+
+
+## Bibliografía
+Las fuentes utilizadas para la realización de este proyecto están disponibles en un grupo de Zotero llamado: Metodología FCPyS en el apartado 3.3 Herramientas de investigación.
+
+[3.3 Herramientas de investigación](https://www.zotero.org/groups/5388483/metodologa_fcpys/collections/KR5PFIAK)
