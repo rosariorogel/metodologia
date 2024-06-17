@@ -198,7 +198,20 @@ Es como una biblioteca colosal dedicada a la ciencia en español. Esta plataform
 **Créditos:**
 Valentina Martinez-Landa
 
-REDIB
+## [REDIB](https://www.redib.org/)
+
+Es una plataforma digital que ofrece acceso abierto a una vasta colección de recursos científicos y académicos producidos en Iberoamérica.
+
+**Te permite:**
+
+Encontrar publicaciones científicas de calidad contrastada: Su buscador avanzado te facilita la búsqueda por autor, título, tema, palabras clave, ISSN y DOI, entre otros criterios.
+Gestionar tus búsquedas y referencias: Puedes crear listas personalizadas de resultados, guardar referencias bibliográficas en diferentes formatos y exportarlas a gestores de referencias como EndNote o Zotero.
+
+**Experiencia:**
+“El inicio de la página se ve estetico y hace que la experiencia sea más agradable al navegar, ya que de cierta forma no se siente tan tediosa de usar, además de que es similar a los buscadores de siempre pero ya no es necesario revisar la información que aparece porque como ya es certificada por todas esas instituciones la revisión de calidad de información será menos cansada.”
+
+**Créditos:**
+Dareysa Lopez-Gonzalez
 
 ### Buscadores de recursos
 
@@ -225,12 +238,15 @@ Valentina Martinez-Landa
 ## Mundial
 
 ## [Swissocows](https://swisscows.com/es)
+
 Este se enfoca en la privacidad y no almacena datos a los usuarios, proporciona información de manera instantánea, está disponible en varios idiomas. lo que permite tener fácil acceso a información, de diferentes partes del mundo de una manera fácil y anónima, para así proteger tus datos personales.
 
 **Te permite:**
+
 Buscar información en el menor tiempo posible, de forma rápida y segura, ya que cuando hagas una consulta de información no quedará rastro alguno, esto permite proteger a los usuarios, para así ser una comunidad segura, respeta tu privacidad, puedes consultar cualquier tema de tu agrado en el idioma que desees.
 
 **Experiencia**
+
 “Fue muy fácil de ingresar, no tuve que registrarme en la versión gratuita, no deja historial, tu búsqueda se hace de forma automática, encuentras variedad de información.
 Tiene dos opciones de uso el primero es de manera gratuita y el segundo de paga, como usuario decides cómo quieres pagar, de forma anual o mensual.”
 
@@ -240,12 +256,19 @@ Fernanda De Jesús-Nicolás
 
 ## [World wide science](https://worldwidescience.org/)
 
-[Texto]
+Este sitio web nos ayuda a buscar información a la que es más complicado acceder desde buscadores comerciales, ya que realiza estas búsquedas en portales científicos de los países que son parte de la creación de este sitio web
 
 **Te permite:**
 
-1. Encontrar información científica de diversas fuentes: Te brinda acceso a una amplia gama de recursos científicos, incluyendo artículos de revistas, libros, informes, datos de investigación, etc.
-2. Realizar búsquedas exhaustivas: Te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
+Encontrar información científica de diversas fuentes: Te brinda acceso a una amplia gama de recursos científicos, incluyendo artículos de revistas, libros, informes, datos de investigación, etc.
+Realizar búsquedas exhaustivas: Te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
+
+**Experiencia**
+
+“Debido a que es una herramienta tan intuitiva de usar al igual que otros buscadores comerciales se me facilita el utilizarla, además me gusta que puedo configurar el idioma desde el inicio, porque ahorro tiempo al no tener que recurrir a una herramienta específica para convertirlo al idioma que necesito”
+
+**Créditos:**
+Dareysa Lopez-Gonzalez
 
 ## Gratuita
 ## Mundial
