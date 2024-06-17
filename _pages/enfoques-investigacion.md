@@ -35,13 +35,13 @@ La investigación cuantitativa busca dar un análisis de información enfocado a
 
 <img src="{{ site.baseurl }}github/docs/blob/main/assets/img/Enfoque_Cuantitativo.png" style="float:left;width:643px;padding-right:1600px;">
 
-<import logo from src= '/src/assets/img/imagen.png'>
-
 Imagen con licencia de Creative Commons CC0.
 
 *Créditos: Alex Guerrero-Torres.*
 
+
 ---
+
 
 ## **Enfoque cualitativo**
 
