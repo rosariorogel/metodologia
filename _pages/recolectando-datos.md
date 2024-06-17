@@ -9,7 +9,7 @@ Bienvenidxs
 
 En este apartado encontrarás una serie de herramientas que te ayudarán a recolectar/analizar datos para tus trabajos de investigación.
 
-En primer lugar, hallarás una breve introducción sobre los tres principales tipos de enfoques (cuantitativo, cualitativo y mixto), posteriormente encontrarás enlistadas las seis herramientas con una breve descripción y adicionalmente un ejemplo de uso.
+En primer lugar, hallarás una breve introducción sobre los tres principales tipos de enfoques (cualitativo, cuantitativo y mixto), posteriormente encontrarás enlistadas las seis herramientas con una breve descripción y adicionalmente un ejemplo de uso.
 
 Se adjunta un video previamente subido a la plataforma de YouTube, en donde explicamos qué es lo que ofrece cada herramienta y una breve demostración del uso de cada una de ellas. Finalmente, compartimos un cuadro comparativo que nos ayudó a tener una mejor organización y encontrar relaciones entre las herramientas.
 
