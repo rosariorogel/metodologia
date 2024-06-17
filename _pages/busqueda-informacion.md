@@ -221,7 +221,9 @@ Tiene una amplia gama de fuentes anexadas, permite filtrar los resultados de dif
 Valentina Martinez-Landa
 
 ## Mixto
+
 ## Mundial
+
 ## [Swissocows](https://swisscows.com/es)
 Este se enfoca en la privacidad y no almacena datos a los usuarios, proporciona información de manera instantánea, está disponible en varios idiomas. lo que permite tener fácil acceso a información, de diferentes partes del mundo de una manera fácil y anónima, para así proteger tus datos personales.
 
@@ -325,8 +327,11 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 * **Enlaces a sitios de la Dark Web**
 
 *   **Artículos informativos sobre privacidad y anonimato.**
+
 *   **Servicios financieros.**
+
   *  a) Ofrece enlaces a servicios que permiten operaciones financieras anónimas, como lavado de bitcoins, compraventa de criptomonedas y servicios de pago por tarjetas de crédito.
+ 
   *  b) Tarjetas de crédito clonadas, falsificación de billetes, carteras de dinero anónimas.
   
 * **Servicios comerciales**
