@@ -11,7 +11,7 @@ En este apartado encontrarás una serie de herramientas que te ayudarán a recol
 
 En primer lugar, hallarás una breve introducción sobre los tres principales tipos de enfoques (cuantitativo, cualitativo y mixto), posteriormente encontrarás enlistadas las seis herramientas con una breve descripción y adicionalmente un ejemplo de uso.
 
-Se adjunta un video previamente subido a la plataforma de YouTube, en donde explicamos qué es lo que ofrece cada herramienta y una breve demostración del uso de cada una de ellas. Finalmente, compartimos un cuadro comparativo que nos ayudó a tener una mejor organización y encontrar relaciones entre las aplicaciones.
+Se adjunta un video previamente subido a la plataforma de YouTube, en donde explicamos qué es lo que ofrece cada herramienta y una breve demostración del uso de cada una de ellas. Finalmente, compartimos un cuadro comparativo que nos ayudó a tener una mejor organización y encontrar relaciones entre las herramientas.
 
 
 
@@ -37,7 +37,6 @@ Es una herramienta de software de código abierto diseñada para facilitar el an
 Consideramos que la herramienta puede ayudar de una buena forma al análisis de tus textos y a poder tener una buena organización, además con las etiquetas que tú coloques en tus documentos te servirá para encontrar más rápido tus ideas centrales.
 #### *Ejemplos de Uso*
 En el artículo The Journal of Open Source Software nos hacen un pequeño resumen sobre el uso de la herramienta y nos comentan sobre publicaciones de investigaciones y artículos que han usado este software, tiene un grupo en [Zotero](https://www.zotero.org/groups/4373578/taguette) donde recopilan dichos textos.
-Investigación cualitativa y cuantitativa: Características y ventajas. (s. f.). Recuperado 13 de junio de 2024, de https://www.santanderopenacademy.com/es/blog/cualitativa-y-cuantitativa.html
 
 
 ## **Enfoque cuantitativo**
