@@ -38,6 +38,11 @@ Consideramos que la herramienta puede ayudar de una buena forma al análisis de 
 #### *Ejemplos de Uso*
 En el artículo The Journal of Open Source Software nos hacen un pequeño resumen sobre el uso de la herramienta y nos comentan sobre publicaciones de investigaciones y artículos que han usado este software, tiene un grupo en [Zotero](https://www.zotero.org/groups/4373578/taguette) donde recopilan dichos textos.
 
+#### QDA Miner lite
+#### [QDA Miner lite](https://provalisresearch.com/es/products/software-de-analisis-cualitativo/freeware/)
+Es un software de análisis cualitativo de datos (CAQDAS) fácil de usar, analiza datos de diversas fuentes, como entrevistas, transcripciones, notas de campo, documentos, imágenes y audio. Esta herramienta busca organizar, codificar, analizar y visualizar datos cualitativos de manera eficiente y sistemática. Es una herramienta gratuita de descarga para Windows y iOS, sin embargo, puedes obtener una membresía para mayores beneficios. (Provalis Research, sin fecha, QDA Miner Lite)
+#### *Ejemplos de Uso*
+En este caso, existen diversas investigaciones las cuales utilizaron esta herramienta, esta pagina web muestra todo lo que te puede encontrar dento de esta herramienta (QDA miner lite, sin fecha, Provalis)
 
 ## **Enfoque cuantitativo**
 El enfoque cuantitativo de investigación utiliza la recolección de datos para probar hipótesis con base en la medición numérica y el análisis estadístico, con el fin de establecer pautas de comportamiento y probar teorías. Se basa en el uso de técnicas estadísticas para conocer y describir a la población o fenómeno que se está estudiando; se puede utilizar en diferentes áreas de conocimiento (Hernández,  Fernándezy Baptista; 2014, pp. 4-5).
@@ -53,6 +58,7 @@ Puede utilizarse tanto como herramienta cuantitativa, dependiendo de los objetiv
 #### *Ejemplo de uso*
 La herramienta Google Forms fue utilizada en la evaluación diagnóstica como apoyo en las actividades docentes, tal fue el caso con estudiantes de la Licenciatura en Turismo.
 Hermelinda Patricia Leyva López y sus coautoras Monserrat Gabriela Pérez Vera y Sandra Mercedes Pérez Vera publican el artículo científico con el propósito de promover el desarrollo y divulgación de la investigación en educación en América Latina en la Revista Iberoamericana para la Investigación y el Desarrollo Educativo (RIDE).
+
 #### [KoboToolbox](https://www.kobotoolbox.org/)
 Herramienta desarrollada por la **Iniciativa Humanitaria de Harvard** (https://www.kobotoolbox.org/about-us/impact/) para la recolección de datos cuantitativos y cualitativos en contextos humanitarios y de investigación. Esta es una herramienta de codigo abierto pero que se convierte de paga cuando se supera 1GB de almacenamiento de datos.
 Características: Fácil creación de formularios para la recolección de datos offline y online, análisis de datos integrados, compatible con dispositivos móviles. Lo recomendamos por que es una herramienta facil de usar y para crear formularios rapidos.
@@ -72,3 +78,4 @@ Se trata de una herramienta extremadamente versátil, donde se puede crear todo 
 ### *Ejemplo de uso*
 LimeSurvey es una herramienta útil para realizar encuestas en línea no solo en investigaciones sino también en trabajos de tesis como lo es “Diseño e implementación de un sistema de información para la gestión de seguimiento a exalumnos de la facultad de Ingeniería”, en donde el objetivo fue diseñar una metodología de seguimiento a graduados y para ello se les aplicaron encuestas a través de LimeSurvey.
 
+<img src="{{ site.baseurl }}/assets/img/Herramientas.png">
