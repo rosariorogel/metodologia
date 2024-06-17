@@ -112,3 +112,31 @@ Utilizar métodos mixtos en la investigación proporciona varios beneficios impo
 Imagen con licencia de Creative Commons CC0.
 
 ***Créditos: Paola Altamirano-Dávila.***
+
+---
+
+## **Ventajas y desventajas de los enfoques**
+
+En el ámbito de la investigación, la elección del enfoque metodológico adecuado es crucial para el éxito del proyecto. En este sentido,  estos tres enfoques (cuantitativo, cualitativo y mixto) se presentan como herramientas valiosas para comprender los fenómenos que nos rodean, donde cada uno ofrece una perspectiva única y posee fortalezas y debilidades propias, por lo que la selección del enfoque más adecuado dependerá de los objetivos específicos de la investigación y las características del problema a estudiar.
+
+### **Enfoque cuantitativo**
+
+El enfoque cuantitativo se caracteriza por el uso de métodos estructurados y sistemáticos para la recolección y análisis de datos numéricos. Este enfoque busca medir, cuantificar y generalizar los resultados obtenidos, permitiendo extraer inferencias sobre poblaciones más amplias. Entre sus principales ventajas se encuentran la precisión, objetividad y capacidad de generalización de los hallazgos.
+
+Sin embargo, el enfoque cuantitativo también presenta algunas limitaciones. Su rigidez metodológica puede dificultar la adaptación a matices inesperados, mientras que su énfasis en lo cuantificable puede relegar a un segundo plano aspectos no medibles como emociones o experiencias subjetivas. Además, la distancia que se genera entre el investigador y el contexto social del fenómeno estudiado puede afectar la comprensión profunda del mismo.
+
+### **Enfoque cualitativo**
+
+El enfoque cualitativo se centra en la comprensión profunda de las experiencias, perspectivas y significados de los individuos o grupos sociales. A través de métodos como entrevistas abiertas, observaciones detalladas y análisis interpretativo, este enfoque busca captar la complejidad y subjetividad de los fenómenos sociales. Entre sus principales fortalezas se encuentran la profundidad, flexibilidad y capacidad para capturar la complejidad de los fenómenos.
+
+No obstante, el enfoque cualitativo también presenta algunos desafíos. La subjetividad inherente a la interpretación de los datos puede generar sesgos, mientras que la dificultad para generalizar los resultados limita su alcance a poblaciones o contextos específicos.  Adicionalmente, la recolección y análisis de datos cualitativos demandan un compromiso significativo de tiempo y recursos.
+
+### **Enfoque mixto**
+
+El enfoque mixto surge como una alternativa que busca combinar las fortalezas de los enfoques cuantitativo y cualitativo, permitiendo obtener una visión más completa y matizada de la realidad social. Mediante la triangulación de datos numéricos y perspectivas cualitativas, este enfoque ofrece una comprensión más profunda y rica de los fenómenos estudiados.
+
+Sin embargo, el enfoque mixto también presenta sus propias complejidades. La integración de datos de naturaleza tan diversa exige un mayor dominio de metodologías y técnicas tanto cuantitativas como cualitativas, lo que incrementa la complejidad del diseño de la investigación. Además, el proceso de integración y análisis de datos mixtos puede ser más demandante en términos de tiempo y recursos.
+
+
+*Créditos: Fabiola Pulido-Márquez.*
+
