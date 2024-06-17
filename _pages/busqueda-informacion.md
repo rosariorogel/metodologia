@@ -262,7 +262,17 @@ Fue muy fácil ingresar, ya que no tienes que registrarte y tu búsqueda se hace
 **Créditos:**
 Fernanda De Jesús-Nicolás
 
-# INFORMALES
+# **INFORMALES**
+En la era digital, el acceso a la información es más fácil y rápido que nunca, gracias a las diversas herramientas de búsqueda informales que encontramos disponibles en Internet, estas herramientas son esenciales para la vida cotidiana, el trabajo y el aprendizaje, permitiendo a los usuarios obtener datos relevantes de manera rápida y eficaz.
+
+ A diferencia de las búsquedas académicas o profesionales, que pueden requerir el uso de bases de datos especializadas y la consulta de fuentes verificadas, las herramientas de búsqueda de información informales se enfocan en obtener información de manera ágil y accesible. Las herramientas informales se manejan desde motores de búsqueda impulsados por inteligencia artificial, bibliotecas digitales creadas en diversas plataformas, foros de discusión, hasta repositorios de links que provienen de la Dark Web. Algunas veces estas mismas herramientas rozan la delgada línea entre lo legal e ilegal ya que algunos de estos recursos cuentan con información delicada, no verificada o con enlaces maliciosos.
+
+Como lo es el caso de la Dark Web; recordemos que la Dark Web es una subsección de la Deep Web, la cual incluye todas las páginas web que no son accesibles a través de motores de búsqueda normales. A diferencia de la Deep Web, que simplemente incluye contenido no indexado (como bases de datos privadas y sitios web protegidos por contraseña), la Dark Web está intencionalmente oculta y utiliza capas de encriptación para mantener el anonimato de los usuarios y los operadores de los sitios.
+
+Es importante mencionar que en el siguiente apartado mencionaremos algunos de estos recursos con fines meramente informativos, haciendo hincapié en que el uso que se le dé por los usuarios, es bajo su propia responsabilidad.
+
+**Créditos:**
+Sofia Michelle Camargo-González
 
 ## [Sci-Hub](https://t.me/scihubreal)
 
