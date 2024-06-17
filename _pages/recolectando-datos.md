@@ -78,13 +78,9 @@ Se trata de una herramienta extremadamente versátil, donde se puede crear todo 
 LimeSurvey es una herramienta útil para realizar encuestas en línea no solo en investigaciones sino también en trabajos de tesis como lo es “Diseño e implementación de un sistema de información para la gestión de seguimiento a las y los exalumnos de la facultad de Ingeniería, Universidad de Cuenca”, en donde el objetivo fue diseñar una metodología de seguimiento a graduados y graduadas, para ello se les aplicaron encuestas a través de LimeSurvey.
 
 
-## **Para tener una mejor experiencia utilizando estas herramientas, te 
+## **Para tener una mejor experiencia utilizando estas herramientas, te sugerirnos mirar el siguiente video:**
 
----
+[HERRAMIENTAS DE INTERPRETACIÓN Y ANÁLISIS DE DATOS](https://youtu.be/QojvHRwqCQE)
 
-sugerirnos mirar el siguiente video:**
-
-**https://youtu.be/QojvHRwqCQE**
-
-## **Cuadro comparativo
+## **Cuadro comparativo**
 <img src="{{ site.baseurl }}/assets/img/Herramientas.png">
