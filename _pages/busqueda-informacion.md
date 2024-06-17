@@ -157,13 +157,18 @@ Valentina Martinez-Landa
 
 ## [SCIELO](https://scielo.org/es)
 
-[Texto]
+Es una biblioteca electrónica que ofrece acceso abierto a una amplia colección de revistas científicas de alta calidad publicadas en América Latina, el Caribe, España y Portugal.
 
 **Te permite:**
 
-Encontrar artículos científicos de diversas áreas del conocimiento: Alberga una colección de más de 3.500 revistas que abarcan todas las áreas del conocimiento, desde las ciencias naturales y exactas hasta las ciencias sociales y humanidades.
-Leer artículos en español, portugués e inglés: Se ofrece la mayoría de sus artículos en español y portugués, y muchos de ellos también están disponibles en inglés.
+Encontrar artículos científicos de diversas áreas del conocimiento: Alberga una colección de más de 3.500 revistas que abarcan todas las áreas del conocimiento, desde las ciencias naturales y exactas hasta las ciencias sociales y humanidades. Leer artículos en español, portugués e inglés: Se ofrece la mayoría de sus artículos en español y portugués, y muchos de ellos también están disponibles en inglés.
 
+**Experiencia:**
+
+“En mi caso ha sido muy buena ya que me ha permitido organizar de manera eficiente mi tiempo y mis tareas. Su interfaz es muy intuitiva y fácil de usar, lo que me ha ayudado a mantenerme enfocado en mis objetivos. Además, me ha brindado la posibilidad de colaborar con mi equipo de forma efectiva, permitiendo una comunicación fluida y un trabajo en conjunto más productivo”
+
+**Créditos:**
+Christian Galván Iglesias
 
 ## [Redalyc](https://www.redalyc.org/home.oa)
 
