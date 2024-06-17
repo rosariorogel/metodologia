@@ -60,12 +60,11 @@ La herramienta Google Forms fue utilizada en la evaluación diagnóstica como ap
 Hermelinda Patricia Leyva López y sus coautoras Monserrat Gabriela Pérez Vera y Sandra Mercedes Pérez Vera publican el artículo científico con el propósito de promover el desarrollo y divulgación de la investigación en educación en América Latina en la Revista Iberoamericana para la Investigación y el Desarrollo Educativo (RIDE).
 
 #### [KoboToolbox](https://www.kobotoolbox.org/)
-Herramienta desarrollada por la **Iniciativa Humanitaria de Harvard** (https://www.kobotoolbox.org/about-us/impact/) para la recolección de datos cuantitativos y cualitativos en contextos humanitarios y de investigación. Esta es una herramienta de codigo abierto pero que se convierte de paga cuando se supera 1GB de almacenamiento de datos.
+Herramienta desarrollada por la [Iniciativa Humanitaria de Harvard](https://www.kobotoolbox.org/about-us/impact/) para la recolección de datos cuantitativos y cualitativos en contextos humanitarios y de investigación. Esta es una herramienta de codigo abierto pero que se convierte de paga cuando se supera 1GB de almacenamiento de datos.
 Características: Fácil creación de formularios para la recolección de datos offline y online, análisis de datos integrados, compatible con dispositivos móviles. Lo recomendamos por que es una herramienta facil de usar y para crear formularios rapidos.
 #### *Ejemplo de uso*
-
-  Das, A. S. (2024). Chapter 4 - KoboToolbox. In A. Pundhir, A. K. Mehto, & A. Jaiswal (Eds.), Open Electronic Data Capture Tools for Medical and Biomedical Research and Medical Allied Professionals (pp. 241–329). Academic Press. https://doi.org/10.1016/B978-0-443-15665-6.00004-X
-
+La herramienta KoboToolbox fue utilizada para la recopilación de datos a través de un teléfono inteligente y la tabulación automática en diferentes formatos.
+Santiago Soares Da Silva y Marcio Rodrigues Silva publican el artículo científico en la Revista Eletrônica do Curso de GeografiaGraduação e Pós-Graduação (GEOAMBIENTE ON-LINE).
 
 ## **Enfoque mixto**
 La “metodología mixta”, es un enfoque pragmático de investigación, busca  que  los  datos  cualitativos se acoplen  a  los datos  cuantitativos, con  el  fin de enriquecer   la   metodología   y   los   resultados   de investigación. Este enfoque es adecuado por que logra una perspectiva más amplia y profunda, logrando una mayor teorización, los  datos son  más  y  variados. (Gómez, Deslauriers y Alzate,2010, p. 171)
