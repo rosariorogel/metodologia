@@ -290,10 +290,8 @@ Hidden Wiki
 
 # Herramientas
 
-## MINECRAFT
+## **MINECRAFT**
 <img itemprop="contentURL" width="1200" height="799" src="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" srcset="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" alt="edificio, pasillo, biblioteca, inmuebles, Biblioteca Pública, Librería">
-
-# **Biblioteca de Minecraft**
 
 La Uncensored Library es un proyecto desarrollado por Reporteros Sin Fronteras (RSF) en colaboración con BlockWorks y MediaMonks. La biblioteca se encuentra dentro del popular juego de computadora Minecraft y fue lanzada el 12 de marzo de 2020, coincidiendo con el Día Mundial Contra la Censura en Internet.
 
