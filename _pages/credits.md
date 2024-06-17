@@ -137,7 +137,8 @@ Instagram: [@PaolaLP](https://www.instagram.com/paolalazaropastor/)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoValentina.jpg" style="float:left;width:200px;padding-right:20px;">      **Valentina Martínez-Landa** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/).
+<img src="{{ site.baseurl }}/assets/img/FotoValentina.jpg" style="float:left;width:200px;padding-right:20px;">      
+**Valentina Martínez-Landa** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/).
 
 Instagram: [@nan_llen](https://www.instagram.com/nan_llen/)
 
