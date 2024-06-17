@@ -294,14 +294,7 @@ Sci-Hub me permitió superar esta barrera económica y acceder a una gran cantid
 **Créditos:**
 Valentina Martinez-Landa
 
-Biblioteca de Minecraft
-
-Hidden Wiki
-
-# Herramientas
-
-## **MINECRAFT**
-<img itemprop="contentURL" width="1200" height="799" src="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" srcset="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" alt="edificio, pasillo, biblioteca, inmuebles, Biblioteca Pública, Librería">
+# **Biblioteca de Minecraft**
 
 La Uncensored Library es un proyecto desarrollado por Reporteros Sin Fronteras (RSF) en colaboración con BlockWorks y MediaMonks. La biblioteca se encuentra dentro del popular juego de computadora Minecraft y fue lanzada el 12 de marzo de 2020, coincidiendo con el Día Mundial Contra la Censura en Internet.
 
@@ -312,7 +305,6 @@ La biblioteca es un servidor de Minecraft que contiene reportajes censurados de 
 La principal motivación de esta biblioteca es brindar una fuente de información más libre, que pueda exponer de manera transparente los hechos que ocurren alrededor del mundo y de manera particular en los países individualmente. Además de ordenar y organizar la distinta información, brinda mayor seguridad y menor riesgo de represión a los periodistas, quiénes pueden compartir sus reportajes y noticias de una manera segura.
 
 
-
 **Impacto contra la censura**
 
 *   Refugio para periodistas censurados.
@@ -320,6 +312,50 @@ La principal motivación de esta biblioteca es brindar una fuente de informació
 *    Acceso a información oculta, aún en países con una amplia libertad de expresión.
 *   Educación y conciencia en jóvenes.
 
+**Créditos:**
+Sofia Michelle Camargo-González
+
+# **Hidden Wiki**
+La Hidden Wiki es un punto de partida popular para quienes desean explorar la Dark Web. Proporciona enlaces categorizados a una variedad de sitios, que van desde foros y servicios de correo electrónico anónimos hasta mercados ilegales y bibliotecas digitales. Es importante señalar que, debido a la naturaleza no regulada de la Dark Web, muchos de los enlaces pueden llevar a contenido ilegal o malicioso.
+
+Se trata de un repositorio de información en la dark web (o web profunda), funciona como un índice para acceder a páginas de dominio “.onion”.
+
+**Tipo de contenido presente**
+
+* **Enlaces a sitios de la Dark Web**
+
+*   **Artículos informativos sobre privacidad y anonimato.**
+*   **Servicios financieros.**
+  *  a) Ofrece enlaces a servicios que permiten operaciones financieras anónimas, como lavado de bitcoins, compraventa de criptomonedas y servicios de pago por tarjetas de crédito.
+  *  b) Tarjetas de crédito clonadas, falsificación de billetes, carteras de dinero anónimas.
+  
+* **Servicios comerciales**
+  * a) Incluye enlaces a sitios que ofrecen productos y servicios ilícitos, como drogas y armas.
+
+  * b) Explotación sexual y mercado negro.
+
+* **Anonimato y seguridad**
+
+  * a) Instrucciones y recursos para reforzar la privacidad en la red Tor y en las transacciones en línea.
+
+**Precauciones al navegar en la Hidden Wiki**
+
+* Utiliza una VPN.
+* Instala un antivirus confiable.
+* Descarga y utiliza el navegador Tor.
+* Ingresa al enlace seguro de The Hidden Wiki.
+* Evita hacer clic en enlaces sospechosos.
+* Usa criptomonedas anónimas si realizarás una compra.
+* No descargues ni compartas archivos.
+* Cierra todas las pestañas y ventanas de Tor.
+
+**Créditos:**
+Sofia Michelle Camargo-González
+
+# Herramientas
+
+## **MINECRAFT**
+<img itemprop="contentURL" width="1200" height="799" src="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" srcset="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" alt="edificio, pasillo, biblioteca, inmuebles, Biblioteca Pública, Librería">
 
 ## DuckDuck Go
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i2.wp.com/nksistemas.com/wp-content/uploads/2014/02/duckduckgo.jpg?fit=545%2C326&amp;ssl=1">
