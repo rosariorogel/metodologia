@@ -139,5 +139,7 @@ Sin embargo, el enfoque mixto también presenta sus propias complejidades. La in
 
 ![Infografía Ventajas y Desventajas](https://upload.wikimedia.org/wikipedia/commons/4/4c/Ventajas_y_Desventajas.jpg)
 
+Imagen con licencia de Creative Commons CC0.
+
 *Créditos: Fabiola Pulido-Márquez.*
 
