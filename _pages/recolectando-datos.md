@@ -5,7 +5,12 @@ subtitle: Herramientas para recolectar datos de investigación
 permalink: recolectando-datos
 ---
 
-Hipster ipsum has become a staple for designers and developers looking to add some humor and personality to their projects. It’s a type of Lorem Ipsum text that mimics the quirky and non-traditional language used by hipsters. Hipster ipsum is often made up of phrases that are ironic, nonsensical, or just plain odd.
+Bienvenidx
+En este apartado encontrarás una serie de herramientas que te ayudarán a recolectar/analizar datos para tus trabajos de investigación.
+
+En primer lugar, hallarás una breve introducción sobre los tres principales tipos de enfoques (cuantitativo, cualitativo y mixto), posteriormente encontrarás enlistadas las seis herramientas con una breve descripción y adicionalmente un ejemplo de uso.
+
+Se adjunta un video previamente subido a la plataforma de YouTube, en donde explicamos qué es lo que ofrece cada herramienta y una breve demostración del uso de cada una de ellas. Finalmente, compartimos un cuadro comparativo que nos ayudó a tener una mejor organización y encontrar relaciones entre las aplicaciones.
 
 
 
