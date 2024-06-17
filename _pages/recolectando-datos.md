@@ -72,10 +72,13 @@ La “metodología mixta”, es un enfoque pragmático de investigación, busca 
 #### [LimeSurvey](https://www.limesurvey.org/es)
 Es una aplicación gratuita de encuestas en línea de código abierto. El software permite a los usuarios crear y publicar encuestas en línea, recopilar respuestas, crear estadísticas y exportar los resultados a otras aplicaciones. Es posible usar esta herramienta después de haber creado una cuenta y ofrece un plan gratuito que tiene la opción de tener un solo administrador, tiene un límite de respuestas por día y 250 MB de almacenamiento. Es posible usar esta herramienta después de haber creado una cuenta y ofrece un plan gratuito que tiene la opción de tener un solo administrador, tiene un límite de respuestas por día y 250 MB de almacenamiento.
 Sin embargo, la elección de usar la versión gratuita o pagar dependerá de cada persona, pues tendrá que considerar cuantas encuestas necesita.
-
 Se trata de una herramienta extremadamente versátil, donde se puede crear todo tipo de encuestas, con la posibilidad de definir preguntas en varios idiomas y crear usuarios para limitar el acceso a las encuestas. Además permite exportar los resultados en múltiples formatos. Y por si fuese poco, incorpora la posibilidad de generar encuestas en papel con un formato que permite se procesado automáticamente tan solo escaneando los resultados a PDF.
 ### *Ejemplo de uso*
 LimeSurvey es una herramienta útil para realizar encuestas en línea no solo en investigaciones sino también en trabajos de tesis como lo es “Diseño e implementación de un sistema de información para la gestión de seguimiento a las y los exalumnos de la facultad de Ingeniería, Universidad de Cuenca”, en donde el objetivo fue diseñar una metodología de seguimiento a graduados y graduadas, para ello se les aplicaron encuestas a través de LimeSurvey.
+#### [MAXQDA](https://www.maxqda.com/es/)
+Herramienta de acceso cerrado para la organización y el análisis de datos cualitativos. Esto comprende texto, audio, imagen, vídeo y archivos bibliográficos, así como datos de encuestas. No analiza datos cuantitativos por sí solo. MAXQDA está diseñado principalmente para el análisis de datos cualitativos, aunque también ofrece funciones avanzadas de análisis de métodos mixtos  .
+### *Ejemplo de uso*
+ El artículo "MAXQDA y su aplicación a las Ciencias Sociales: un estudio de caso comparado sobre vulnerabilidad urbana" de Glòria Maria Caravantes López de Lerma y María de las Mercedes Botija Yagüe tiene por objeto presentar la aplicación del software MAXQDA a partir de un estudio de caso comparado sobre vulnerabilidad urbana en el Sur (Guatemala) y en el Norte (España). Respecto a un análisis de datos cualitativos y cuantitativos en el ámbito de las Ciencias Sociales.
 
 
 ## **Para tener una mejor experiencia utilizando estas herramientas, te sugerirnos mirar el siguiente video:**
