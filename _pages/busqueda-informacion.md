@@ -321,6 +321,25 @@ Hidden Wiki
 ## Hidden wiki
 <img alt="Archivo:Hidden Wiki en Tor Browser.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/800px-Hidden_Wiki_en_Tor_Browser.png?20210814183306" decoding="async" width="800" height="438" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1200px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1600px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 2x" data-file-width="1849" data-file-height="1012">
 
+# **Biblioteca de Minecraft**
+
+La Uncensored Library es un proyecto desarrollado por Reporteros Sin Fronteras (RSF) en colaboración con BlockWorks y MediaMonks. La biblioteca se encuentra dentro del popular juego de computadora Minecraft y fue lanzada el 12 de marzo de 2020, coincidiendo con el Día Mundial Contra la Censura en Internet.
+
+La biblioteca es un servidor de Minecraft que contiene reportajes censurados de varios países, incluyendo Arabia Saudita, Egipto, México, Rusia y Vietnam; cada país tiene su propia sección dentro de la biblioteca, con libros que contienen artículos en inglés y en el idioma original. Estos artículos discuten la censura, el castigo injusto y otras críticas al gobierno del escritor.
+
+**Objetivo**
+
+La principal motivación de esta biblioteca es brindar una fuente de información más libre, que pueda exponer de manera transparente los hechos que ocurren alrededor del mundo y de manera particular en los países individualmente. Además de ordenar y organizar la distinta información, brinda mayor seguridad y menor riesgo de represión a los periodistas, quiénes pueden compartir sus reportajes y noticias de una manera segura.
+
+
+
+**Impacto contra la censura**
+
+*   Refugio para periodistas censurados.
+*   Acceso a información en países con acceso restringido a la información.
+*    Acceso a información oculta, aún en países con una amplia libertad de expresión.
+*   Educación y conciencia en jóvenes.
+
 ## Herramienta de ayuda
 
 # BIBLIOGRAFIA
