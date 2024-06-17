@@ -328,11 +328,10 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 
 *   **Artículos informativos sobre privacidad y anonimato.**
 
-*   **Servicios financieros.**
+* **Servicios financieros.**
+    * a) Ofrece enlaces a servicios que permiten operaciones financieras anónimas, como lavado de bitcoins, compraventa de criptomonedas y servicios de pago por tarjetas de crédito.
 
-   * a) Ofrece enlaces a servicios que permiten operaciones financieras anónimas, como lavado de bitcoins, compraventa de criptomonedas y servicios de pago por tarjetas de crédito.
-   
-   * b) Tarjetas de crédito clonadas, falsificación de billetes, carteras de dinero anónimas.
+    * b) Tarjetas de crédito clonadas, falsificación de billetes, carteras de dinero anónimas.
   
 * **Servicios comerciales**
   * a) Incluye enlaces a sitios que ofrecen productos y servicios ilícitos, como drogas y armas.
