@@ -33,7 +33,7 @@ Las metodologías cuantitativas desempeñan un papel crucial en varios campos, c
 
 La investigación cuantitativa busca dar un análisis de información enfocado a los datos, preciso y objetivo, sin caer en subjetividades ni opiniones personales, los datos son reales y existentes. Lo único que cambia es la manera de interpretar estos datos, no la información en sí.
 
-<img src="{{ site.baseurl }}assets/img/Enfoque_Cuantitativo.png" style="float:left;width:643px;padding-right:1600px;">
+![Infografía Método Cuantitativo](https://upload.wikimedia.org/wikipedia/commons/1/19/Enfoque_Cuantitativo.png)
 
 Imagen con licencia de Creative Commons CC0.
 
@@ -65,7 +65,7 @@ Es un proceso de investigación que busca comprender un fenómeno dentro de su e
 *   El investigador **confía en el proceso mismo de investigación** para identificarlos y descubrir cómo se relacionan.
 * Los **datos que se recolectan son presentados** en forma de textos, imágenes, piezas audiovisuales, documentos y objetos por lo regular personales.
 
-<img src="{{ site.baseurl }}/assets/img/Método_Cualitativo.png" style="float:left;width:643px;padding-right:1600px;">
+![Infografía Método Cuantitativo](https://upload.wikimedia.org/wikipedia/commons/3/3d/M%C3%A9todo_Cualitativo.png)
 
 Imagen con licencia de Creative Commons CC0.
 
@@ -109,7 +109,7 @@ Utilizar métodos mixtos en la investigación proporciona varios beneficios impo
 
 - **Aclarar la causalidad entre variables:** Los métodos mixtos también ayudan a clarificar la causalidad entre variables, integrando mediciones cuantitativas de causalidad y correlación con el contexto y el análisis de variables subjetivas.
 
-<img src="{{ site.baseurl }}/assets/img/Enfoque_Mixto.png" style="float:left;width:643px;padding-right:1600px;">
+![Infografía Método Cuantitativo](https://upload.wikimedia.org/wikipedia/commons/a/a5/M%C3%A9todo_Mixto.jpg)
 
 Imagen con licencia de Creative Commons CC0.
 
