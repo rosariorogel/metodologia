@@ -12,7 +12,23 @@ Querido lector, a continuación te presentamos una sección de periódico en don
 
 *Créditos: Fátima-Pantoja, Tere-Pueblas.*
 
+<div style="clear: both;"></div>
+
 <img src="{{site.baseurl }}/assets/img/Birrete.jpg" style="float:left;width:500px;padding-right:28px;">
+
+<div style="clear: both;"></div>
+
+<img src="{{site.baseurl }}/assets/img/Periodico.png" style="float:left;width:500px;padding-right:28px;">
+
+<div style="clear: both;"></div>
+
+<img src="{{site.baseurl }}/assets/img/Escribe.jpg" style="float:left;width:500px;padding-right:28px;">
+
+<div style="clear: both;"></div>
+
+<img src="{{site.baseurl }}/assets/img/Hombre_con_peri%C3%B3dico.jpg" style="float:left;width:500px;padding-right:28px;">
+
+<div style="clear: both;"></div>
 
 *Créditos: Tere-Pueblas.*
 
