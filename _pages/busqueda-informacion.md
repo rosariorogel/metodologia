@@ -208,6 +208,7 @@ Encontrar publicaciones científicas de calidad contrastada: Su buscador avanzad
 Gestionar tus búsquedas y referencias: Puedes crear listas personalizadas de resultados, guardar referencias bibliográficas en diferentes formatos y exportarlas a gestores de referencias como EndNote o Zotero.
 
 **Experiencia:**
+
 “El inicio de la página se ve estetico y hace que la experiencia sea más agradable al navegar, ya que de cierta forma no se siente tan tediosa de usar, además de que es similar a los buscadores de siempre pero ya no es necesario revisar la información que aparece porque como ya es certificada por todas esas instituciones la revisión de calidad de información será menos cansada.”
 
 **Créditos:**
