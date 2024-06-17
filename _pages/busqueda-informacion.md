@@ -310,6 +310,7 @@ Fernanda De Jesús-Nicolás
  todo tipo: revistas, libros, series de libros, protocolos y cualquier otra ofra de prefencia.
 
  **Experiencia**
+ 
  Es de acceso abierto, esto permite que los investigadores o cual quier otra persona interedasa en la investigación puean acceder a este, no necesitas registrarte, puedes ingresar de morma rápida. La información con la que cuenta es confiable y de calidad, esto permite hacer mejores investigaciones.
 
  **Créditos**
