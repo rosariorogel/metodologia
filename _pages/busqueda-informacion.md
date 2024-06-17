@@ -296,7 +296,7 @@ Sci-Hub me permitió superar esta barrera económica y acceder a una gran cantid
 **Créditos:**
 Valentina Martinez-Landa
 
-# **Biblioteca de Minecraft**
+# **[Biblioteca de Minecraft](https://www.uncensoredlibrary.com/en)**
 
 La Uncensored Library es un proyecto desarrollado por Reporteros Sin Fronteras (RSF) en colaboración con BlockWorks y MediaMonks. La biblioteca se encuentra dentro del popular juego de computadora Minecraft y fue lanzada el 12 de marzo de 2020, coincidiendo con el Día Mundial Contra la Censura en Internet.
 
