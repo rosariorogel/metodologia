@@ -8,7 +8,7 @@ Querido lector, a continuación te presentamos una sección de periódico en don
 
 *Créditos: Fátima-Pantoja.*
 
-Te compartimos el limk donde podrás ver la información la cual está en el siguiente documento, el cuál puedes descargar.
+Te compartimos el link donde podrás ver la información la cual está en el siguiente documento, el cuál puedes descargar.
 
 [periódico.docx](https://github.com/user-attachments/files/15861466/periodico.docx)
 
@@ -34,6 +34,6 @@ Te compartimos el limk donde podrás ver la información la cual está en el sig
 
 *Créditos: Tere-Pueblas.*
 
-Esperamos,que la información del periódico te sea útil para que puedas en un futuro elaborar con éxito tu tesis doctoral.
+Esperamos, que la información del periódico te sea útil para que puedas en un futuro elaborar con éxito tu tesis doctoral.
 
 *Créditos: Fátima-Pantoja, Tere-Pueblas.*
