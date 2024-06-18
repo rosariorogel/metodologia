@@ -459,6 +459,11 @@ Sofia Michelle Camargo-González
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg" style="float:center;width:800px;padding-right:80px;">
 
+Imágenes con licencia de Creative Commons CC0.
+
+**Créditos:**
+Sofia Michelle Camargo-González
+
 # Herramientas
 
 ## **MINECRAFT**
