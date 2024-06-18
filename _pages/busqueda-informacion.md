@@ -457,6 +457,8 @@ Sofia Michelle Camargo-González
 
 ![Infografía Recursos de Información Digital](https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg" style="float:left;width:200px;padding-right:20px;">
+
 # Herramientas
 
 ## **MINECRAFT**
