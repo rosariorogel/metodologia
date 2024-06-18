@@ -453,9 +453,9 @@ Sofia Michelle Camargo-González
 
 ![Infografía Recursos de Información Digital](https://upload.wikimedia.org/wikipedia/commons/1/15/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_1.jpg)
 
-(https://upload.wikimedia.org/wikipedia/commons/b/bc/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/bc/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_2.jpg)
 
-(https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg)
 
 # Herramientas
 
