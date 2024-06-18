@@ -453,7 +453,7 @@ Sofia Michelle Camargo-González
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_1.jpg" style="float:center;width:1000px;padding-right:100px;">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_2." style="float:center;width:1000px;padding-right:100px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_2.jpg" style="float:center;width:1000px;padding-right:100px;">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg" style="float:center;width:1000px;padding-right:100px;">
 
