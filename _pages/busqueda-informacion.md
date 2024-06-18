@@ -451,13 +451,11 @@ Sofia Michelle Camargo-González
 
 # INFOGRAFÍA RECURSOS DE INFORMACIÓN DIGITAL
 
-![Infografía Recursos de Información Digital](https://upload.wikimedia.org/wikipedia/commons/1/15/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_1.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_1.jpg" style="float:center;width:1000px;padding-right:100px;">
 
-![Infografía Recursos de Información Digital](https://upload.wikimedia.org/wikipedia/commons/b/bc/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_2.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_2." style="float:center;width:1000px;padding-right:100px;">
 
-![Infografía Recursos de Información Digital](https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg" style="float:center;width:800px;padding-right:80px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg" style="float:center;width:1000px;padding-right:100px;">
 
 Imágenes con licencia de Creative Commons CC0.
 
