@@ -447,6 +447,12 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 **Créditos:**
 Sofia Michelle Camargo-González
 
+---
+
+# INFOGRAFÍA RECURSOS DE INFORMACIÓN DIGITAL
+
+
+
 # Herramientas
 
 ## **MINECRAFT**
