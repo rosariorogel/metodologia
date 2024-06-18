@@ -8,7 +8,7 @@ Querido lector, a continuación te presentamos una sección de periódico en don
 
 *Créditos: Fátima-Pantoja.*
 
-Te compartimos el limk donde podrás ver la información la cual esta en el siguiente documento, el cuál puedes descargar.
+Te compartimos el limk donde podrás ver la información la cual está en el siguiente documento, el cuál puedes descargar.
 
 [periódico.docx](https://github.com/user-attachments/files/15861466/periodico.docx)
 
