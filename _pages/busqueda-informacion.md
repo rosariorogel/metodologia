@@ -15,11 +15,11 @@ En este apartado te ofrecemos una lista con algunas herramientas digitales que p
 
 #### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
 
-* Christian Galván-Iglesias: Investigación, Metodología, Conceptualización, Recursos y Curación de Datos</p>
-* Michelle Carmargo-González: Conceptualización, Curación de Datos, Investigación, Metodología, Recursos y Escritura</p>
-* Valentina Martinez-Landa: Curación de Datos, Conceptualización, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición</p>
-* Dareysa López-González: Conceptualización, Investigación, Metodología y Recursos</p>
-* Fernanda De Jesús-Nicolás: Conceptualización, Metodología, Investigación, Análisis Fornal y Escritura.</p>
+* *Christian Galván-Iglesias: Investigación, Metodología, Conceptualización, Recursos y Curación de Datos*</p>
+* *Michelle Carmargo-González: Conceptualización, Curación de Datos, Investigación, Metodología, Recursos y Escritura*</p>
+* *Valentina Martinez-Landa: Curación de Datos, Conceptualización, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición*</p>
+* *Dareysa López-González: Conceptualización, Investigación, Metodología y Recursos*</p>
+* *Fernanda De Jesús-Nicolás: Conceptualización, Metodología, Investigación, Análisis Fornal y Escritura*</p>
 
 <h2>**Recursos Formales** 2</h2>
 ___
