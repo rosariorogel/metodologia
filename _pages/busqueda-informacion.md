@@ -302,13 +302,13 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 1. Enlaces a sitios de la Dark Web
 * Artículos informativos sobre privacidad y anonimato.
 2. Servicios financieros
-a) Ofrece enlaces a servicios que permiten operaciones financieras anónimas, como lavado de bitcoins, compraventa de criptomonedas y servicios de pago por tarjetas de crédito.
-b) Tarjetas de crédito clonadas, falsificación de billetes, carteras de dinero anónimas.
+* Ofrece enlaces a servicios que permiten operaciones financieras anónimas, como lavado de bitcoins, compraventa de criptomonedas y servicios de pago por tarjetas de crédito.
+* Tarjetas de crédito clonadas, falsificación de billetes, carteras de dinero anónimas.
 3 Servicios comerciales
-a) Incluye enlaces a sitios que ofrecen productos y servicios ilícitos, como drogas y armas.
-b) Explotación sexual y mercado negro.
+* Incluye enlaces a sitios que ofrecen productos y servicios ilícitos, como drogas y armas.
+* Explotación sexual y mercado negro.
 4. Anonimato y seguridad**
-a) Instrucciones y recursos para reforzar la privacidad en la red Tor y en las transacciones en línea.
+* Instrucciones y recursos para reforzar la privacidad en la red Tor y en las transacciones en línea.
 5. Precauciones al navegar en la Hidden Wiki
 * Utiliza una VPN.
 * Instala un antivirus confiable.
