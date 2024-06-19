@@ -13,20 +13,20 @@ Es aquí donde herramientas digitales para la investigación entran en juego. Es
 
 En este apartado te ofrecemos una lista con algunas herramientas digitales que pueden potenciar tu trabajo, lo que te permitirá navegar con mayor facilidad y efectividad en el vasto mar de la información.
 
-###### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
+#### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
 
-<p> Christian Galván-Iglesias: Investigación, Metodología, Conceptualización, Recursos y Curación de Datos</p>
-<p> Michelle Carmargo-González: Conceptualización, Curación de Datos, Investigación, Metodología, Recursos y Escritura</p>
-<p> Valentina Martinez-Landa: Curación de Datos, Conceptualización, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición</p>
-<p> Dareysa López-González: Conceptualización, Investigación, Metodología y Recursos</p>
-<p> Fernanda De Jesús-Nicolás: Conceptualización, Metodología, Investigación, Análisis Fornal y Escritura.</p>
+* Christian Galván-Iglesias: Investigación, Metodología, Conceptualización, Recursos y Curación de Datos</p>
+* Michelle Carmargo-González: Conceptualización, Curación de Datos, Investigación, Metodología, Recursos y Escritura</p>
+* Valentina Martinez-Landa: Curación de Datos, Conceptualización, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición</p>
+* Dareysa López-González: Conceptualización, Investigación, Metodología y Recursos</p>
+* Fernanda De Jesús-Nicolás: Conceptualización, Metodología, Investigación, Análisis Fornal y Escritura.</p>
 
-<h2>Recursos Formales 2</h2>
+<h2>**Recursos Formales** 2</h2>
 ___
 
 Entendemos como "recursos formales" plataformas como: bases de datos y buscadores tanto de paga como gratuitos. En ambos casos los organizamos según su cobertura ya sea mundial o regional.
 
-## Bases de datos comerciales de publicaciones científicas
+### Bases de datos comerciales de publicaciones científicas
 ---
 #### [WoS](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
 
@@ -54,7 +54,7 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
   <p>*Scopus tiene una gran gama de información para elegir, puedes filtrar los resultados por fecha de publicación, país de origen, tipo de estudio y autor, esto facilita muchos la hora de buscar la información siendo un estudiante de universidad, lo malo es que es de paga y sólo puede tener acceso si la biblioteca de tu universidad cuenta con suscripción* **(Christian Marion Harris-Miranda, Estudiante de la Universidad Autónoma del Estado de Hidalgo, México)**</p>
 </blockquote>
 
-## Base de datos de publicaciones científicas de Acceso Abierto
+### Bases de datos de publicaciones científicas de Acceso Abierto
 ---
 #### [CORE](https://core.ac.uk/)
 
@@ -163,7 +163,7 @@ Es una plataforma digital que ofrece acceso abierto a una vasta colección de re
   <p>*El inicio de la página se ve estético y hace que la experiencia sea más agradable al navegar, ya que de cierta forma no se siente tan tediosa de usar, además de que es similar a los buscadores de siempre pero ya no es necesario revisar la información que aparece porque como ya es certificada por todas esas instituciones la revisión de calidad de información será menos cansada.* **(Dareysa Lopez-Gonzalez)**</p>
 </blockquote>
 
-## Buscadores de recursos de información académica
+### Buscadores de recursos de información académica
 ---
 
 #### [Google Scholar](https://scholar.google.com/)
@@ -217,7 +217,7 @@ Este sitio web nos ayuda a buscar información a la que es más complicado acced
   <p>*Debido a que es una herramienta tan intuitiva de usar al igual que otros buscadores comerciales se me facilita el utilizarla, además me gusta que puedo configurar el idioma desde el inicio, porque ahorro tiempo al no tener que recurrir a una herramienta específica para convertirlo al idioma que necesito”* **(Dareysa Lopez-Gonzalez, UAEMéx)**</p>
 </blockquote>
 
-<h2>Recursos Inormales 2</h2>
+<h2>**Recursos Inormales** 2</h2>
 ___
 
 Por "recursos informales" nos referimos a diversas plataformas o sitios que no son legales, pero que existen y acerca de los cuales es preciso tomar en consideración precaución en su uso.
@@ -333,7 +333,7 @@ a) Instrucciones y recursos para reforzar la privacidad en la red Tor y en las t
 
 ---
 
-# Infografías sobre recursos de información digital 
+### Infografías sobre recursos de información digital 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_1.jpg" style="float:center;width:1000px;padding-right:100px;">
 
