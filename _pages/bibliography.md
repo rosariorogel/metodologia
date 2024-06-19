@@ -12,3 +12,5 @@ En el proceso de selección de la bibliografía cuidamos que todos los datos est
 Por su propia naturaleza, esta sección de la página está en constante actualización. Si acaso te interesa colaborar a integrar la mayor parte de bibliografía posible de este autor o sobre él, sólo tiene que seguir el grupo de Zotero, es público y abierto y lo encuentras bajo el nombre: [**Luhmann en la web - UAEMex 2022-A**](https://www.zotero.org/groups/4695391/luhmann_en_la_web_-_uaemex_2022-a).
 
 ***Créditos:** Rosario Rogel-Salazar*
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-group%2Frosariorogel%2F5388483&jsonp=1"></script>
