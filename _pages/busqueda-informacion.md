@@ -321,8 +321,18 @@ previa de libros: Los usuarios pueden ver una vista previa de los libros que est
 **Experiencia:**
 Mi experiencia personal utilizando Google Books ha sido muy positiva. He utilizado esta plataforma para encontrar muchos libros que necesitaba para mis investigaciones y estudios. La posibilidad de acceder a una amplia variedad de libros en formato digital me ha permitido ahorrar tiempo y dinero, ya que no tengo que desplazarme a una biblioteca física o comprar los libros en formato impreso.Además, la función de búsqueda de Google Books es muy efectiva, lo que me ha permitido encontrar rápidamente los libros que necesitaba. También me ha gustado la posibilidad de acceder a fragmentos de los libros antes de decidir si quiero comprarlos o no.
 
+## [Scholarpedia](http://www.scholarpedia.org/article/Main_Page)
+
+Scholarpedia es un buscador inspirada en el formato de wikipedia (enciclipedia) que contiene textos que son supervisados, mantenidos y actualizados constantemente
+
+**Te permite:**
+su principal funcion es sustituir a wikipedia que cuenta con información basica, profundizado más en ella, en donde se podra encontar en su mayoría artículos académicos 
+
+**Experiencia:**
+Al tener una herramienta tan similar en la interfaz que wikipedia facilita demasiado el uso, ya que antes de la universidad o de alguna investigación importante todos recurrimos a wikipedia
+
 **Créditos:**
-Christian Galván
+Dareysa Lopez-Gonzalez
 
 ## Mixto
 
