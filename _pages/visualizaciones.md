@@ -17,12 +17,12 @@ A continuación, te mostramos tres herramientas y te presentamos sus ventajas y 
 
 #### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
 
-* **Christian Galván-Iglesias**: *Investigación, Metodología, Conceptualización, Recursos y Curación de Datos*
-* **Michelle Carmargo-González**: *Conceptualización, Curación de Datos, Investigación, Metodología, Recursos y Escritura*
-* **Valentina Martinez-Landa**: *Curación de Datos, Conceptualización, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición*
-* **Dareysa López-González**: *Conceptualización, Investigación, Metodología y Recursos*
-* **Fernanda De Jesús-Nicolás**: *Conceptualización, Metodología, Investigación, Análisis Fornal y Escritura*
-
+* **Ana Paula Alanís-Sámano**: *Curación de Datos, Análisis Formal, Investigación, Metodología, Adminsitración, Recursos, Supervisión, Validación, Visualización, Escritura, Revisión y Edición*
+* **Ivana Sanabria-Salazar**: *Curación de Datos, Análisis Formal, Investigación, Supervisión, Validación, Visualización, Escritura, Revisión y Edición*
+* **Elizabeth Acuña-Medina**: *Curación de Datos, Investigación, Recursos y Validación*
+* **Paola Lázaro-Pastor**: *Investigación, Metodología y Recursos*
+* **Emilio Díaz-Pereirta**: *Investigación, Recursos y Metodología*
+* **Isabela Tinoco-Guadarrama**: *Investigación, Recursos y Visualización*
 
 ### [VOSviewer](https://www.vosviewer.com/)
 
