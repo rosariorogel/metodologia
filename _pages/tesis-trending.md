@@ -8,35 +8,11 @@ Querido lector, a continuación te presentamos una sección de periódico en don
 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/periodico.pdf - 1.jpg" style="float:left;width:200px;padding-right:20px;">
 
-
-*Créditos: Fátima-Pantoja.*
-
-Te compartimos el link donde podrás ver la información la cual está en el siguiente documento, el cuál puedes descargar.
-
-[periódico.docx](https://github.com/user-attachments/files/15861466/periodico.docx)
-
-*Créditos: Fátima-Pantoja, Tere-Pueblas.*
+<img src="{{ site.baseurl }}/assets/img/periodico.pdf - 2.jpg" style="float:left;width:200px;padding-right:20px;">
 
 <div style="clear: both;"></div>
-
-<img src="{{site.baseurl }}/assets/img/Birrete.jpg" style="float:left;width:500px;padding-right:28px;">
-
-<div style="clear: both;"></div>
-
-<img src="{{site.baseurl }}/assets/img/Periodico.png" style="float:left;width:500px;padding-right:28px;">
-
-<div style="clear: both;"></div>
-
-<img src="{{site.baseurl }}/assets/img/Escribe.jpg" style="float:left;width:500px;padding-right:28px;">
-
-<div style="clear: both;"></div>
-
-<img src="{{site.baseurl }}/assets/img/Hombre_con_peri%C3%B3dico.jpg" style="float:left;width:500px;padding-right:28px;">
-
-<div style="clear: both;"></div>
-
-*Créditos: Tere-Pueblas.*
 
 Esperamos, que la información del periódico te sea útil para que puedas en un futuro elaborar con éxito tu tesis doctoral.
 
