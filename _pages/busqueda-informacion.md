@@ -36,10 +36,6 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
 1. Acceso a la literatura científica: proporciona acceso a una amplia variedad de revistas y artículos de alta calidad, lo que facilita la búsqueda y el análisis de la literatura científica.
 2. Evaluación de la calidad de los artículos: Los índices de citas de WoS permiten evaluar la calidad y el impacto de los artículos científicos
 
-<blockquote>
-  <p><em>Sustituir por la experiencia de Diego. Diego B. Vargas, FURB, Brasil.</em></p>
-</blockquote>
-
 #### [Scopus](https://www.scopus.com/)
 
 **Scopus** es una base de datos bibliográfica de resúmenes y citas de artículos de revistas científicas, lanzada en el año 2004, propiedad de la empresa [Elsevier](https://www.elsevier.com/).
