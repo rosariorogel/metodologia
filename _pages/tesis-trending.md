@@ -6,6 +6,10 @@ permalink: tesis-trending
 ---
 Querido lector, a continuación te presentamos una sección de periódico en donde te adentrarás a saber cómo hacer una tesis doctoral y poder obtener las oportunidades laborales que se te presenten, así como satisfacer una de tus necesidades de reconocimiento profesional.
 
+<div style="clear: both;"></div>
+
+
+
 *Créditos: Fátima-Pantoja.*
 
 Te compartimos el link donde podrás ver la información la cual está en el siguiente documento, el cuál puedes descargar.
