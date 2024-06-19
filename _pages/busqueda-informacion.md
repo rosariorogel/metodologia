@@ -49,9 +49,9 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
 1. El motor de búsqueda te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
 2. Acceder a métricas de impacto: Scopus te proporciona información sobre el impacto y la relevancia de las publicaciones, como el [Índice H](https://es.wikipedia.org/wiki/%C3%8Dndice_h), el [Factor de Impacto](https://es.wikipedia.org/wiki/Factor_de_impacto) o el Cuartil al que pertenece cada revista por disciplina.
 
-*<blockquote>
-  <p>Scopus tiene una gran gama de información para elegir, puedes filtrar los resultados por fecha de publicación, país de origen, tipo de estudio y autor, esto facilita muchos la hora de buscar la información siendo un estudiante de universidad, lo malo es que es de paga y sólo puede tener acceso si la biblioteca de tu universidad cuenta con suscripción (Christian Marion Harris-Miranda, Estudiante de la Universidad Autónoma del Estado de Hidalgo, México)</p>
-</blockquote>*
+<blockquote>
+  <p><em>Scopus tiene una gran gama de información para elegir, puedes filtrar los resultados por fecha de publicación, país de origen, tipo de estudio y autor, esto facilita muchos la hora de buscar la información siendo un estudiante de universidad, lo malo es que es de paga y sólo puede tener acceso si la biblioteca de tu universidad cuenta con suscripción (Christian Marion Harris-Miranda, Estudiante de la Universidad Autónoma del Estado de Hidalgo, México)</em></p>
+</blockquote>
 
 ### Bases de datos de publicaciones científicas de Acceso Abierto
 ---
