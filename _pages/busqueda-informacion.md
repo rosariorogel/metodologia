@@ -114,7 +114,7 @@ Es una biblioteca electrónica que ofrece acceso abierto a una amplia colección
 2. Leer artículos en español, portugués e inglés: Se ofrece la mayoría de sus artículos en español y portugués, y muchos de ellos también están disponibles en inglés.
 
 <blockquote>
-  <p><em>En mi caso ha sido muy buena ya que me ha permitido organizar de manera eficiente mi tiempo y mis tareas. Su interfaz es muy intuitiva y fácil de usar, lo que me ha ayudado a mantenerme enfocado en mis objetivos. Además, me ha brindado la posibilidad de colaborar con mi equipo de forma efectiva, permitiendo una comunicación fluida y un trabajo en conjunto más productivo (Christian Galván-Iglesias, estudiante de Comunicación, UAEMéx)<em></p>
+  <p><em>En mi caso ha sido muy buena ya que me ha permitido organizar de manera eficiente mi tiempo y mis tareas. Su interfaz es muy intuitiva y fácil de usar, lo que me ha ayudado a mantenerme enfocado en mis objetivos. Además, me ha brindado la posibilidad de colaborar con mi equipo de forma efectiva, permitiendo una comunicación fluida y un trabajo en conjunto más productivo (Christian Galván-Iglesias, estudiante de Comunicación, UAEMéx)(@levtan_ium en WhatPad)<em></p>
 </blockquote>
 
 #### [Redalyc](https://www.redalyc.org/home.oa)
@@ -182,7 +182,7 @@ Google Books es una herramienta de búsqueda muy útil, ya que permite a los usu
 3. Los usuarios pueden acceder a una vista previa de los libros que están buscando, lo que les permite ver el contenido y decidir si el libro es relevante para su investigación antes de comprarlo o leerlo.
 
 <blockquote>
-  <p><em>Mi experiencia personal utilizando Google Books ha sido muy positiva. He utilizado esta plataforma para encontrar muchos libros que necesitaba para mis investigaciones y estudios. La posibilidad de acceder a una amplia variedad de libros en formato digital me ha permitido ahorrar tiempo y dinero, ya que no tengo que desplazarme a una biblioteca física o comprar los libros en formato impreso.Además, la función de búsqueda de Google Books es muy efectiva, lo que me ha permitido encontrar rápidamente los libros que necesitaba. También me ha gustado la posibilidad de acceder a fragmentos de los libros antes de decidir si quiero comprarlos o no. (Christian Iglesias-Galván, UAEMéx),<em></p>
+  <p><em>Mi experiencia personal utilizando Google Books ha sido muy positiva. He utilizado esta plataforma para encontrar muchos libros que necesitaba para mis investigaciones y estudios. La posibilidad de acceder a una amplia variedad de libros en formato digital me ha permitido ahorrar tiempo y dinero, ya que no tengo que desplazarme a una biblioteca física o comprar los libros en formato impreso.Además, la función de búsqueda de Google Books es muy efectiva, lo que me ha permitido encontrar rápidamente los libros que necesitaba. También me ha gustado la posibilidad de acceder a fragmentos de los libros antes de decidir si quiero comprarlos o no. (Christian Iglesias-Galván, UAEMéx)<em></p>
 </blockquote>
 
 #### [Scholarpedia](http://www.scholarpedia.org/article/Main_Page)
@@ -205,7 +205,7 @@ Este sitio web nos ayuda a buscar información a la que es más complicado acced
 2. Te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
 
 <blockquote>
-  <p><em>Debido a que es una herramienta tan intuitiva de usar al igual que otros buscadores comerciales se me facilita el utilizarla, además me gusta que puedo configurar el idioma desde el inicio, porque ahorro tiempo al no tener que recurrir a una herramienta específica para convertirlo al idioma que necesito” (Dareysa Lopez-Gonzalez, UAEMéx)<em></p>
+  <p><em>Debido a que es una herramienta tan intuitiva de usar al igual que otros buscadores comerciales se me facilita el utilizarla, además me gusta que puedo configurar el idioma desde el inicio, porque ahorro tiempo al no tener que recurrir a una herramienta específica para convertirlo al idioma que necesito (Dareysa Lopez-Gonzalez, UAEMéx)<em></p>
 </blockquote>
 
 <h2>Recursos Informales </h2>
@@ -241,7 +241,7 @@ También es un proyecto de biblioteca fantasma, que tiene una operación y admin
 2. Puedes encontrar recursos de investigación, pero también puedes encontar libros de ciencia ficción, de remoce o cualquier otro.
 
 <blockquote>
-  <p><em>Solo tienes que ingresar, poner el nombre del artículo o libro que deses buscar o su ISB, si está disponibe, lo descargas y ya, es una plataforma de fácil acceso y abierta para todos los uruarios* **(Fernanda De Jesús-Nicolás, UAEMéx)<em></p>
+  <p><em>Solo tienes que ingresar, poner el nombre del artículo o libro que deses buscar o su ISB, si está disponibe, lo descargas y ya, es una plataforma de fácil acceso y abierta para todos los uruarios. (Fernanda De Jesús-Nicolás, UAEMéx)<em></p>
 </blockquote>
 
 #### Library Genesis
@@ -270,7 +270,7 @@ Anna's Archive es un archivo digital que alberga una vasta colección de recurso
 2. Contribuir a la preservación del conocimiento al compartir y sembrar los torrents de la base de datos.
 
 <blockquote>
-  <p><em>Soy un artista multimedia que está trabajando en un proyecto que combina arte y ciencia. Estoy buscando imágenes y datos sobre el cuerpo humano para usarlos en mis creaciones. Anna's Archive no solo me ha proporcionado recursos valiosos, sino que también me ha inspirado a explorar nuevas formas de combinar el arte y la ciencia en mi trabajo ((Alejandra Leftife Velázquez-Molina, Universidad Autónoma del Estado de Hidalgo, México))<em></p>
+  <p><em>Soy un artista multimedia que está trabajando en un proyecto que combina arte y ciencia. Estoy buscando imágenes y datos sobre el cuerpo humano para usarlos en mis creaciones. Anna's Archive no solo me ha proporcionado recursos valiosos, sino que también me ha inspirado a explorar nuevas formas de combinar el arte y la ciencia en mi trabajo ((Alejandra Leftife Velázquez-Molina, Universidad Autónoma del Estado de Hidalgo, México)<em></p>
 </blockquote>
 
 #### Biblioteca de Minecraft
