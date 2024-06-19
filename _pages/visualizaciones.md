@@ -31,7 +31,7 @@ Las principales características de VOSviewer incluyen:
 
 #### **Así se ve VOSviewer:**
 
-![VOSviewer](<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg"><img width="512" alt="Estudiando con Vos Viewer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Estudiando_con_Vos_Viewer.jpg/512px-Estudiando_con_Vos_Viewer.jpg?20240615181614"></a>)
+(<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg"><img width="512" alt="Estudiando con Vos Viewer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Estudiando_con_Vos_Viewer.jpg/512px-Estudiando_con_Vos_Viewer.jpg?20240615181614"></a>)
 
 ### [Open Knowledge Maps](https://openknowledgemaps.org/about)
 
@@ -51,7 +51,7 @@ Las principales características de Open Knowledge Maps incluyen:
 
 #### **Así se ve Open Knowledge Maps:**
 
-![Open Knowledge Maps](<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Open_Knowledge_Maps.jpg"><img width="512" alt="Estudiando con Open Knowledge Maps" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Estudiando_con_Open_Knowledge_Maps.jpg/512px-Estudiando_con_Open_Knowledge_Maps.jpg?20240615180008"></a>)
+(<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Open_Knowledge_Maps.jpg"><img width="512" alt="Estudiando con Open Knowledge Maps" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Estudiando_con_Open_Knowledge_Maps.jpg/512px-Estudiando_con_Open_Knowledge_Maps.jpg?20240615180008"></a>)
 
 ### [Connected Papers](https://www.connectedpapers.com/)
 
@@ -73,7 +73,7 @@ Las principales características de Connected Papers incluyen:
 
 #### **Así se ve Connected Papers:**
 
-![Connected Papers](<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Connected_Papers.jpg"><img width="512" alt="Estudiando con Connected Papers" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Estudiando_con_Connected_Papers.jpg/512px-Estudiando_con_Connected_Papers.jpg?20240615181125"></a>)
+(<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Connected_Papers.jpg"><img width="512" alt="Estudiando con Connected Papers" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Estudiando_con_Connected_Papers.jpg/512px-Estudiando_con_Connected_Papers.jpg?20240615181125"></a>)
 
 ### **¿Cómo sé cuál necesito?**
 
@@ -81,14 +81,17 @@ Elegir alguna de ellas depende de los resultados y el análisis que quieras obte
 
 >**Para esto puedes usar VOSviewer**
 
-![¡VOSviewer tú mejor opción!](https://www.youtube.com/watch?v=dfzIKQYH9aM)
+¡VOSviewer tú mejor opción!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfzIKQYH9aM?si=NOVakxd5MRgAmuUq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >**Para esto puedes usar Open Knowledge Maps**
 
-![Explora el Conocimiento: Cómo Open Knowledge Maps Impulsa tu Investigación](https://www.youtube.com/watch?v=LMywqkchNtI&t=23s)
+Explora el Conocimiento: Cómo Open Knowledge Maps Impulsa tu Investigación
+
 
 >**Para esto puedes usar Connected Papers**
 
-![Revoluciona tu Investigación: Cómo Connected Papers Facilita tu Trabajo](https://www.youtube.com/watch?v=NanEAoxIp8M=)
+Revoluciona tu Investigación: Cómo Connected Papers Facilita tu Trabajo
 
-Esperamos haberte ayudado a que tu elección sea mucho más fácil!
+
+¡Esperamos haberte ayudado a que tu elección sea mucho más fácil!
