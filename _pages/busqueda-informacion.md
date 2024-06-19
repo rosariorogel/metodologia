@@ -101,7 +101,7 @@ Imagina a **Project MUSE** como una biblioteca virtual que alberga un tesoro de 
 2. Descubrir investigaciones innovadoras de autores y pensadores influyentes.
 
 <blockquote>
-  <p><em>Soy un escritor independiente apasionado por la historia y la cultura. Estoy trabajando en un nuevo libro sobre la influencia de la música en la sociedad. Comencé buscando artículos sobre el impacto de la música en diferentes culturas y épocas. Project MUSE me permitió filtrar por tema, autor, fecha de publicación e incluso tipo de publicación* (@levtan_ium en WhatPad)<em></p>
+  <p><em>Soy un escritor independiente apasionado por la historia y la cultura. Estoy trabajando en un nuevo libro sobre la influencia de la música en la sociedad. Comencé buscando artículos sobre el impacto de la música en diferentes culturas y épocas. Project MUSE me permitió filtrar por tema, autor, fecha de publicación e incluso tipo de publicación. (@levtan_ium en WhatPad)</em></p>
 </blockquote>
 
 #### [SCIELO](https://scielo.org/es)
@@ -114,7 +114,7 @@ Es una biblioteca electrónica que ofrece acceso abierto a una amplia colección
 2. Leer artículos en español, portugués e inglés: Se ofrece la mayoría de sus artículos en español y portugués, y muchos de ellos también están disponibles en inglés.
 
 <blockquote>
-  <p><em>En mi caso ha sido muy buena ya que me ha permitido organizar de manera eficiente mi tiempo y mis tareas. Su interfaz es muy intuitiva y fácil de usar, lo que me ha ayudado a mantenerme enfocado en mis objetivos. Además, me ha brindado la posibilidad de colaborar con mi equipo de forma efectiva, permitiendo una comunicación fluida y un trabajo en conjunto más productivo (Christian Galván-Iglesias, estudiante de Comunicación, UAEMéx)(@levtan_ium en WhatPad)<em></p>
+  <p><em>En mi caso ha sido muy buena ya que me ha permitido organizar de manera eficiente mi tiempo y mis tareas. Su interfaz es muy intuitiva y fácil de usar, lo que me ha ayudado a mantenerme enfocado en mis objetivos. Además, me ha brindado la posibilidad de colaborar con mi equipo de forma efectiva, permitiendo una comunicación fluida y un trabajo en conjunto más productivo. (Christian Galván-Iglesias, estudiante de Comunicación, UAEMéx)</em></p>
 </blockquote>
 
 #### [Redalyc](https://www.redalyc.org/home.oa)
@@ -127,7 +127,7 @@ Proyecto sin fines de lucro cuyo principal objetivo es democratizar el acceso a 
 2. **Acceso Abierto:** Todos los artículos publicados en revistas indexadas en Redalyc son de libre acceso, eliminando barreras económicas y promoviendo la democratización del conocimiento.
 
 <blockquote>
-  <p><em>Durante mi carrera universitaria, Redalyc se convirtió en una herramienta indispensable para mi investigación y aprendizaje. Me ayudó a encontrar información relevante con la amplia base de datos que me permitió encontrar artículos de revistas académicas confiables sobre una gran variedad de temas.* **(Valentina Martinez-Landa, estudiante de Comunicación, UAEMéx)<em></p>
+  <p><em>Durante mi carrera universitaria, Redalyc se convirtió en una herramienta indispensable para mi investigación y aprendizaje. Me ayudó a encontrar información relevante con la amplia base de datos que me permitió encontrar artículos de revistas académicas confiables sobre una gran variedad de temas.(Valentina Martinez-Landa, estudiante de Comunicación, UAEMéx)</em></p>
 </blockquote>
 
 #### [Dialnet](https://dialnet.unirioja.es/)
@@ -151,7 +151,7 @@ Es una plataforma digital que ofrece acceso abierto a una vasta colección de re
 **Experiencia:**
 
 <blockquote>
-  <p><em>El inicio de la página se ve estético y hace que la experiencia sea más agradable al navegar, ya que de cierta forma no se siente tan tediosa de usar, además de que es similar a los buscadores de siempre pero ya no es necesario revisar la información que aparece porque como ya es certificada por todas esas instituciones la revisión de calidad de información será menos cansada. (Dareysa Lopez-Gonzalez)<em></p>
+  <p><em>El inicio de la página se ve estético y hace que la experiencia sea más agradable al navegar, ya que de cierta forma no se siente tan tediosa de usar, además de que es similar a los buscadores de siempre pero ya no es necesario revisar la información que aparece porque como ya es certificada por todas esas instituciones la revisión de calidad de información será menos cansada. (Dareysa Lopez-Gonzalez)</em></p>
 </blockquote>
 
 ### Buscadores de recursos de información académica
@@ -169,7 +169,7 @@ Google Scholar es un motor de búsqueda que se enfoca en artículos académicos,
 
 <blockquote>
   <p><em>Mi experiencia con Google Scholar ha sido en general positiva. Es una herramienta valiosa para encontrar información académica confiable y de alta calidad. Me ha permitido acceder a una gran cantidad de artículos, libros, tesis y otros recursos de investigación de diversas áreas del conocimiento.
-Tiene una amplia gama de fuentes anexadas, permite filtrar los resultados de diferentes formas. Aunque también tiene partes negativas, como la calidad de los resultados que no siempre son de alta calidad, o también que a veces los resultados no llegan a ser tan relevantes. (Valentina Martinez-Landa, UAEMéx)<em></p>
+Tiene una amplia gama de fuentes anexadas, permite filtrar los resultados de diferentes formas. Aunque también tiene partes negativas, como la calidad de los resultados que no siempre son de alta calidad, o también que a veces los resultados no llegan a ser tan relevantes. (Valentina Martinez-Landa, UAEMéx)</em></p>
 </blockquote>
 
 #### [Google Books](https://books.google.com/)
@@ -182,7 +182,7 @@ Google Books es una herramienta de búsqueda muy útil, ya que permite a los usu
 3. Los usuarios pueden acceder a una vista previa de los libros que están buscando, lo que les permite ver el contenido y decidir si el libro es relevante para su investigación antes de comprarlo o leerlo.
 
 <blockquote>
-  <p><em>Mi experiencia personal utilizando Google Books ha sido muy positiva. He utilizado esta plataforma para encontrar muchos libros que necesitaba para mis investigaciones y estudios. La posibilidad de acceder a una amplia variedad de libros en formato digital me ha permitido ahorrar tiempo y dinero, ya que no tengo que desplazarme a una biblioteca física o comprar los libros en formato impreso.Además, la función de búsqueda de Google Books es muy efectiva, lo que me ha permitido encontrar rápidamente los libros que necesitaba. También me ha gustado la posibilidad de acceder a fragmentos de los libros antes de decidir si quiero comprarlos o no. (Christian Iglesias-Galván, UAEMéx)<em></p>
+  <p><em>Mi experiencia personal utilizando Google Books ha sido muy positiva. He utilizado esta plataforma para encontrar muchos libros que necesitaba para mis investigaciones y estudios. La posibilidad de acceder a una amplia variedad de libros en formato digital me ha permitido ahorrar tiempo y dinero, ya que no tengo que desplazarme a una biblioteca física o comprar los libros en formato impreso.Además, la función de búsqueda de Google Books es muy efectiva, lo que me ha permitido encontrar rápidamente los libros que necesitaba. También me ha gustado la posibilidad de acceder a fragmentos de los libros antes de decidir si quiero comprarlos o no. (Christian Iglesias-Galván, UAEMéx)</em></p>
 </blockquote>
 
 #### [Scholarpedia](http://www.scholarpedia.org/article/Main_Page)
@@ -190,10 +190,8 @@ Google Books es una herramienta de búsqueda muy útil, ya que permite a los usu
 **Scholarpedia** es un buscador inspirada en el formato de wikipedia (enciclipedia) que contiene textos que son supervisados, mantenidos y actualizados constantemente
 
 **Te permite:**
-1. Sustituir a wikipedia que cuenta con información basica, profundizado más en ella, en donde se podra encontar en su mayoría artículos académicos 
-
-**Experiencia:**
-1. Al tener una herramienta tan similar en la interfaz que wikipedia facilita demasiado el uso, ya que antes de la universidad o de alguna investigación importante todos recurrimos a wikipedia
+1. Sustituir a wikipedia que cuenta con información basica, profundizado más en ella, en donde se podra encontar en su mayoría artículos académicos.
+2. Al tener una herramienta tan similar en la interfaz que wikipedia facilita demasiado el uso, ya que antes de la universidad o de alguna investigación importante todos recurrimos a wikipedia
 
 #### [World Wide Science](https://worldwidescience.org/)
 
@@ -205,7 +203,7 @@ Este sitio web nos ayuda a buscar información a la que es más complicado acced
 2. Te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
 
 <blockquote>
-  <p><em>Debido a que es una herramienta tan intuitiva de usar al igual que otros buscadores comerciales se me facilita el utilizarla, además me gusta que puedo configurar el idioma desde el inicio, porque ahorro tiempo al no tener que recurrir a una herramienta específica para convertirlo al idioma que necesito (Dareysa Lopez-Gonzalez, UAEMéx)<em></p>
+  <p><em>Debido a que es una herramienta tan intuitiva de usar al igual que otros buscadores comerciales se me facilita el utilizarla, además me gusta que puedo configurar el idioma desde el inicio, porque ahorro tiempo al no tener que recurrir a una herramienta específica para convertirlo al idioma que necesito (Dareysa Lopez-Gonzalez, UAEMéx)</em></p>
 </blockquote>
 
 <h2>Recursos Informales </h2>
@@ -226,7 +224,7 @@ Es un repositorio en línea y sitio web de [biblioteca fantasma](https://es.wiki
 
 <blockquote>
   <p><em>En mis años de universidad, Sci-Hub fue un recurso indispensable para mi formación académica. Como estudiante de la licenciatura en Comunicación, acceder a artículos científicos de revistas especializadas era crucial para profundizar en mis conocimientos y realizar trabajos de investigación de calidad. Sin embargo, el alto costo de las suscripciones en otras páginas me impedía acceder a gran parte de la información que necesitaba.
-Sci-Hub me permitió superar esta barrera económica y acceder a una gran cantidad de material académico de forma gratuita (Valentina Martinez-Landa, UAEMéx)<em></p>
+Sci-Hub me permitió superar esta barrera económica y acceder a una gran cantidad de material académico de forma gratuita (Valentina Martinez-Landa, UAEMéx)</em></p>
 </blockquote>
 
 #### Z-library 
@@ -241,7 +239,7 @@ También es un proyecto de biblioteca fantasma, que tiene una operación y admin
 2. Puedes encontrar recursos de investigación, pero también puedes encontar libros de ciencia ficción, de remoce o cualquier otro.
 
 <blockquote>
-  <p><em>Solo tienes que ingresar, poner el nombre del artículo o libro que deses buscar o su ISB, si está disponibe, lo descargas y ya, es una plataforma de fácil acceso y abierta para todos los uruarios. (Fernanda De Jesús-Nicolás, UAEMéx)<em></p>
+  <p><em>Solo tienes que ingresar, poner el nombre del artículo o libro que deses buscar o su ISB, si está disponibe, lo descargas y ya, es una plataforma de fácil acceso y abierta para todos los uruarios. (Fernanda De Jesús-Nicolás, UAEMéx)</em></p>
 </blockquote>
 
 #### Library Genesis
@@ -255,7 +253,7 @@ Es una plataforma de intercambio de archivos que proporciona acceso a una gran c
 Tener acceso a una gran catidad herramientas académicas y científicas, además de que prorcina una gran variedad de comics y cualquier otro libro de ficción.
 
 <blockquote>
-  <p><em>El acceso es muy rápido y fácil, ingresas a la prataforma, no tienes que registrarte, solo buscas el nombre del libro que deseas, escoges el idioma, posteriormete seleccionas el formato de el libro y puedes tener acceso a este de manera automática (Fernanda De Jesús-Nicolás, UAEMéx)<em></p>
+  <p><em>El acceso es muy rápido y fácil, ingresas a la prataforma, no tienes que registrarte, solo buscas el nombre del libro que deseas, escoges el idioma, posteriormete seleccionas el formato de el libro y puedes tener acceso a este de manera automática (Fernanda De Jesús-Nicolás, UAEMéx)</em></p>
 </blockquote>
 
 #### Anna's Archive
@@ -270,7 +268,7 @@ Anna's Archive es un archivo digital que alberga una vasta colección de recurso
 2. Contribuir a la preservación del conocimiento al compartir y sembrar los torrents de la base de datos.
 
 <blockquote>
-  <p><em>Soy un artista multimedia que está trabajando en un proyecto que combina arte y ciencia. Estoy buscando imágenes y datos sobre el cuerpo humano para usarlos en mis creaciones. Anna's Archive no solo me ha proporcionado recursos valiosos, sino que también me ha inspirado a explorar nuevas formas de combinar el arte y la ciencia en mi trabajo ((Alejandra Leftife Velázquez-Molina, Universidad Autónoma del Estado de Hidalgo, México)<em></p>
+  <p><em>Soy un artista multimedia que está trabajando en un proyecto que combina arte y ciencia. Estoy buscando imágenes y datos sobre el cuerpo humano para usarlos en mis creaciones. Anna's Archive no solo me ha proporcionado recursos valiosos, sino que también me ha inspirado a explorar nuevas formas de combinar el arte y la ciencia en mi trabajo ((Alejandra Leftife Velázquez-Molina, Universidad Autónoma del Estado de Hidalgo, México)</em></p>
 </blockquote>
 
 #### Biblioteca de Minecraft
