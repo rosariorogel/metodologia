@@ -5,9 +5,9 @@ subtitle: Bases de datos, repositorios y buscadores académicos
 permalink: busqueda-informacion
 ---
 
-# Herramientas Digitales
+# Búsqueda de información
 
-## ¿De qué trata?
+## Una guía para buscar información académica de calidad 
 
 En la era digital, la investigación se ha convertido en una tarea cada vez más compleja. La variedad de información disponible en línea, aunque es una oportunidad para adquirir conocimientos, también puede ser abrumadora y poco práctica. Encontrar información confiable, relevante y organizada puede ser un desafío, lo que lleva a pérdida de tiempo y esfuerzo.
 
@@ -15,17 +15,19 @@ Es aquí donde herramientas digitales para la investigación entran en juego. Es
 
 En este apartado te ofrecemos una lista con algunas herramientas digitales que pueden potenciar tu trabajo, lo que te permitirá navegar con mayor facilidad y efectividad en el vasto mar de la información.
 
-### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
+#### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
 
-*Fernanda De Jesús-Nicolás*, 
-
-*Valentina Martinez-Landa*
+*Christian Galván-Iglesias*: Investigación, Metodología, Conceptualización, Recursos y Curación de Datos
+*Michelle Carmargo-González*: Conceptualización, Curación de Datos, Investigación, Metodología, Recursos y Escritura
+*Valentina Martinez-Landa*: Curación de Datos, Conceptualización, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición
+*Dareysa López-González*: Conceptualización, Investigación, Metodología y Recursos
+*Fernanda De Jesús-Nicolás*: Conceptualización, Metodología, Investigación, Análisis Fornal y Escritura.
 
 <h2>Recursos Formales</h2>
 
 Entendemos como "recursos formales" plataformas como: bases de datos y buscadores tanto de paga como gratuitos. En ambos casos los organizamos según su cobertura ya sea mundial o regional.
 
-## Base de datos comerciales de publicaciones científicas
+## Bases de datos comerciales de publicaciones científicas
 
 ### [WoS](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
 
@@ -37,7 +39,7 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
 2. Evaluación de la calidad de los artículos: Los índices de citas de WoS permiten evaluar la calidad y el impacto de los artículos científicos
 
 <blockquote>
-  <p>CSustituir por la experiencia de Diego. (Diego B. Vargas, [FURB, Universidade de Blumenau](https://www.furb.br/pt), Brasil)</p>
+  <p>*Sustituir por la experiencia de Diego*. **Diego B. Vargas, [FURB](https://www.furb.br/pt), Brasil**</p>
 </blockquote>
 
 ### [Scopus](https://www.scopus.com/)
@@ -50,14 +52,14 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
 2. Acceder a métricas de impacto: Scopus te proporciona información sobre el impacto y la relevancia de las publicaciones, como el [Índice H](https://es.wikipedia.org/wiki/%C3%8Dndice_h), el [Factor de Impacto](https://es.wikipedia.org/wiki/Factor_de_impacto) o el Cuartil al que pertenece cada revista por disciplina.
 
 <blockquote>
-  <p>Scopus tiene una gran gama de información para elegir, puedes filtrar los resultados por fecha de publicación, país de origen, tipo de estudio y autor, esto facilita muchos la hora de buscar la información siendo un estudiante de universidad, lo malo es que es de paga y sólo puede tener acceso si la biblioteca de tu universidad cuenta con suscripción (Valentina Martínez-Landa, Estudiante de comunicación, UAEMéx)</p>
+  <p>*Scopus tiene una gran gama de información para elegir, puedes filtrar los resultados por fecha de publicación, país de origen, tipo de estudio y autor, esto facilita muchos la hora de buscar la información siendo un estudiante de universidad, lo malo es que es de paga y sólo puede tener acceso si la biblioteca de tu universidad cuenta con suscripción* **(Christian Marion Harris-Miranda, Estudiante de la Universidad Autónoma del Estado de Hidalgo, México)**</p>
 </blockquote>
 
 ## Base de datos de publicaciones científicas de Acceso Abierto
 
 ### [CORE](https://core.ac.uk/)
 
-**Core** es una plataforma digital que te permite acceder a un universo de publicaciones científicas de acceso abierto. Funciona como una biblioteca virtual gigante, reuniendo millones de artículos de investigación de miles de repositorios y revistas alrededor del mundo.
+**CORE** es una plataforma digital que te permite acceder a un universo de publicaciones científicas de acceso abierto. Funciona como una biblioteca virtual gigante, reuniendo millones de artículos de investigación de miles de repositorios y revistas alrededor del mundo.
 
 **Te permite:**
 
@@ -65,7 +67,7 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
 2. Descubrir investigaciones innovadoras en tu campo de estudio.
 
 <blockquote>
-  <p>Soy estudiante de Economía en mi segundo año de carrera. Estoy preparando una presentación sobre el impacto de la Inteligencia Artificial en el mercado laboral. CORE se ha convertido en mi recurso principal para esta tarea (Diego, Estudiante de Economía, UAEMéx)</p>
+  <p>*Soy estudiante de Economía en mi segundo año de carrera. Estoy preparando una presentación sobre el impacto de la Inteligencia Artificial en el mercado laboral. CORE se ha convertido en mi recurso principal para esta tarea* **(Alonso González, Universidad Autónoma del Estado de Hidalgo, México)**</p>
 </blockquote>
 
 ### [BASE](https://www.base-search.net/)
@@ -78,10 +80,10 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
 2. **Búsqueda interdisciplinaria**: Permite buscar recursos en diferentes disciplinas y campos de estudio, lo que es especialmente útil para investigaciones que involucran múltiples áreas.
 
 <blockquote>
-  <p>Como estudiante de posgrado en ciencias de la computación, necesitaba encontrar artículos relevantes sobre el desarrollo de algoritmos de aprendizaje automático. Utilizando BASE, pude buscar artículos en revistas indexadas por SCIE y SSCI, lo que me permitió encontrar trabajos de alta calidad y relevancia en mi campo de estudio (***)</p>
+  <p>*Como estudiante de posgrado en ciencias de la computación, necesitaba encontrar artículos relevantes sobre el desarrollo de algoritmos de aprendizaje automático. Utilizando BASE, pude buscar artículos en revistas indexadas por SCIE y SSCI, lo que me permitió encontrar trabajos de alta calidad y relevancia en mi campo de estudio* **(Diego Alejandro Rivera-Martínez, Universidad Autónoma del Estado de Quintana Roo, México)**</p>
 </blockquote>
 
-## [DOAJ](https://www.doaj.org/)
+### [DOAJ](https://www.doaj.org/)
 
 **DOAJ** Es un directorio que lista revistas de Acceso Abierto, científicas y académicas, que cumplan con estándares de alta calidad al utilizar la revisión por pares o control de calidad editorial y que sean gratuitas para todos al momento de su publicación.
 
@@ -92,10 +94,10 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
 3. **Indexación y clasificación**: DOAJ indexa y clasifica revistas de Acceso Abierto, lo que facilita la búsqueda y la recuperación de información relevante.
 
 <blockquote>
-  <p>Ha sido una herramienta fundamental durante mi universidad. Me ha permitido acceder a una gran cantidad de artículos científicos de muy alta calidad y de manera gratuita, lo que ha sido realmente conveniente para realizar mis investigaciones y trabajos académicos. Almacena artículos de diferentes áreas de conocimiento que ha sido relevante para diferentes cursos y proyectos (Valentina Martínez-Landa, Estudiante de comunicación, UAEMéx)</p>
+  <p>*Ha sido una herramienta fundamental durante mi universidad. Me ha permitido acceder a una gran cantidad de artículos científicos de muy alta calidad y de manera gratuita, lo que ha sido realmente conveniente para realizar mis investigaciones y trabajos académicos. Almacena artículos de diferentes áreas de conocimiento que ha sido relevante para diferentes cursos y proyectos* **(Valentina Martínez-Landa, Estudiante de comunicación, UAEMéx)**</p>
 </blockquote>
 
-## [Project MUSE](https://muse.jhu.edu/)
+### [Project MUSE](https://muse.jhu.edu/)
 
 Imagina a **Project MUSE** como una biblioteca virtual que alberga un tesoro de publicaciones académicas en humanidades y ciencias sociales. Es una plataforma sin fines de lucro que reúne miles de artículos y libros electrónicos de editoriales universitarias y sociedades académicas de todo el mundo.
 
@@ -105,49 +107,36 @@ Imagina a **Project MUSE** como una biblioteca virtual que alberga un tesoro de 
 2. Descubrir investigaciones innovadoras de autores y pensadores influyentes.
 
 <blockquote>
-  <p>
-Soy un escritor independiente apasionado por la historia y la cultura. Estoy trabajando en un nuevo libro sobre la influencia de la música en la sociedad.
-Comencé buscando artículos sobre el impacto de la música en diferentes culturas y épocas. Project MUSE me permitió filtrar por tema, autor, fecha de publicación e incluso tipo de publicación. (***)</p>
+  <p>*Soy un escritor independiente apasionado por la historia y la cultura. Estoy trabajando en un nuevo libro sobre la influencia de la música en la sociedad. Comencé buscando artículos sobre el impacto de la música en diferentes culturas y épocas. Project MUSE me permitió filtrar por tema, autor, fecha de publicación e incluso tipo de publicación* **(@levtan_ium en WhatPad)**</p>
 </blockquote>
 
-
-
-
-### Regionales
-
-## [SCIELO](https://scielo.org/es)
+### [SCIELO](https://scielo.org/es)
 
 Es una biblioteca electrónica que ofrece acceso abierto a una amplia colección de revistas científicas de alta calidad publicadas en América Latina, el Caribe, España y Portugal.
 
 **Te permite:**
 
-Encontrar artículos científicos de diversas áreas del conocimiento: Alberga una colección de más de 3.500 revistas que abarcan todas las áreas del conocimiento, desde las ciencias naturales y exactas hasta las ciencias sociales y humanidades. Leer artículos en español, portugués e inglés: Se ofrece la mayoría de sus artículos en español y portugués, y muchos de ellos también están disponibles en inglés.
+1. Encontrar artículos científicos de diversas áreas del conocimiento: Alberga una colección de más de 3.500 revistas que abarcan todas las áreas del conocimiento, desde las ciencias naturales y exactas hasta las ciencias sociales y humanidades.
+2. Leer artículos en español, portugués e inglés: Se ofrece la mayoría de sus artículos en español y portugués, y muchos de ellos también están disponibles en inglés.
 
-**Experiencia:**
+<blockquote>
+  <p>*En mi caso ha sido muy buena ya que me ha permitido organizar de manera eficiente mi tiempo y mis tareas. Su interfaz es muy intuitiva y fácil de usar, lo que me ha ayudado a mantenerme enfocado en mis objetivos. Además, me ha brindado la posibilidad de colaborar con mi equipo de forma efectiva, permitiendo una comunicación fluida y un trabajo en conjunto más productivo* **(Christian Galván-Iglesias, estudiante de Comunicación, UAEMéx)**</p>
+</blockquote>
 
-“En mi caso ha sido muy buena ya que me ha permitido organizar de manera eficiente mi tiempo y mis tareas. Su interfaz es muy intuitiva y fácil de usar, lo que me ha ayudado a mantenerme enfocado en mis objetivos. Además, me ha brindado la posibilidad de colaborar con mi equipo de forma efectiva, permitiendo una comunicación fluida y un trabajo en conjunto más productivo”
+### [Redalyc](https://www.redalyc.org/home.oa)
 
-**Créditos:**
-Christian Galván Iglesias
-
-## [Redalyc](https://www.redalyc.org/home.oa)
-
-Redalyc, la Red de Revistas Científicas de América Latina y el Caribe, España y Portugal, es un proyecto sin fines de lucro que su principal objetivo es democratizar el acceso a la información académica, brindando a investigadores, estudiantes y público en general la posibilidad de leer, descargar, imprimir y distribuir de forma gratuita millones de artículos científicos publicados en revistas especializadas de Ciencias Sociales y Humanidades.
+Proyecto sin fines de lucro cuyo principal objetivo es democratizar el acceso a la información académica, brindando a investigadores, estudiantes y público en general la posibilidad de leer, descargar, imprimir y distribuir de forma gratuita millones de artículos científicos publicados en revistas especializadas de Ciencias Sociales y Humanidades.
 
 **Te permite:**
 
-Búsqueda avanzada: Permite encontrar artículos por autor, título, palabras clave, tema, fecha de publicación y otros criterios, facilitando la búsqueda precisa de información relevante.
-Acceso abierto: Todos los artículos publicados en revistas indexadas en Redalyc son de libre acceso, eliminando barreras económicas y promoviendo la democratización del conocimiento.
-Indicadores bibliométricos: Ofrece indicadores como el factor de impacto y el índice H para evaluar la calidad y relevancia de las revistas y artículos indexados.
+1. **Búsqueda avanzada:** Permite encontrar artículos por autor, título, palabras clave, tema, fecha de publicación y otros criterios, facilitando la búsqueda precisa de información relevante.
+2. **Acceso Abierto:** Todos los artículos publicados en revistas indexadas en Redalyc son de libre acceso, eliminando barreras económicas y promoviendo la democratización del conocimiento.
 
-**Experiencia:**
+<blockquote>
+  <p>*Durante mi carrera universitaria, Redalyc se convirtió en una herramienta indispensable para mi investigación y aprendizaje. Me ayudó a encontrar información relevante con la amplia base de datos que me permitió encontrar artículos de revistas académicas confiables sobre una gran variedad de temas.* **(Valentina Martinez-Landa, estudiante de Comunicación, UAEMéx)**</p>
+</blockquote>
 
-"Durante mi carrera universitaria, Redalyc se convirtió en una herramienta indispensable para mi investigación y aprendizaje. Me ayudó a encontrar información relevante con la amplia base de datos que me permitió encontrar artículos de revistas académicas confiables sobre una gran variedad de temas."
-
-**Créditos:**
-Valentina Martinez-Landa
-
-## [Dialnet](https://dialnet.unirioja.es/)
+### [Dialnet](https://dialnet.unirioja.es/)
 
 Es como una biblioteca colosal dedicada a la ciencia en español. Esta plataforma digital te permite acceder a millones de artículos de investigación, libros, tesis doctorales y otros recursos en áreas como las ciencias sociales, las humanidades, las ciencias exactas y las ciencias de la salud.
 
@@ -156,321 +145,117 @@ Es como una biblioteca colosal dedicada a la ciencia en español. Esta plataform
 1. Encontrar información confiable para tus trabajos académicos, proyectos o simplemente para saciar tu curiosidad intelectual.
 2. Explorar diferentes perspectivas sobre temas que te apasionan desde una mirada hispanoamericana.
 
-**Experiencia:**
+<blockquote>
+  <p>*Soy un Youtuber que crea contenido sobre descubrimientos científicos en español. Estoy preparando un nuevo video sobre los últimos avances en la investigación espacial. A medida que profundizaba, Project Dialnet me ayudó a identificar autores e investigadores destacados en el campo de la astrofísica y la exploración espacial. Pude leer sus trabajos, analizar sus hallazgos y comprender sus diferentes perspectivas.* **(AUTOR, INSTITUCIÓN)**</p>
+</blockquote>
 
-"Soy un Youtuber que crea contenido sobre descubrimientos científicos en español. Estoy preparando un nuevo video sobre los últimos avances en la investigación espacial. A medida que profundizaba, Project Dialnet me ayudó a identificar autores e investigadores destacados en el campo de la astrofísica y la exploración espacial. Pude leer sus trabajos, analizar sus hallazgos y comprender sus diferentes perspectivas."
-
-**Créditos:**
-Valentina Martinez-Landa
-
-## [REDIB](https://www.redib.org/)
+### [REDIB](https://www.redib.org/)
 
 Es una plataforma digital que ofrece acceso abierto a una vasta colección de recursos científicos y académicos producidos en Iberoamérica.
 
 **Te permite:**
 
-Encontrar publicaciones científicas de calidad contrastada: Su buscador avanzado te facilita la búsqueda por autor, título, tema, palabras clave, ISSN y DOI, entre otros criterios.
-Gestionar tus búsquedas y referencias: Puedes crear listas personalizadas de resultados, guardar referencias bibliográficas en diferentes formatos y exportarlas a gestores de referencias como EndNote o Zotero.
+1. **Encontrar publicaciones científicas de calidad contrastada:** Su buscador avanzado te facilita la búsqueda por autor, título, tema, palabras clave, ISSN y DOI, entre otros criterios.
+2. **Gestionar tus búsquedas y referencias:** Puedes crear listas personalizadas de resultados, guardar referencias bibliográficas en diferentes formatos y exportarlas a gestores de referencias como EndNote o Zotero.
 
 **Experiencia:**
 
-“El inicio de la página se ve estetico y hace que la experiencia sea más agradable al navegar, ya que de cierta forma no se siente tan tediosa de usar, además de que es similar a los buscadores de siempre pero ya no es necesario revisar la información que aparece porque como ya es certificada por todas esas instituciones la revisión de calidad de información será menos cansada.”
+<blockquote>
+  <p>*El inicio de la página se ve estético y hace que la experiencia sea más agradable al navegar, ya que de cierta forma no se siente tan tediosa de usar, además de que es similar a los buscadores de siempre pero ya no es necesario revisar la información que aparece porque como ya es certificada por todas esas instituciones la revisión de calidad de información será menos cansada.* **(Dareysa Lopez-Gonzalez)**</p>
+</blockquote>
 
-**Créditos:**
-Dareysa Lopez-Gonzalez
+## Buscadores de recursos de información académica
 
-## [PKP (Public Knowledge Project)](https://pkp.sfu.ca/)
-
-El Public Knowledge Project (PKP) es una iniciativa multinacional dedicada a mejorar la calidad y el alcance del acceso a la investigación académica. Fundada en 1998, PKP desarrolla software de código abierto y realiza investigaciones sobre la publicación académica y el acceso abierto.
-
-**Te permite:**
-
-El recurso cuenta con diversos softwares que contienen diferentes herramientas para la ayuda en la búsqueda de información, por ejemplo:
-
-**Open Journal Systems (OJS)**
-
-Es un software que nos permite llevar a cabo la gestión de revistas, facilitando la gestión de revistas académicas desde artículos hasta la publicación, de igual manera permite la publicación de artículos en línea con la opción de acceso abierto, no obstante el software puede realizar la gestión de suscripciones, siendo más precisos, revistas de suscripción.
-
-Es utilizado por miles de revistas en todo el mundo, facilitando la gestión editorial y el acceso abierto a la investigación.
-
-**Open Monograph Press (OMP)**
-
-El software ideal para la gestión y publicación de monografías y libros académicos, que incluye herramientas para la gestión del proceso editorial de libros, desde la propuesta inicial hasta la distribución final, por lo general es utilizado por editoriales académicas y universidades.
-
-**EXPERIENCIA**
-
-“Recientemente tuve la oportunidad de utilizar las herramientas del Public Knowledge Project (PKP) para explorar y gestionar publicaciones académicas, y mi experiencia fue muy positiva. Decidí empezar con Open Journal Systems (OJS) para familiarizarme con la plataforma de gestión de revistas académicas. La instalación fue relativamente sencilla gracias a la documentación clara proporcionada por PKP. He de decir que al explorar OJS, me impresionó su interfaz intuitiva y fácil de usar”
-
-**Créditos:**
-Michelle Camargo-González
-
-## [OAPEN (Open Access Publishing in European Networks)](https://www.oapen.org/)
-
-OAPEN proporciona una plataforma para la publicación y el almacenamiento de libros académicos de acceso abierto, asegurando que estos estén disponibles para cualquier persona de forma gratuita.
-
-**Te permite:**
-
-Algunas de sus funcionalidades es el repositorio de acceso abierto. Debido a que todos los libros disponibles en la plataforma son de acceso abierto, significa que cualquier persona puede leerlos, descargarlos y utilizarlos sin costo. De igual manera, cubre una amplia gama de disciplinas académicas, incluyendo ciencias sociales, humanidades, ciencias naturales y más.
-
-La mayoría de las plataformas contienen información solamente en inglés, no obstante, OAPEN, es una herramienta en la que la información también se encuentra disponible en otros idiomas, lo que refleja la diversidad de las publicaciones académicas. Dentro de sus vastos beneficios OAPEN nos presenta una mayor visibilidad e impacto para los autores que publican en ella, apoyo en la transición y colaboración de editoriales y una amplia gama de libros sin costo alguno para instituciones académicas.
-
-**EXPERIENCIA**
-
-“Al ingresar al sitio web de OAPEN, me sorprendió gratamente la simplicidad y claridad del diseño. La interfaz es intuitiva y no tuve problemas para navegar por las diferentes secciones. La página principal presenta una barra de búsqueda prominente y accesos directos a categorías temáticas, lo que facilita el inicio de la búsqueda; al buscar los libros de mi interés, encontré una amplia variedad de ellos y al momento de descargarlos fue un proceso rápido y eficiente”
-
-**Créditos**
-Michelle Camargo-González
-
-## [SAGE Open](https://us.sagepub.com/en-us/nam/journal/sage-open)
-
-SAGE Open es una revista académica de acceso abierto revisada por pares que abarca una amplia gama de disciplinas en las ciencias sociales y del comportamiento, así como en las ciencias y humanidades. Publicada por SAGE Publications, una de las editoriales académicas líderes a nivel mundial, SAGE Open está diseñada para proporcionar un foro de acceso abierto para la diseminación de investigaciones académicas de alta calidad.
-
-**Te permite:**
-
-Te permite publicar investigaciones académicas revisadas por pares en diversas disciplinas, ofreciendo un acceso abierto gratuito a todos los artículos sin necesidad de suscripciones, esto facilita una difusión rápida de tus hallazgos, aumentando la visibilidad y el impacto de tu trabajo a nivel mundial. Además, SAGE Open te permite mantener los derechos de autor de tu investigación mediante licencias Creative Commons, asegurando que tu trabajo pueda ser compartido y utilizado por otros bajo ciertas condiciones.
-
-**EXPERIENCIA**
-
-“La posibilidad de acceder gratuitamente a todos los artículos fue una gran ventaja. Pude descargar y leer varios artículos sin enfrentar las típicas barreras de pago, lo que hizo que la experiencia de investigación fuera mucho más fluida y accesible. Además, noté que todos los artículos habían pasado por un riguroso proceso de revisión por pares, lo que me dio confianza en la calidad y la validez de la información”
-
-**Créditos:**
-Michelle Camargo-González
-
-## [JSTOR](https://www.jstor.org/)
-
-JSTOR es una plataforma en línea que ofrece acceso a una amplia gama de recursos académicos, incluyendo revistas, libros, y fuentes primarias en diversas disciplinas
-
-**Te permite:**
-
-sirve principalmente para la investigación académica y la educación superior, permitiendo a estudiantes, profesores e investigadores acceder a información y recursos de calidad para sus investigaciones y trabajos académicos. JSTOR facilita el acceso a investigaciones y publicaciones de alta calidad, contribuyendo al avance del conocimiento en diferentes áreas del saber.
-
-**Experiencia:**
-
-He utilizado esta plataforma para acceder a una amplia gama de artículos académicos y revistas en diversas disciplinas, lo que me ha sido de gran ayuda para investigar y profundizar en mis temas de interés. Además, me resulta muy fácil de usar, con un buscador intuitivo y herramientas de filtro que me permiten encontrar rápidamente la información que necesito. También valoro la posibilidad de guardar artículos en mi lista de lectura y de exportar citas de manera sencilla
-
-**Créditos:**
-Christian Galván
-
-## [Reefseek](https://www.refseek.com/)
-
-Es una herramienta para la la búsqueda de contenido de artículos de revistas, conferencias y tesis, fue creado y desarrolao por la Oficina de Información Científica y Técnica (OSTI)
-
-**Te permite:**
-
-Refseek es una herramienta de gran ayuda para un gran público como: editores, investigadores, bibliotecarios etc
-Ofrece información confiable y  como usuario puedes publicar y/o buscar información 
-
-**Experiencia:**
-
-Es una plataforma muy fácil de usar, es parecida a casi todas las que conozco pero está no tiene problemas de red o tarda en buscar la información, siempre tiene lo que busco y se que es confiable por qué pone las fuentes consultadas para darme la información que le pido, me gusto que no necesitas tener una suscripción o estar ligado a un paquete mensual para poder acceder a todo lo que ofrece la página
-
-**Créditos:**
-Dareysa Lopez-Gonzlalez
-
-## [Academia.edu](http://academia.edu/)
-
-Academia.edu es una plataforma en la que académicos de distintos grados comparten su trabajo de investigación una vez concluido, añadiendo asi, una enorme cantidad de articulos, tesis e investigaciones academicas o de cualquier tema 
-
-**Te permite:**
-
-Buscar información ya sintetizada y acceder a información de calidad ya revisada por alguien mas con anterioridad, teniendo la certeza de que quien publica ese escrito es un académico, la plataforma facilita la busqueda ya que en el inicio de la pagina se nos muestra la información por materias o asignaturas y categorías dentro de ellas, teniendo al rededor de 33millones de académicos publicando 
-
-**Experiencia:**
-
-Ayuda demasiado tener la información o la investigación ya resumida o ya investigada dentro de el tema especifico, ademas que al ser un “.edu” tiene un respaldo académico
-
-**Créditos:**
-Dareysa Lopez-Gonzlalez
-
-## [ERIC]( https://bidi.unam.mx/index.php/cobertura-tematica/ver-todos-los-recursos/419-eric-)
-
-Es una base de datos en línea creada en 1964, tiene más de un millón de resúmenes de documentos y artículos de revista sobre educación
-
-**Te permite:**
-
-Esta herramienta sirve para obtener guías de enseñanza, informes de investigación, bibliografías y materiales de apoyo, las busquedas se pueden hacer por fecha de publicación, autor, tipo de publicación, nivel educativo.
-
-**Experiencia:**
-
-Yo al ocupar esta página me ha gustado mucho por qué no tiene problemas de red, arroja información específica y acuerdo con lo que necesito saber es una plataforma gratuita y es fácil de acceder a ella
-
-**Créditos:**
-Dareysa Lopez-Gonzlalez
-
-### Buscadores de recursos
-
-## [Google Scholar](https://scholar.google.com/)
+### [Google Scholar](https://scholar.google.com/)
 
 Google Scholar es un motor de búsqueda que se enfoca en artículos académicos, tesis, libros, conferencias y otros documentos científicos y académicos. Funciona al escanear la web para encontrar y indexar estos documentos, y luego utiliza un algoritmo para clasificar y presentar los resultados relevantes en función de la relevancia y autoridad
 
 **Te permite:**
 
-Investigación: Puedes encontrar una amplia variedad de información académica y científica, incluyendo artículos de revistas, libros, tesis, conferencias y patentes.
-Trabajos académicos: Es una herramienta útil para estudiantes y profesionales que necesitan encontrar información actualizada y confiable para sus trabajos académicos o de investigación.
-Citas: Puedes generar citas en diferentes estilos, incluyendo APA, MLA y Chicago, y acceder a versiones gratuitas de algunos documentos si están disponibles en línea.
+1. Puedes encontrar una amplia variedad de información académica y científica, incluyendo artículos de revistas, libros, tesis, conferencias y patentes.
+2. Es una herramienta útil para estudiantes y profesionales que necesitan encontrar información actualizada y confiable para sus trabajos académicos o de investigación.
+3. Puedes generar citas en diferentes estilos, incluyendo APA, MLA y Chicago, y acceder a versiones gratuitas de algunos documentos que están disponibles en línea.
 
-**Experiencia:**
+<blockquote>
+  <p>*Mi experiencia con Google Scholar ha sido en general positiva. Es una herramienta valiosa para encontrar información académica confiable y de alta calidad. Me ha permitido acceder a una gran cantidad de artículos, libros, tesis y otros recursos de investigación de diversas áreas del conocimiento.
+Tiene una amplia gama de fuentes anexadas, permite filtrar los resultados de diferentes formas. Aunque también tiene partes negativas, como la calidad de los resultados que no siempre son de alta calidad, o también que a veces los resultados no llegan a ser tan relevantes.* **(Valentina Martinez-Landa, UAEMéx)**</p>
+</blockquote>
 
-“Mi experiencia con Google Scholar ha sido en general positiva. Es una herramienta valiosa para encontrar información académica confiable y de alta calidad. Me ha permitido acceder a una gran cantidad de artículos, libros, tesis y otros recursos de investigación de diversas áreas del conocimiento.
-Tiene una amplia gama de fuentes anexadas, permite filtrar los resultados de diferentes formas. Aunque también tiene partes negativas, como la calidad de los resultados que no siempre son de alta calidad, o también que a veces los resultados no llegan a ser tan relevantes”
+### [Google Books](https://books.google.com/)
 
-**Créditos:**
-Valentina Martinez-Landa
-
-## [Google Books](https://books.google.com/)
 Google Books es una herramienta de búsqueda muy útil, ya que permite a los usuarios buscar en una amplia variedad de libros en línea. 
 
 **Te permite:**
-Búsqueda de libros completos, ya que los usuarios pueden buscar en libros completos que están disponibles para su lectura en línea. Esto facilita la búsqueda de información específica en libros completos sin necesidad de tener el libro físicamente. 
-Búsqueda de contenido relevante: Google Books permite a los usuarios buscar contenido relevante dentro de los libros, lo que les ayuda a encontrar información específica sobre un tema en particular.
-previa de libros: Los usuarios pueden ver una vista previa de los libros que están buscando, lo que les permite ver el contenido y decidir si el libro es relevante para su investigación antes de comprarlo o leerlo.
+1. Búsqueda de libros, algunos de los libros están completos para su lectura en línea, pero la gran mayoría solo tienen disponibles algunas secciones, por cuestiones de derechos de autor.
+2. Permite a los usuarios buscar contenido relevante dentro de los libros, lo que les ayuda a encontrar información específica sobre un tema en particular.
+3. Los usuarios pueden acceder a una vista previa de los libros que están buscando, lo que les permite ver el contenido y decidir si el libro es relevante para su investigación antes de comprarlo o leerlo.
 
-**Experiencia:**
-Mi experiencia personal utilizando Google Books ha sido muy positiva. He utilizado esta plataforma para encontrar muchos libros que necesitaba para mis investigaciones y estudios. La posibilidad de acceder a una amplia variedad de libros en formato digital me ha permitido ahorrar tiempo y dinero, ya que no tengo que desplazarme a una biblioteca física o comprar los libros en formato impreso.Además, la función de búsqueda de Google Books es muy efectiva, lo que me ha permitido encontrar rápidamente los libros que necesitaba. También me ha gustado la posibilidad de acceder a fragmentos de los libros antes de decidir si quiero comprarlos o no.
+<blockquote>
+  <p>*Mi experiencia personal utilizando Google Books ha sido muy positiva. He utilizado esta plataforma para encontrar muchos libros que necesitaba para mis investigaciones y estudios. La posibilidad de acceder a una amplia variedad de libros en formato digital me ha permitido ahorrar tiempo y dinero, ya que no tengo que desplazarme a una biblioteca física o comprar los libros en formato impreso.Además, la función de búsqueda de Google Books es muy efectiva, lo que me ha permitido encontrar rápidamente los libros que necesitaba. También me ha gustado la posibilidad de acceder a fragmentos de los libros antes de decidir si quiero comprarlos o no.* **(Christian Iglesias-Galván, UAEMéx)**</p>
+</blockquote>
 
-## [Scholarpedia](http://www.scholarpedia.org/article/Main_Page)
+### [Scholarpedia](http://www.scholarpedia.org/article/Main_Page)
 
-Scholarpedia es un buscador inspirada en el formato de wikipedia (enciclipedia) que contiene textos que son supervisados, mantenidos y actualizados constantemente
-
-**Te permite:**
-su principal funcion es sustituir a wikipedia que cuenta con información basica, profundizado más en ella, en donde se podra encontar en su mayoría artículos académicos 
-
-**Experiencia:**
-Al tener una herramienta tan similar en la interfaz que wikipedia facilita demasiado el uso, ya que antes de la universidad o de alguna investigación importante todos recurrimos a wikipedia
-
-**Créditos:**
-Dareysa Lopez-Gonzalez
-
-## Mixto
-
-## Mundial
-
-## [Swissocows](https://swisscows.com/es)
-
-Este se enfoca en la privacidad y no almacena datos a los usuarios, proporciona información de manera instantánea, está disponible en varios idiomas. lo que permite tener fácil acceso a información, de diferentes partes del mundo de una manera fácil y anónima, para así proteger tus datos personales.
+**Scholarpedia** es un buscador inspirada en el formato de wikipedia (enciclipedia) que contiene textos que son supervisados, mantenidos y actualizados constantemente
 
 **Te permite:**
+1. Sustituir a wikipedia que cuenta con información basica, profundizado más en ella, en donde se podra encontar en su mayoría artículos académicos 
 
-Buscar información en el menor tiempo posible, de forma rápida y segura, ya que cuando hagas una consulta de información no quedará rastro alguno, esto permite proteger a los usuarios, para así ser una comunidad segura, respeta tu privacidad, puedes consultar cualquier tema de tu agrado en el idioma que desees.
+**Experiencia:**
+1. Al tener una herramienta tan similar en la interfaz que wikipedia facilita demasiado el uso, ya que antes de la universidad o de alguna investigación importante todos recurrimos a wikipedia
 
-**Experiencia**
-
-“Fue muy fácil de ingresar, no tuve que registrarme en la versión gratuita, no deja historial, tu búsqueda se hace de forma automática, encuentras variedad de información.
-Tiene dos opciones de uso el primero es de manera gratuita y el segundo de paga, como usuario decides cómo quieres pagar, de forma anual o mensual.”
-
-**Créditos:**
-Fernanda De Jesús-Nicolás
-
-
-## [World wide science](https://worldwidescience.org/)
+## [World Wide Science](https://worldwidescience.org/)
 
 Este sitio web nos ayuda a buscar información a la que es más complicado acceder desde buscadores comerciales, ya que realiza estas búsquedas en portales científicos de los países que son parte de la creación de este sitio web
 
 **Te permite:**
 
-Encontrar información científica de diversas fuentes: Te brinda acceso a una amplia gama de recursos científicos, incluyendo artículos de revistas, libros, informes, datos de investigación, etc.
-Realizar búsquedas exhaustivas: Te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
+1. Encontrar información científica de diversas fuentes: Te brinda acceso a una amplia gama de recursos científicos, incluyendo artículos de revistas, libros, informes, datos de investigación.
+2. Te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
 
-**Experiencia**
+<blockquote>
+  <p>*Debido a que es una herramienta tan intuitiva de usar al igual que otros buscadores comerciales se me facilita el utilizarla, además me gusta que puedo configurar el idioma desde el inicio, porque ahorro tiempo al no tener que recurrir a una herramienta específica para convertirlo al idioma que necesito”* **(Dareysa Lopez-Gonzalez, UAEMéx)**</p>
+</blockquote>
 
-“Debido a que es una herramienta tan intuitiva de usar al igual que otros buscadores comerciales se me facilita el utilizarla, además me gusta que puedo configurar el idioma desde el inicio, porque ahorro tiempo al no tener que recurrir a una herramienta específica para convertirlo al idioma que necesito”
+<h2>Recursos informales</h2>
 
-**Créditos:**
-Dareysa Lopez-Gonzalez
+Por "recursos informales" nos referimos a diversas plataformas o sitios que no son legales, pero que existen y acerca de los cuales es preciso tomar en consideración precaución en su uso.
 
-## Gratuita
-## Mundial
-## [DuckDuckGo](https://duckduckgo.com)
+### Sci-Hub
 
-Es una herramienta de búsqueda, que enfatiza la protección y la privacidad de los usuarios, ya que no rastrea y almacena información personal, esto permite que aquellas personas que busquen información en esta herramienta se sientan seguras.
+*Para entrar a esta herramienta es necesario visitar su canal en Telegram, pero no lo usen porque es ilegal*
 
-**Te permite:**
-
-En los navegadores actúa como buscador, pero en su versión para dispositivos móviles es un navegador web, con un buscador incorporado que nos ofrece tener una mayor búsqueda en la red, en donde podemos encontrar una gran variedad de información, además no guarda ninguna información personal y bloquea rastreadores en los sitios web.
-
-**Experiencia**
-
-Fue muy fácil ingresar, ya que no tienes que registrarte y tu búsqueda se hace de manera automática, esta puede ser en diferentes idiomas, con ello obtendrás más información, uno de ellos es el Inglés, ya que solo en el buscador escribes lo que desees y esto te permitirá tener mayor acceso a información.   
-
-**Créditos:**
-Fernanda De Jesús-Nicolás
-
-## Gratuita
-### Mundiales
-
-## [springer link](https://link.springer.com/)
-
- Es un portafolio científico, técnico y médico líder a nivel mundial que brinda a los investigadores del mundo académico, instituciones 
- científicas y departamentos corporativos de I + D contenido de calidad mediante información, productos y servicios innovadores.
- 
- **Te permite**
-
- Buscar información electrónica del campo de las ciencias, la técnica y las ciencias sociales. Proporciona acceso a publicaciones de 
- todo tipo: revistas, libros, series de libros, protocolos y cualquier otra ofra de prefencia.
-
- **Experiencia**
- 
- Es de acceso abierto, esto permite que los investigadores o cual quier otra persona interedasa en la investigación puean acceder a este, no necesitas registrarte, puedes ingresar de morma rápida. La información con la que cuenta es confiable y de calidad, esto permite hacer mejores investigaciones.
-
- **Créditos**
- Fernanda De Jesús-Nicolás
-
- 
-
-# **INFORMALES**
-En la era digital, el acceso a la información es más fácil y rápido que nunca, gracias a las diversas herramientas de búsqueda informales que encontramos disponibles en Internet, estas herramientas son esenciales para la vida cotidiana, el trabajo y el aprendizaje, permitiendo a los usuarios obtener datos relevantes de manera rápida y eficaz.
-
- A diferencia de las búsquedas académicas o profesionales, que pueden requerir el uso de bases de datos especializadas y la consulta de fuentes verificadas, las herramientas de búsqueda de información informales se enfocan en obtener información de manera ágil y accesible. Las herramientas informales se manejan desde motores de búsqueda impulsados por inteligencia artificial, bibliotecas digitales creadas en diversas plataformas, foros de discusión, hasta repositorios de links que provienen de la Dark Web. Algunas veces estas mismas herramientas rozan la delgada línea entre lo legal e ilegal ya que algunos de estos recursos cuentan con información delicada, no verificada o con enlaces maliciosos.
-
-Como lo es el caso de la Dark Web; recordemos que la Dark Web es una subsección de la Deep Web, la cual incluye todas las páginas web que no son accesibles a través de motores de búsqueda normales. A diferencia de la Deep Web, que simplemente incluye contenido no indexado (como bases de datos privadas y sitios web protegidos por contraseña), la Dark Web está intencionalmente oculta y utiliza capas de encriptación para mantener el anonimato de los usuarios y los operadores de los sitios.
-
-Es importante mencionar que en el siguiente apartado mencionaremos algunos de estos recursos con fines meramente informativos, haciendo hincapié en que el uso que se le dé por los usuarios, es bajo su propia responsabilidad.
-
-**Créditos:**
-Michelle Camargo-González
-
-## [Sci-Hub](https://t.me/scihubreal)
-
-*Para entrar a esta herramienta es necesario visitar su canal en telegram*
-
-Es un repositorio en línea y sitio web de biblioteca fantasma que brinda acceso gratuito a millones de artículos académicos, libros y otras publicaciones científicas. Su objetivo es democratizar el conocimiento haciendo que la investigación científica esté disponible para todos, independientemente de su afiliación institucional o capacidad de pago.
+Es un repositorio en línea y sitio web de [biblioteca fantasma](https://es.wikipedia.org/wiki/Biblioteca_fantasma) que brinda acceso a millones de artículos académicos, libros y otras publicaciones científicas generalmente publicadas por editoriales comerciales. Su objetivo es democratizar el conocimiento haciendo que la investigación científica esté disponible para todos, independientemente de su afiliación institucional o capacidad de pago. Esta plataforma es desarrollada por [Alexandra Elbakyan](https://es.wikipedia.org/wiki/Alexandra_Elbakyan) quien actualmente enfrenta varias demandas legales por parte de diversas empresas editoriales comerciales.
 
 **Te permite:**
 
-Estudiantes e investigadores: Acceder a artículos académicos y libros para sus estudios e investigaciones, incluso si no tienen acceso a bases de datos pagas.
-Profesores y educadores: Encontrar materiales de enseñanza y recursos para sus cursos.
-Profesionales y público en general: Mantenerse informados sobre los últimos avances en diversas áreas del conocimiento.
+1. Acceder a artículos académicos y libros para sus estudios e investigaciones, fundamentalmente en inglés, publicadas por editoriales comerciales, incluso si no tienen acceso a bases de datos pagas.
+2. Encontrar materiales de enseñanza y recursos para sus cursos.
+3. Profesionales y público en general: Mantenerse informados sobre los últimos avances en diversas áreas del conocimiento.
 
-**Sirve para:**
+<blockquote>
+  <p>*En mis años de universidad, Sci-Hub fue un recurso indispensable para mi formación académica. Como estudiante de la licenciatura en Comunicación, acceder a artículos científicos de revistas especializadas era crucial para profundizar en mis conocimientos y realizar trabajos de investigación de calidad. Sin embargo, el alto costo de las suscripciones en otras páginas me impedía acceder a gran parte de la información que necesitaba.
+Sci-Hub me permitió superar esta barrera económica y acceder a una gran cantidad de material académico de forma gratuita* **(Valentina Martinez-Landa, UAEMéx)**</p>
+</blockquote>
 
-“En mis años de universidad, Sci-Hub fue un recurso indispensable para mi formación académica. Como estudiante de la licenciatura en Comunicación, acceder a artículos científicos de revistas especializadas era crucial para profundizar en mis conocimientos y realizar trabajos de investigación de calidad. Sin embargo, el alto costo de las suscripciones en otras páginas me impedía acceder a gran parte de la información que necesitaba.
-Sci-Hub me permitió superar esta barrera económica y acceder a una gran cantidad de material académico de forma gratuita”
+### z-library 
 
-**Créditos:**
-Valentina Martinez-Landa
+*Pero no la uses porque es ilegal*
 
-## Gratuita
-## Mundiales
-
-## [z-library](https://z-lib.id/) 
-
-Es un proyecto de biblioteca fantasma, que tiene una operación y administración que no está bien documentadas, se sabe que utiliza una página de inicio en un dominio fácil de recordar y enumera dominios espejo para diferentes regiones para evitar la inclusión en listas negras de dominios. 
+También es un proyecto de biblioteca fantasma, que tiene una operación y administración que no está bien documentadas, se sabe que utiliza una página de inicio en un dominio fácil de recordar y enumera dominios espejo para diferentes regiones para evitar la inclusión en listas negras de dominios. 
 
 **Te permite**
 
- Descargar libros de cualquier índole, de manera rápida y automática, es de fácil acceso para los usuarios, permite acceder a articulos, libros academicos y de interés general. Ya que en él puedes encontrar herramientas de investigación, pero también puedes encontar libros de ciencia ficción, de remoce o cualquier otro.
+1. A diferencia de SchiHub, desde este sitio puedes descargar libros de cualquier índole, de manera rápida y automática
+2. Puedes encontrar recursos de investigación, pero también puedes encontar libros de ciencia ficción, de remoce o cualquier otro.
 
-**Experiencia**
+<blockquote>
+  <p>*Solo tienes que ingresar, poner el nombre del artículo o libro que deses buscar o su ISB, si está disponibe, lo descargas y ya, es una plataforma de fácil acceso y abierta para todos los uruarios* **(Fernanda De Jesús-Nicolás, UAEMéx)**</p>
+</blockquote>
 
-Solo tienes que ingresar, poner el nombre de el artiículo o libro que deses buscar, posteriormente  te registras y lo descargas, es una plataforma de fácil acceso y abierta para todos los uruarios.
+### Library Genesis
 
-**Créditos**
-Fernanda De Jesús-Nicolás
-
-## Gratuita
-### Mundiales
-
-## [Library Genesis](https://libgen.is/)
+*Pero no la uses porque es ilegal*
 
 Es una plataforma de intercambio de archivos que proporciona acceso a una gran colección de libros y artículos académicos, se puede acceder a través de una aplicación de escritorio. Con sede en Rusia y Holanda, y también desde la darknet o deep web, LibGen es probablemente la shadow library con el acervo más grande de libros en la historia de internet.
 
@@ -478,15 +263,13 @@ Es una plataforma de intercambio de archivos que proporciona acceso a una gran c
 
 Tener acceso a una gran catidad herramientas académicas y científicas, además de que prorcina una gran variedad de comics y cualquier otro libro de ficción.
 
-**Experiencia**
-El acceso es muy rápido y fácil, ingresas a la prataforma, no tienes que registrarte, solo buscas el nombre del libro que deseas, escoges el idioma, posteriormete seleccionas el formato de el libro y puedes tener acceso a este de manera automática.
+<blockquote>
+  <p>*El acceso es muy rápido y fácil, ingresas a la prataforma, no tienes que registrarte, solo buscas el nombre del libro que deseas, escoges el idioma, posteriormete seleccionas el formato de el libro y puedes tener acceso a este de manera automática.* **(Fernanda De Jesús-Nicolás, UAEMéx)**</p>
+</blockquote>
 
-**Créditos**
-Fernanda De Jesús-Nicolás 
+### Anna's Archive
 
-## [Anna's Archive](https://t.me/s/annasarchiveorg?before=31)
-
-*Para entrar a esta herramienta es necesario visitar su canal en telegram*
+*Para entrar a esta herramienta es necesario visitar su canal en telegram, pero no lo usen porque es ilegal*
 
 Anna's Archive es un archivo digital que alberga una vasta colección de recursos científicos, incluyendo libros, artículos, revistas, registros de biblioteca, metadatos y más.
 
@@ -495,14 +278,13 @@ Anna's Archive es un archivo digital que alberga una vasta colección de recurso
 1. Encontrar recursos educativos para complementar tu aprendizaje.
 2. Contribuir a la preservación del conocimiento al compartir y sembrar los torrents de la base de datos.
 
-**Experiencia:**
+<blockquote>
+  <p>*Soy un artista multimedia que está trabajando en un proyecto que combina arte y ciencia. Estoy buscando imágenes y datos sobre el cuerpo humano para usarlos en mis creaciones. Anna's Archive no solo me ha proporcionado recursos valiosos, sino que también me ha inspirado a explorar nuevas formas de combinar el arte y la ciencia en mi trabajo* **((Alejandra Leftife Velázquez-Molina, Universidad Autónoma del Estado de Hidalgo, México))**</p>
+</blockquote>
 
-"Soy un artista multimedia que está trabajando en un proyecto que combina arte y ciencia. Estoy buscando imágenes y datos sobre el cuerpo humano para usarlos en mis creaciones. Anna's Archive no solo me ha proporcionado recursos valiosos, sino que también me ha inspirado a explorar nuevas formas de combinar el arte y la ciencia en mi trabajo."
+### Biblioteca de Minecraft
 
-**Créditos:**
-Valentina Martinez-Landa
-
-## **[Biblioteca de Minecraft](https://www.uncensoredlibrary.com/en)**
+*Pero no la uses porque es ilegal*
 
 La Uncensored Library es un proyecto desarrollado por Reporteros Sin Fronteras (RSF) en colaboración con BlockWorks y MediaMonks. La biblioteca se encuentra dentro del popular juego de computadora Minecraft y fue lanzada el 12 de marzo de 2020, coincidiendo con el Día Mundial Contra la Censura en Internet.
 
@@ -512,44 +294,33 @@ La biblioteca es un servidor de Minecraft que contiene reportajes censurados de 
 
 La principal motivación de esta biblioteca es brindar una fuente de información más libre, que pueda exponer de manera transparente los hechos que ocurren alrededor del mundo y de manera particular en los países individualmente. Además de ordenar y organizar la distinta información, brinda mayor seguridad y menor riesgo de represión a los periodistas, quiénes pueden compartir sus reportajes y noticias de una manera segura.
 
-
 **Impacto contra la censura**
+* Refugio para periodistas censurados.
+* Acceso a información en países con acceso restringido a la información.
+* Acceso a información oculta, aún en países con una amplia libertad de expresión.
+* Educación y conciencia en jóvenes.
 
-*   Refugio para periodistas censurados.
-*   Acceso a información en países con acceso restringido a la información.
-*    Acceso a información oculta, aún en países con una amplia libertad de expresión.
-*   Educación y conciencia en jóvenes.
+### [Hidden Wiki]
 
-**Créditos:**
-Sofia Michelle Camargo-González
+*Pero no la uses porque es ilegal*
 
-## **[Hidden Wiki](https://thehiddenwiki.org)**
 La Hidden Wiki es un punto de partida popular para quienes desean explorar la Dark Web. Proporciona enlaces categorizados a una variedad de sitios, que van desde foros y servicios de correo electrónico anónimos hasta mercados ilegales y bibliotecas digitales. Es importante señalar que, debido a la naturaleza no regulada de la Dark Web, muchos de los enlaces pueden llevar a contenido ilegal o malicioso.
 
 Se trata de un repositorio de información en la dark web (o web profunda), funciona como un índice para acceder a páginas de dominio “.onion”.
 
 **Tipo de contenido presente**
 
-* **Enlaces a sitios de la Dark Web**
-
-*   **Artículos informativos sobre privacidad y anonimato.**
-
-* **Servicios financieros.**
-    * a) Ofrece enlaces a servicios que permiten operaciones financieras anónimas, como lavado de bitcoins, compraventa de criptomonedas y servicios de pago por tarjetas de crédito.
-
-    * b) Tarjetas de crédito clonadas, falsificación de billetes, carteras de dinero anónimas.
-  
-* **Servicios comerciales**
-  * a) Incluye enlaces a sitios que ofrecen productos y servicios ilícitos, como drogas y armas.
-
-  * b) Explotación sexual y mercado negro.
-
-* **Anonimato y seguridad**
-
-  * a) Instrucciones y recursos para reforzar la privacidad en la red Tor y en las transacciones en línea.
-
-**Precauciones al navegar en la Hidden Wiki**
-
+1. Enlaces a sitios de la Dark Web
+* Artículos informativos sobre privacidad y anonimato.
+2. Servicios financieros
+a) Ofrece enlaces a servicios que permiten operaciones financieras anónimas, como lavado de bitcoins, compraventa de criptomonedas y servicios de pago por tarjetas de crédito.
+b) Tarjetas de crédito clonadas, falsificación de billetes, carteras de dinero anónimas.
+3 Servicios comerciales
+a) Incluye enlaces a sitios que ofrecen productos y servicios ilícitos, como drogas y armas.
+b) Explotación sexual y mercado negro.
+4. Anonimato y seguridad**
+a) Instrucciones y recursos para reforzar la privacidad en la red Tor y en las transacciones en línea.
+5. Precauciones al navegar en la Hidden Wiki
 * Utiliza una VPN.
 * Instala un antivirus confiable.
 * Descarga y utiliza el navegador Tor.
@@ -559,58 +330,12 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 * No descargues ni compartas archivos.
 * Cierra todas las pestañas y ventanas de Tor.
 
-**Créditos:**
- Michelle Camargo-González
-
 ---
 
-# INFOGRAFÍA RECURSOS DE INFORMACIÓN DIGITAL
+# Infografías sobre recursos de información digital 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_1.jpg" style="float:center;width:1000px;padding-right:100px;">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_2.jpg" style="float:center;width:1000px;padding-right:100px;">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg" style="float:center;width:1000px;padding-right:100px;">
-
-Imágenes con licencia de Creative Commons CC0.
-
-**Créditos:**
-Michelle Camargo-González
-
-# Herramientas
-
-## **MINECRAFT**
-<img itemprop="contentURL" width="1200" height="799" src="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" srcset="https://c.pxhere.com/photos/e9/b6/photo-508643.jpg!d" alt="edificio, pasillo, biblioteca, inmuebles, Biblioteca Pública, Librería">
-
-## DuckDuck Go
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i2.wp.com/nksistemas.com/wp-content/uploads/2014/02/duckduckgo.jpg?fit=545%2C326&amp;ssl=1">
-
-## Swisscows
-
-## world wide science
-
-## Scielo
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Imagenes_paises_scielo.png" width="886" height="762">
-
-## Scopus:
-
-
-## Google Scholar
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png">
-
-## DOAJ
-<img alt="Archivo:ResponsiveWriting.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ResponsiveWriting.png/800px-ResponsiveWriting.png?20180814160522" decoding="async" width="800" height="500" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ResponsiveWriting.png/1200px-ResponsiveWriting.png?20180814160522 1.5x, https://upload.wikimedia.org/wikipedia/commons/c/c6/ResponsiveWriting.png?20180814160522 2x" data-file-width="1280" data-file-height="800">E
-
-## Redalyc
-<img alt="Archivo:Redalyc.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Redalyc.png/600px-Redalyc.png?20140217193230" decoding="async" width="600" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f7/Redalyc.png?20140217193230 1.5x" data-file-width="800" data-file-height="800">
-
-## SciHub
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://textumdergi.net/wp-content/uploads/2020/10/scihub.jpg" width="981" height="565">
-
-## Hidden wiki
-<img alt="Archivo:Hidden Wiki en Tor Browser.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/800px-Hidden_Wiki_en_Tor_Browser.png?20210814183306" decoding="async" width="800" height="438" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1200px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hidden_Wiki_en_Tor_Browser.png/1600px-Hidden_Wiki_en_Tor_Browser.png?20210814183306 2x" data-file-width="1849" data-file-height="1012">
-
-
-## Herramienta de ayuda
-
-# BIBLIOGRAFIA
