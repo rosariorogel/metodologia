@@ -90,4 +90,5 @@ Elegir alguna de ellas depende de los resultados y el análisis que quieras obte
 >**Para esto puedes usar Connected Papers**
 
 ![Revoluciona tu Investigación: Cómo Connected Papers Facilita tu Trabajo](https://www.youtube.com/watch?v=NanEAoxIp8M=)
+
 Esperamos haberte ayudado a que tu elección sea mucho más fácil!
