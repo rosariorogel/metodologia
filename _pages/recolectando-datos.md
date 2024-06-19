@@ -13,7 +13,8 @@ En primer lugar, hallarás una breve introducción sobre los tres principales ti
 
 Se adjunta un video previamente subido a la plataforma de YouTube, en donde explicamos qué es lo que ofrece cada herramienta y una breve demostración del uso de cada una de ellas. Finalmente, compartimos un cuadro comparativo que nos ayudó a tener una mejor organización y encontrar relaciones entre las herramientas.
 
-
+HERRAMIENTAS DE INTERPRETACIÓN Y ANÁLISIS DE DATOS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QojvHRwqCQE?si=VMqykijcEI35ofpV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## **Enfoques de investigación**
