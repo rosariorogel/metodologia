@@ -243,7 +243,7 @@ El software ideal para la gestión y publicación de monografías y libros acad�
 
 “Recientemente tuve la oportunidad de utilizar las herramientas del Public Knowledge Project (PKP) para explorar y gestionar publicaciones académicas, y mi experiencia fue muy positiva. Decidí empezar con Open Journal Systems (OJS) para familiarizarme con la plataforma de gestión de revistas académicas. La instalación fue relativamente sencilla gracias a la documentación clara proporcionada por PKP. He de decir que al explorar OJS, me impresionó su interfaz intuitiva y fácil de usar”
 
-**Créditos**
+**Créditos:**
 Michelle Camargo-González
 
 ## [OAPEN (Open Access Publishing in European Networks)](https://www.oapen.org/)
@@ -263,7 +263,7 @@ La mayoría de las plataformas contienen información solamente en inglés, no o
 **Créditos**
 Michelle Camargo-González
 
-## [SAGE Open RECURSO GRATUITO](https://us.sagepub.com/en-us/nam/journal/sage-open)
+## [SAGE Open](https://us.sagepub.com/en-us/nam/journal/sage-open)
 
 SAGE Open es una revista académica de acceso abierto revisada por pares que abarca una amplia gama de disciplinas en las ciencias sociales y del comportamiento, así como en las ciencias y humanidades. Publicada por SAGE Publications, una de las editoriales académicas líderes a nivel mundial, SAGE Open está diseñada para proporcionar un foro de acceso abierto para la diseminación de investigaciones académicas de alta calidad.
 
@@ -275,7 +275,7 @@ Te permite publicar investigaciones académicas revisadas por pares en diversas 
 
 “La posibilidad de acceder gratuitamente a todos los artículos fue una gran ventaja. Pude descargar y leer varios artículos sin enfrentar las típicas barreras de pago, lo que hizo que la experiencia de investigación fuera mucho más fluida y accesible. Además, noté que todos los artículos habían pasado por un riguroso proceso de revisión por pares, lo que me dio confianza en la calidad y la validez de la información”
 
-**Créditos**
+**Créditos:**
 Michelle Camargo-González
 
 ### Buscadores de recursos
