@@ -116,13 +116,9 @@ Es un modelo de inteligencia artificial creado por Google, y que busca liderar e
 **Ventajas:**
 
 * Da respuestas combinando conocimientos escritos con información extraída de las imágenes y los videos.
-
 * Responde preguntas relacionadas con la identificación detallada de objetos en imágenes y videos.
-
 * Responder a las preguntas y extrae información de diversos contenidos, como infografías, gráficos, cifras, tablas y páginas web.
-
 * Genera descripciones de imágenes y videos con diferentes niveles de detalle.
-
 * Sugiere qué más ver según una ubicación, qué podría suceder después, antes o entre imágenes o videos.
 
 ## [Consensus IA](https://consensus.app/)
@@ -131,28 +127,18 @@ Es una herramienta que te permite explorar relaciones y obtener resúmenes de in
 **Ventajas:**
 
 * Acceso a bases de datos académicas de código abierto.
-
 * Ofrece resúmenes y citas de investigaciones específicas.
-
 * Permite acceder a documentos completos cuando estén disponibles.
-
 * Función de sintetizar múltiples estudios en un resumen general.
-
 * Orienta en la búsqueda de ideas y preguntas para un proyecto de investigación.
-
 
 # Desventajas de los sitios de Inteligencia Artificial (AI)
 
 * Todo lo que se escribe en los sitios queda registrado, los desarrolladores pueden tener acceso a tus contenidos para continuar con el entrenamiento al chat de Inteligencia Artificial, se recomienda no incluir información personal.
-
 * Es inestable, debido a la alta demanda el sistema puede caerse.
-
 * Te brinda información clara, pero no te dice de dónde se obtuvo, no genera referencias (excepto Perplexity).
-
 * Acceso limitado a documentos completos (a excepción de Chat gpt 4.0).
-
 * La plataforma puede tener limitaciones en cuanto a la cantidad de recursos y funcionalidades que se pueden ofrecer.
-
 * Su información esta actualizada hasta una cierta fecha, es posible que no tenga información de los eventos más recientes.
 
 ***Créditos:*** Efrén Yair Blanquel-Vara y Diego González-Reyes.
