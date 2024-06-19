@@ -9,7 +9,7 @@ Los enfoques de investigación son los métodos y estrategias utilizados para in
 
 Este apartado web es una herramienta valiosa para estudiantes, investigadores y público interesados en conocer las diferentes metodologías utilizadas para generar conocimiento, además, permite a los usuarios comprender los fundamentos de cada enfoque de investigación, sus aplicaciones y sus limitaciones, lo que les ayudará a tomar decisiones informadas sobre la mejor manera de abordar un problema de investigación específico.  
 
-Todo aquel que busque ampliar su conocimiento, tendrá acceso a un grupo en Zotero, donde encontrará journals de acceso abierto, ensayos, libros, videos y páginas web asegurando así que la información es confiable. Las infografías mostradas en todas las imágenes fueron creadas con [Canva.](https://www.canva.com/ "Canva")
+Todo aquel que busque ampliar su conocimiento, tendrá acceso a un grupo en [Zotero](https://www.zotero.org/groups/5388483/metodologa_fcpys/collections/XCB5HMLR), donde encontrará journals de acceso abierto, ensayos, libros, videos y páginas web asegurando así que la información es confiable. Las infografías mostradas en todas las imágenes fueron creadas con [Canva.](https://www.canva.com/ "Canva")
 
 ***Créditos: Paola Altamirano-Dávila.***
 
