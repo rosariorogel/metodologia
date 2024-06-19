@@ -37,7 +37,7 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
 2. Evaluación de la calidad de los artículos: Los índices de citas de WoS permiten evaluar la calidad y el impacto de los artículos científicos
 
 <blockquote>
-  <p><em>Sustituir por la experiencia de Diego*. Diego B. Vargas, FURB, Brasil.<em></p>
+  <p><em>Sustituir por la experiencia de Diego. Diego B. Vargas, FURB, Brasil.</em></p>
 </blockquote>
 
 #### [Scopus](https://www.scopus.com/)
