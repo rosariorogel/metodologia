@@ -23,7 +23,7 @@ En este apartado te ofrecemos una lista con algunas herramientas digitales que p
 
 <h2>Recursos Formales </h2>
 
-Entendemos como "recursos formales" plataformas como: bases de datos y buscadores tanto de paga como gratuitos. En ambos casos los organizamos según su cobertura ya sea mundial o regional.
+Entendemos como *recursos formales* plataformas como: bases de datos y buscadores tanto de paga como gratuitos. En ambos casos los organizamos según su cobertura ya sea mundial o regional.
 
 ### Bases de datos comerciales de publicaciones científicas
 ---
@@ -74,7 +74,7 @@ Entendemos como "recursos formales" plataformas como: bases de datos y buscadore
 2. **Búsqueda interdisciplinaria**: Permite buscar recursos en diferentes disciplinas y campos de estudio, lo que es especialmente útil para investigaciones que involucran múltiples áreas.
 
 <blockquote>
-  <p><em>Como estudiante de posgrado en ciencias de la computación, necesitaba encontrar artículos relevantes sobre el desarrollo de algoritmos de aprendizaje automático. Utilizando BASE, pude buscar artículos en revistas indexadas por SCIE y SSCI, lo que me permitió encontrar trabajos de alta calidad y relevancia en mi campo de estudio (Diego Alejandro Rivera-Martínez, Universidad Autónoma del Estado de Quintana Roo, México)<em>**</p>
+  <p><em>Como estudiante de posgrado en ciencias de la computación, necesitaba encontrar artículos relevantes sobre el desarrollo de algoritmos de aprendizaje automático. Utilizando BASE, pude buscar artículos en revistas indexadas por SCIE y SSCI, lo que me permitió encontrar trabajos de alta calidad y relevancia en mi campo de estudio (Diego Alejandro Rivera-Martínez, Universidad Autónoma del Estado de Quintana Roo, México)<em></p>
 </blockquote>
 
 #### [DOAJ](https://www.doaj.org/)
@@ -210,7 +210,7 @@ Este sitio web nos ayuda a buscar información a la que es más complicado acced
 
 <h2>Recursos Inormales </h2>
 
-Por "recursos informales" nos referimos a diversas plataformas o sitios que no son legales, pero que existen y acerca de los cuales es preciso tomar en consideración precaución en su uso.
+Por *recursos informales* nos referimos a diversas plataformas o sitios que no son legales, pero que existen y acerca de los cuales es preciso tomar en consideración precaución en su uso.
 
 #### Sci-Hub
 
