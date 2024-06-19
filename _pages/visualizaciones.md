@@ -5,6 +5,8 @@ subtitle: Herramientas de análisis y visualización bibliométrica
 permalink: visualizaciones
 ---
 
+#Herramientas de visualización de campos académicos
+
 En esta sección del sitio web, se presentan diversas herramientas gráficas con el objetivo de ayudar a los investigadores y estudiantes a visualizar los datos obtenidos de sus consultas. Además, ofrece una comparación entre ellas para permitir el desarrollo y manejo de sus competencias y habilidades.
 
 El énfasis de esta sección radica en la utilización de herramientas visuales, lo que subraya la importancia de la representación de la información para comprender y presentar conjuntos de datos complejos. Estas herramientas no solo permiten la generación de gráficos estáticos y dinámicos, sino que también facilitan la interacción de datos en tiempo real mediante lenguaje R y el estado del arte.
@@ -12,6 +14,15 @@ El énfasis de esta sección radica en la utilización de herramientas visuales,
 A través de ellas se integran las técnicas de análisis de datos, lo que simplifica la detección de patrones y tendencias que pueden ser cruciales para las investigaciones científicas y sociales. Y, sobre todo, nos ofrecen una nueva perspectiva de cómo manejar los datos y de entender cómo otros autores han tratado los diversos temas.
 
 A continuación, te mostramos tres herramientas y te presentamos sus ventajas y desventajas en un vídeo muy interesante para que puedas decidir cuál de ellas se adapta mejor a tus necesidades.
+
+#### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
+
+* **Christian Galván-Iglesias**: *Investigación, Metodología, Conceptualización, Recursos y Curación de Datos*
+* **Michelle Carmargo-González**: *Conceptualización, Curación de Datos, Investigación, Metodología, Recursos y Escritura*
+* **Valentina Martinez-Landa**: *Curación de Datos, Conceptualización, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición*
+* **Dareysa López-González**: *Conceptualización, Investigación, Metodología y Recursos*
+* **Fernanda De Jesús-Nicolás**: *Conceptualización, Metodología, Investigación, Análisis Fornal y Escritura*
+
 
 ### [VOSviewer](https://www.vosviewer.com/)
 
