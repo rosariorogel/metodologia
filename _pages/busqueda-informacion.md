@@ -278,6 +278,18 @@ Te permite publicar investigaciones académicas revisadas por pares en diversas 
 **Créditos:**
 Michelle Camargo-González
 
+## [JSTOR](https://www.jstor.org/)
+JSTOR es una plataforma en línea que ofrece acceso a una amplia gama de recursos académicos, incluyendo revistas, libros, y fuentes primarias en diversas disciplinas
+
+**Te permite:**
+sirve principalmente para la investigación académica y la educación superior, permitiendo a estudiantes, profesores e investigadores acceder a información y recursos de calidad para sus investigaciones y trabajos académicos. JSTOR facilita el acceso a investigaciones y publicaciones de alta calidad, contribuyendo al avance del conocimiento en diferentes áreas del saber.
+
+**Experiencia:**
+He utilizado esta plataforma para acceder a una amplia gama de artículos académicos y revistas en diversas disciplinas, lo que me ha sido de gran ayuda para investigar y profundizar en mis temas de interés. Además, me resulta muy fácil de usar, con un buscador intuitivo y herramientas de filtro que me permiten encontrar rápidamente la información que necesito. También valoro la posibilidad de guardar artículos en mi lista de lectura y de exportar citas de manera sencilla
+
+**Créditos:**
+Christian Galván
+
 ### Buscadores de recursos
 
 ## [Google Scholar](https://scholar.google.com/)
@@ -297,6 +309,20 @@ Tiene una amplia gama de fuentes anexadas, permite filtrar los resultados de dif
 
 **Créditos:**
 Valentina Martinez-Landa
+
+## [Google Books](https://books.google.com/)
+Google Books es una herramienta de búsqueda muy útil, ya que permite a los usuarios buscar en una amplia variedad de libros en línea. 
+
+**Te permite:**
+Búsqueda de libros completos, ya que los usuarios pueden buscar en libros completos que están disponibles para su lectura en línea. Esto facilita la búsqueda de información específica en libros completos sin necesidad de tener el libro físicamente. 
+Búsqueda de contenido relevante: Google Books permite a los usuarios buscar contenido relevante dentro de los libros, lo que les ayuda a encontrar información específica sobre un tema en particular.
+previa de libros: Los usuarios pueden ver una vista previa de los libros que están buscando, lo que les permite ver el contenido y decidir si el libro es relevante para su investigación antes de comprarlo o leerlo.
+
+**Experiencia:**
+Mi experiencia personal utilizando Google Books ha sido muy positiva. He utilizado esta plataforma para encontrar muchos libros que necesitaba para mis investigaciones y estudios. La posibilidad de acceder a una amplia variedad de libros en formato digital me ha permitido ahorrar tiempo y dinero, ya que no tengo que desplazarme a una biblioteca física o comprar los libros en formato impreso.Además, la función de búsqueda de Google Books es muy efectiva, lo que me ha permitido encontrar rápidamente los libros que necesitaba. También me ha gustado la posibilidad de acceder a fragmentos de los libros antes de decidir si quiero comprarlos o no.
+
+**Créditos:**
+Christian Galván
 
 ## Mixto
 
