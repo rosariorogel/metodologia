@@ -279,16 +279,65 @@ Te permite publicar investigaciones académicas revisadas por pares en diversas 
 Michelle Camargo-González
 
 ## [JSTOR](https://www.jstor.org/)
+
 JSTOR es una plataforma en línea que ofrece acceso a una amplia gama de recursos académicos, incluyendo revistas, libros, y fuentes primarias en diversas disciplinas
 
 **Te permite:**
+
 sirve principalmente para la investigación académica y la educación superior, permitiendo a estudiantes, profesores e investigadores acceder a información y recursos de calidad para sus investigaciones y trabajos académicos. JSTOR facilita el acceso a investigaciones y publicaciones de alta calidad, contribuyendo al avance del conocimiento en diferentes áreas del saber.
 
 **Experiencia:**
+
 He utilizado esta plataforma para acceder a una amplia gama de artículos académicos y revistas en diversas disciplinas, lo que me ha sido de gran ayuda para investigar y profundizar en mis temas de interés. Además, me resulta muy fácil de usar, con un buscador intuitivo y herramientas de filtro que me permiten encontrar rápidamente la información que necesito. También valoro la posibilidad de guardar artículos en mi lista de lectura y de exportar citas de manera sencilla
 
 **Créditos:**
 Christian Galván
+
+## [Reefseek](https://www.refseek.com/)
+
+Es una herramienta para la la búsqueda de contenido de artículos de revistas, conferencias y tesis, fue creado y desarrolao por la Oficina de Información Científica y Técnica (OSTI)
+
+**Te permite:**
+
+Refseek es una herramienta de gran ayuda para un gran público como: editores, investigadores, bibliotecarios etc
+Ofrece información confiable y  como usuario puedes publicar y/o buscar información 
+
+**Experiencia:**
+
+Es una plataforma muy fácil de usar, es parecida a casi todas las que conozco pero está no tiene problemas de red o tarda en buscar la información, siempre tiene lo que busco y se que es confiable por qué pone las fuentes consultadas para darme la información que le pido, me gusto que no necesitas tener una suscripción o estar ligado a un paquete mensual para poder acceder a todo lo que ofrece la página
+
+**Créditos:**
+Dareysa Lopez-Gonzlalez
+
+## [Academia.edu](http://academia.edu/)
+
+Academia.edu es una plataforma en la que académicos de distintos grados comparten su trabajo de investigación una vez concluido, añadiendo asi, una enorme cantidad de articulos, tesis e investigaciones academicas o de cualquier tema 
+
+**Te permite:**
+
+Buscar información ya sintetizada y acceder a información de calidad ya revisada por alguien mas con anterioridad, teniendo la certeza de que quien publica ese escrito es un académico, la plataforma facilita la busqueda ya que en el inicio de la pagina se nos muestra la información por materias o asignaturas y categorías dentro de ellas, teniendo al rededor de 33millones de académicos publicando 
+
+**Experiencia:**
+
+Ayuda demasiado tener la información o la investigación ya resumida o ya investigada dentro de el tema especifico, ademas que al ser un “.edu” tiene un respaldo académico
+
+**Créditos:**
+Dareysa Lopez-Gonzlalez
+
+## [ERIC]( https://bidi.unam.mx/index.php/cobertura-tematica/ver-todos-los-recursos/419-eric-)
+
+Es una base de datos en línea creada en 1964, tiene más de un millón de resúmenes de documentos y artículos de revista sobre educación
+
+**Te permite:**
+
+Esta herramienta sirve para obtener guías de enseñanza, informes de investigación, bibliografías y materiales de apoyo, las busquedas se pueden hacer por fecha de publicación, autor, tipo de publicación, nivel educativo.
+
+**Experiencia:**
+
+Yo al ocupar esta página me ha gustado mucho por qué no tiene problemas de red, arroja información específica y acuerdo con lo que necesito saber es una plataforma gratuita y es fácil de acceder a ella
+
+**Créditos:**
+Dareysa Lopez-Gonzlalez
 
 ### Buscadores de recursos
 
