@@ -10,6 +10,8 @@ Querido lector, a continuación te presentamos una sección de periódico en don
 
 <img src="{{ site.baseurl }}/assets/img/periodico.pdf - 1.jpg" style="float:left;width:200px;padding-right:20px;">
 
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl }}/assets/img/periodico.pdf - 2.jpg" style="float:left;width:200px;padding-right:20px;">
 
 <div style="clear: both;"></div>
