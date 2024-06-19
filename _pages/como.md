@@ -22,4 +22,8 @@ _**Coordinación:** Rosario Rogel y Brian Rosenblum._
 
 _**Coordinación:** Rosario Rogel._
 
+# Recursos utilizados 
+<img src="{{ site.baseurl }}/assets/img/timelines.png" style="float:left;width:200px;padding-right:20px;"> Para la realización de las líneas del tiempo en el trabajo de “Inteligencia Artificial en la Investigación”, como en su producción académica– partimos de una investigación documental y recopilación de datos. Posteriormente, utilizamos la plataforma abierta Timeline Js que permite visualizar líneas del tiempo. Para ello se trabaja sobre hojas de cálculo en Google, donde se van agregando fechas, datos, referencias e imágenes. La herramienta permite visualizaciones interesantes y es muy fácil de usar.
+<img src="{{ site.baseurl }}/assets/img/canva.png" style="float:left;width:200px;padding-right:20px;"> En el proyecto “Enfoques”, para la creación de todas las infografías mostradas; las imágenes que se van mostrado se hicieron con Canva (Software de código abierto que te permite crear diseños gráficos de manera sencilla y rápida). 
+
 
