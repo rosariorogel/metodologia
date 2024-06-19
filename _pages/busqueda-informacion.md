@@ -21,7 +21,7 @@ En este apartado te ofrecemos una lista con algunas herramientas digitales que p
 * **Dareysa López-González**: *Conceptualización, Investigación, Metodología y Recursos*</p>
 * **Fernanda De Jesús-Nicolás**: *Conceptualización, Metodología, Investigación, Análisis Fornal y Escritura*</p>
 
-<h2>**Recursos Formales** 2</h2>
+<h2>Recursos Formales 2</h2>
 ___
 
 Entendemos como "recursos formales" plataformas como: bases de datos y buscadores tanto de paga como gratuitos. En ambos casos los organizamos según su cobertura ya sea mundial o regional.
@@ -217,7 +217,7 @@ Este sitio web nos ayuda a buscar información a la que es más complicado acced
   <p>*Debido a que es una herramienta tan intuitiva de usar al igual que otros buscadores comerciales se me facilita el utilizarla, además me gusta que puedo configurar el idioma desde el inicio, porque ahorro tiempo al no tener que recurrir a una herramienta específica para convertirlo al idioma que necesito”* **(Dareysa Lopez-Gonzalez, UAEMéx)**</p>
 </blockquote>
 
-<h2>**Recursos Inormales** 2</h2>
+<h2>Recursos Inormales 2</h2>
 ___
 
 Por "recursos informales" nos referimos a diversas plataformas o sitios que no son legales, pero que existen y acerca de los cuales es preciso tomar en consideración precaución en su uso.
