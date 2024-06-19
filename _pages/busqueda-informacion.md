@@ -5,156 +5,113 @@ subtitle: Bases de datos, repositorios y buscadores académicos
 permalink: busqueda-informacion
 ---
 
-
 # Herramientas Digitales
 
 ## ¿De qué trata?
 
-En la era digital, la investigación se ha convertido en una tarea cada vez más compleja. La variedad de información disponible en línea, aunque es una oportunidad para adquirir conocimientos, también puede ser abrumadora y poco práctica. Encontrar información confiable, relevante y organizada puede ser un desafío, lo que lleva a una pérdida de tiempo y esfuerzo.
+En la era digital, la investigación se ha convertido en una tarea cada vez más compleja. La variedad de información disponible en línea, aunque es una oportunidad para adquirir conocimientos, también puede ser abrumadora y poco práctica. Encontrar información confiable, relevante y organizada puede ser un desafío, lo que lleva a pérdida de tiempo y esfuerzo.
 
 Es aquí donde herramientas digitales para la investigación entran en juego. Estas herramientas ofrecen soluciones innovadoras para optimizar el proceso de búsqueda, análisis y gestión de información, transformando la investigación en una experiencia más eficiente y productiva.
 
-Nuestro objetivo es brindar a los investigadores una guía completa y actualizada sobre las herramientas digitales que pueden potenciar su trabajo, permitiéndoles navegar con mayor facilidad y efectividad en el vasto mar de la información.
+En este apartado te ofrecemos una lista con algunas herramientas digitales que pueden potenciar tu trabajo, lo que te permitirá navegar con mayor facilidad y efectividad en el vasto mar de la información.
 
-### Créditos:
+### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
 
-*Fernanda De Jesús-Nicolás*
-2
-3
-4
+*Fernanda De Jesús-Nicolás*, 
+
 *Valentina Martinez-Landa*
 
-# RECURSOS FORMALES
-La investigación es un proceso bastante complejo, en el que los usuarios al momento de realizar una investigación de cualquier índole, utilizan recursos formales, en los que puedan tener presión y calidad en los resultados, para así incluir herramientas y técnicas que les permitan recopilar y analizar los datos de manera eficaz. 
+<h2>Recursos Formales</h2>
 
-Algunas de estas herramientas nos permiten ingresar de manera fácil y gratuita, por lo que en algunos casos sólo necesitas un dispositivo móvil e ingresar sin problema alguno,  ya que no se hace un registro previo, esto permite que la búsqueda de información sea más rápida.
+Entendemos como "recursos formales" plataformas como: bases de datos y buscadores tanto de paga como gratuitos. En ambos casos los organizamos según su cobertura ya sea mundial o regional.
 
-Cabe mencionar que en el ámbito académico, se utilizan diferentes herramientas de investigación en donde se busca la mejora de los resultados, por ello, en las bibliotecas digitales que ofrecen  las diferentes instituciones, tienen como objetivo hacer una investigación más enriquecedora y que con ello se pueda acceder a otras herramientas, ya sean gratuitas o de paga.
+## Base de datos comerciales de publicaciones científicas
 
-**Créditos**
-Fernanda De Jesús-Nicolás
+### [WoS](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
 
-
-## Base de datos de publicaciones científicas
-## Paga
-
-## [Scopus](https://www.scopus.com/)
-
-Scopus es una base de datos bibliográfica de resúmenes y citas de artículos de revistas científicas propiedad de Elsevier lanzada en el año 2004.
-
-**Te permite:**
-
-1. El motor de búsqueda te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
-2. Acceder a métricas de impacto: Scopus te proporciona información sobre el impacto y la relevancia de las publicaciones, como el índice H5 y el factor de impacto.
-
-**Experiencia:**
-
-“Tiene una gran gama de información para elegir, puedes filtrar los resultados por fecha de publicación, país de origen, tipo de estudio y autor, esto facilita muchos la hora de buscar la información siendo un estudiante de universidad, además que permite descargar los PDF o guardarlos”
-
-**Créditos:**
-Valentina Martinez-Landa
-
-## [WoS](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
-WoS es una plataforma que integra varios índices de citas, incluyendo el Science Citation Index Expanded (SCIE), el Social Sciences Citation Index (SSCI), el Arts & Humanities Citation Index (A&HCI), y el Emerging Sources Citation Index (ESCI).
+**WoS** es una plataforma que integra varios índices de citas, incluyendo el Science Citation Index Expanded (SCIE), el Social Sciences Citation Index (SSCI), el Arts & Humanities Citation Index (A&HCI), y el Emerging Sources Citation Index (ESCI).
 
 **Te permite:**
 
 1. Acceso a la literatura científica: proporciona acceso a una amplia variedad de revistas y artículos de alta calidad, lo que facilita la búsqueda y el análisis de la literatura científica.
 2. Evaluación de la calidad de los artículos: Los índices de citas de WoS permiten evaluar la calidad y el impacto de los artículos científicos
 
-**Experiencia:**
+<blockquote>
+  <p>CSustituir por la experiencia de Diego. (Diego B. Vargas, [FURB, Universidade de Blumenau](https://www.furb.br/pt), Brasil)</p>
+</blockquote>
 
-"Como universitario, he tenido la oportunidad de utilizar WoS en mis investigaciones. Recientemente, necesité encontrar artículos relevantes sobre el impacto del cambio climático en la biodiversidad. Utilizando WoS, pude buscar artículos en revistas indexadas por SCIE y SSCI, lo que me permitió encontrar trabajos de alta calidad y relevancia en mi campo de estudio."
+### [Scopus](https://www.scopus.com/)
 
-**Créditos:**
-Valentina Martinez-Landa
-
-## Gratuita
-### Mundiales
-
-## [CORE](https://core.ac.uk/)
-
-Es una plataforma digital que te permite acceder a un universo de publicaciones científicas de acceso abierto. Funciona como una biblioteca virtual gigante, reuniendo millones de artículos de investigación de miles de repositorios y revistas alrededor del mundo.
+**Scopus** es una base de datos bibliográfica de resúmenes y citas de artículos de revistas científicas, lanzada en el año 2004, propiedad de la empresa [Elsevier](https://www.elsevier.com/).
 
 **Te permite:**
 
-Encontrar artículos científicos gratuitos sobre cualquier tema que te interese.
-Descubrir investigaciones innovadoras en tu campo de estudio.
+1. El motor de búsqueda te permite combinar diferentes términos de búsqueda y aplicar filtros para encontrar los resultados más relevantes para tus necesidades.
+2. Acceder a métricas de impacto: Scopus te proporciona información sobre el impacto y la relevancia de las publicaciones, como el [Índice H](https://es.wikipedia.org/wiki/%C3%8Dndice_h), el [Factor de Impacto](https://es.wikipedia.org/wiki/Factor_de_impacto) o el Cuartil al que pertenece cada revista por disciplina.
 
-**Experiencia:**
+<blockquote>
+  <p>Scopus tiene una gran gama de información para elegir, puedes filtrar los resultados por fecha de publicación, país de origen, tipo de estudio y autor, esto facilita muchos la hora de buscar la información siendo un estudiante de universidad, lo malo es que es de paga y sólo puede tener acceso si la biblioteca de tu universidad cuenta con suscripción (Valentina Martínez-Landa, Estudiante de comunicación, UAEMéx)</p>
+</blockquote>
 
-"Soy una estudiante de Economía en mi segundo año de carrera. Estoy preparando una presentación sobre el impacto de la inteligencia artificial en el mercado laboral. CORE se ha convertido en mi recurso principal para esta tarea"
+## Base de datos de publicaciones científicas de Acceso Abierto
 
-**Créditos:**
-Valentina Martinez-Landa
+### [CORE](https://core.ac.uk/)
 
-## [BASE](https://www.base-search.net/.)
-
-BASE se enfoca en proporcionar una búsqueda multidisciplinaria y amplia de recursos académicos, incluyendo revistas, repositorios institucionales, colecciones digitales y otros tipos de recursos.
+**Core** es una plataforma digital que te permite acceder a un universo de publicaciones científicas de acceso abierto. Funciona como una biblioteca virtual gigante, reuniendo millones de artículos de investigación de miles de repositorios y revistas alrededor del mundo.
 
 **Te permite:**
 
-1. Acceso a recursos académicos: Proporciona acceso a más de 120 millones de documentos de más de 6,000 fuentes, lo que es una gran cantidad de recursos para cualquier investigador.
-2. Búsqueda interdisciplinaria: Permite buscar recursos en diferentes disciplinas y campos de estudio, lo que es especialmente útil para investigaciones que involucran múltiples áreas.
+1. Encontrar artículos científicos en Acceso Abierto sobre cualquier tema académico que te interese.
+2. Descubrir investigaciones innovadoras en tu campo de estudio.
 
-**Experiencia:**
+<blockquote>
+  <p>Soy estudiante de Economía en mi segundo año de carrera. Estoy preparando una presentación sobre el impacto de la Inteligencia Artificial en el mercado laboral. CORE se ha convertido en mi recurso principal para esta tarea (Diego, Estudiante de Economía, UAEMéx)</p>
+</blockquote>
 
-"Como estudiante de posgrado en ciencias de la computación, necesitaba encontrar artículos relevantes sobre el desarrollo de algoritmos de aprendizaje automático. Utilizando BASE, pude buscar artículos en revistas indexadas por SCIE y SSCI, lo que me permitió encontrar trabajos de alta calidad y relevancia en mi campo de estudio"
+### [BASE](https://www.base-search.net/)
 
-**Créditos:**
-Valentina Martinez-Landa
+**BASE** es una plataforma de Acceso Abierro que se enfoca en proporcionar una búsqueda multidisciplinaria y amplia de recursos académicos, incluyendo revistas, repositorios institucionales, colecciones digitales y otros tipos de recursos.
+
+**Te permite:**
+
+1. **Acceso a recursos académicos**: Proporciona acceso a más de 120 millones de documentos de más de 6,000 fuentes, lo que es una gran cantidad de recursos para cualquier investigador.
+2. **Búsqueda interdisciplinaria**: Permite buscar recursos en diferentes disciplinas y campos de estudio, lo que es especialmente útil para investigaciones que involucran múltiples áreas.
+
+<blockquote>
+  <p>Como estudiante de posgrado en ciencias de la computación, necesitaba encontrar artículos relevantes sobre el desarrollo de algoritmos de aprendizaje automático. Utilizando BASE, pude buscar artículos en revistas indexadas por SCIE y SSCI, lo que me permitió encontrar trabajos de alta calidad y relevancia en mi campo de estudio (***)</p>
+</blockquote>
 
 ## [DOAJ](https://www.doaj.org/)
 
-Es un directorio que lista revistas de acceso libre, científicas y académicas, que cumplan con estándares de alta calidad al utilizar la revisión por pares o control de calidad editorial y que sean gratuitas para todos al momento de su publicación.
+**DOAJ** Es un directorio que lista revistas de Acceso Abierto, científicas y académicas, que cumplan con estándares de alta calidad al utilizar la revisión por pares o control de calidad editorial y que sean gratuitas para todos al momento de su publicación.
 
 **Te permite:**
 
-1. Acceso a contenido académico: DOAJ proporciona acceso a una amplia variedad de información académica y científica en acceso abierto, lo que facilita la investigación y el aprendizaje.
-2. Promoción del acceso abierto: DOAJ fomenta el acceso abierto a la información académica y científica, lo que ayuda a reducir las barreras de acceso y a aumentar la visibilidad y el impacto de la investigación.
-3. Indexación y clasificación: DOAJ indexa y clasifica revistas de acceso abierto, lo que facilita la búsqueda y la recuperación de información relevante.
+1. **Acceso a contenido académico**: proporciona acceso a una amplia variedad de información académica y científica en Acceso Abierto, lo que facilita la investigación y el aprendizaje.
+2. **Promoción del acceso abierto**: DOAJ fomenta el Acceso Abierto a la información académica y científica, lo que ayuda a reducir las barreras de acceso y a aumentar la visibilidad y el impacto de la investigación.
+3. **Indexación y clasificación**: DOAJ indexa y clasifica revistas de Acceso Abierto, lo que facilita la búsqueda y la recuperación de información relevante.
 
-**Experiencia:**
-
-“Ha sido una herramienta fundamental durante mi universidad. Me ha permitido acceder a una gran cantidad de artículos científicos de muy alta calidad y de manera gratuita, lo que ha sido realmente conveniente para realizar mis investigaciones y trabajos académicos. Almacena artículos de diferentes áreas de conocimiento que ha sido relevante para diferentes cursos y proyectos”
-
-**Créditos:**
-Valentina Martinez-Landa
+<blockquote>
+  <p>Ha sido una herramienta fundamental durante mi universidad. Me ha permitido acceder a una gran cantidad de artículos científicos de muy alta calidad y de manera gratuita, lo que ha sido realmente conveniente para realizar mis investigaciones y trabajos académicos. Almacena artículos de diferentes áreas de conocimiento que ha sido relevante para diferentes cursos y proyectos (Valentina Martínez-Landa, Estudiante de comunicación, UAEMéx)</p>
+</blockquote>
 
 ## [Project MUSE](https://muse.jhu.edu/)
 
-Imagina a Project MUSE como una biblioteca virtual que alberga un tesoro de publicaciones académicas en humanidades y ciencias sociales. Es una plataforma sin fines de lucro que reúne miles de artículos y libros electrónicos de editoriales universitarias y sociedades académicas de todo el mundo.
+Imagina a **Project MUSE** como una biblioteca virtual que alberga un tesoro de publicaciones académicas en humanidades y ciencias sociales. Es una plataforma sin fines de lucro que reúne miles de artículos y libros electrónicos de editoriales universitarias y sociedades académicas de todo el mundo.
 
 **Te permite:**
 
 1. Navegar por un mar de conocimiento en áreas como literatura, historia, filosofía, arte, estudios culturales y mucho más.
 2. Descubrir investigaciones innovadoras de autores y pensadores influyentes.
 
-**Experiencia:**
+<blockquote>
+  <p>
+Soy un escritor independiente apasionado por la historia y la cultura. Estoy trabajando en un nuevo libro sobre la influencia de la música en la sociedad.
+Comencé buscando artículos sobre el impacto de la música en diferentes culturas y épocas. Project MUSE me permitió filtrar por tema, autor, fecha de publicación e incluso tipo de publicación. (***)</p>
+</blockquote>
 
-"Soy un escritor independiente apasionado por la historia y la cultura. Estoy trabajando en un nuevo libro sobre la influencia de la música en la sociedad.
-Comencé buscando artículos sobre el impacto de la música en diferentes culturas y épocas. Project MUSE me permitió filtrar por tema, autor, fecha de publicación e incluso tipo de publicación."
 
-**Créditos:**
-Valentina Martinez-Landa
 
-## [Anna's Archive](https://t.me/s/annasarchiveorg?before=31)
-
-*Para entrar a esta herramienta es necesario visitar su canal en telegram*
-
-Anna's Archive es un archivo digital que alberga una vasta colección de recursos científicos, incluyendo libros, artículos, revistas, registros de biblioteca, metadatos y más.
-
-**Te permite:**
-
-1. Encontrar recursos educativos para complementar tu aprendizaje.
-2. Contribuir a la preservación del conocimiento al compartir y sembrar los torrents de la base de datos.
-
-**Experiencia:**
-
-"Soy un artista multimedia que está trabajando en un proyecto que combina arte y ciencia. Estoy buscando imágenes y datos sobre el cuerpo humano para usarlos en mis creaciones. Anna's Archive no solo me ha proporcionado recursos valiosos, sino que también me ha inspirado a explorar nuevas formas de combinar el arte y la ciencia en mi trabajo."
-
-**Créditos:**
-Valentina Martinez-Landa
 
 ### Regionales
 
@@ -527,7 +484,23 @@ El acceso es muy rápido y fácil, ingresas a la prataforma, no tienes que regis
 **Créditos**
 Fernanda De Jesús-Nicolás 
 
+## [Anna's Archive](https://t.me/s/annasarchiveorg?before=31)
 
+*Para entrar a esta herramienta es necesario visitar su canal en telegram*
+
+Anna's Archive es un archivo digital que alberga una vasta colección de recursos científicos, incluyendo libros, artículos, revistas, registros de biblioteca, metadatos y más.
+
+**Te permite:**
+
+1. Encontrar recursos educativos para complementar tu aprendizaje.
+2. Contribuir a la preservación del conocimiento al compartir y sembrar los torrents de la base de datos.
+
+**Experiencia:**
+
+"Soy un artista multimedia que está trabajando en un proyecto que combina arte y ciencia. Estoy buscando imágenes y datos sobre el cuerpo humano para usarlos en mis creaciones. Anna's Archive no solo me ha proporcionado recursos valiosos, sino que también me ha inspirado a explorar nuevas formas de combinar el arte y la ciencia en mi trabajo."
+
+**Créditos:**
+Valentina Martinez-Landa
 
 ## **[Biblioteca de Minecraft](https://www.uncensoredlibrary.com/en)**
 
