@@ -5,6 +5,8 @@ subtitle: Historia, uso y ventajas
 permalink: inteligencia-artificial
 ---
 
+¿Cómo aprtovechar la Inteligencia en tu investigacvión? 
+
 En este apartado, encontrarás información útil acerca de herramientas de Inteligencia artificial en la investigación, parte de su desarrollo a lo largo del tiempo, y algunas estadísticas de su uso.
 
 La Inteligencia Artificial es un campo de la informática que se enfoca en crear sistemas que puedan realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, el razonamiento, y la percepción.
@@ -85,15 +87,10 @@ Es el desarrollo de una empresa llamada [Open AI](https://openai.com/). Este es 
 **Ventajas:**
 
 * Entiende perfectamente español, puede entender más de 25 idiomas.
-
 * Es capaz de escribir guiones originales, y de alta calidad.
-
 * De no estar conforme con una respuesta se puede generar un contenido nuevo.
-
 * Comprende instrucciones complejas.
-
 * Puede generar contenido con un amplio contexto.
-
 * Su información esta actualizada hasta finales del 2023.
 
 **Nota importante:** La versión mas actualizada de esta plataforma a fecha de 2024, es [CHAT GPT - 4.0](https://openai.com/index/gpt-4/), solo que es de paga, tiene un costo de 20 USD al mes, las diferencias entre vada versión no son muy notorios de acuerdo con lo que dice la plataforma, lo más relevante es con la versión de paga puedes crear imagenes más detalladas con su sitema artificial [DALL E](https://openai.com/index/dall-e-2/).
@@ -108,13 +105,9 @@ Es un motor de búsqueda conversacional basado en inteligencia artificial que ut
 **Ventajas:**
 
 * Mayor rapidez en la generación de respuestas, debido a que utiliza algoritmos avanzados de procesamiento de lenguaje natural y aprendizaje automático
-
 * Proporciona las páginas de donde se obtuvo la información que está proporcionando, te otorga las referencias.
-
 * Facilita la creación de contenido verficiable con fuentes, al proporcionar información sobre cualquier tema o evento en cuestión de segundos.
-
 * Puede sintetizar contenido de manera precisa y eficiente, ahorrando tiempo y esfuerzo en el proceso de creación de contenido.
-
 * Tiene la capacidad de comprender el contexto de una pregunta y proporcionar respuestas relevantes al tema que se está tratando.
 
 ## [Gemini IA](https://gemini.google.com/app?hl=es)
