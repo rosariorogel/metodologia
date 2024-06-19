@@ -29,8 +29,7 @@ _**Coordinación:** Rosario Rogel._
 
 <img src="{{ site.baseurl }}/assets/img/Zotero.png" style="float:left;width:200px;padding-right:20px;"> Otro software que utilizamos en el proyecto "Enfoques"es Zotero en el cual lo ocupamos para encontrar  journals de acceso abierto, ensayos, libros, videos y páginas web asegurando así que la información es confiable
 
-<img src="{{ site.baseurl }}/assets/img/youtube.jpg" style="float:left;width:200px;padding-right:20px;"> Para los proyectos "Recolección de datos" y “Visualizacion y análisis”  creamos una cuenta oficial en (https://www.youtube.com/@MetodologiadelainvestigacionCo) con el objetivo de brindar a los usuarios una mayor 
-interacción con nuestra página web a través de la plataforma digital.
+<img src="{{ site.baseurl }}/assets/img/youtube.jpg" style="float:left;width:200px;padding-right:20px;"> Para los proyectos "Recolección de datos" y “Visualizacion y análisis”  creamos una cuenta oficial en (https://www.youtube.com/@MetodologiadelainvestigacionCo) con el objetivo de brindar a los usuarios una mayor interacción con nuestra página web a través de la plataforma digital.
 
-<img src="{{ site.baseurl }}/assets/img/word.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/word.jpg" style="float:left;width:200px;padding-right:20px;"> Para hacer el periódico que se muestra en “Tesis Trending” utilizamos la herramienta de [Microsoft Word](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMicrosoft_Word&psig=AOvVaw3EodZ1irf1HA5fz6hZKERJ&ust=1718906419446000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICZidif6IYDFQAAAAAdAAAAABAE). El cual es un programa de procesamiento de texto que forma parte del paquete de software de Microsoft Office. Se utiliza principalmente para crear, editar y dar formato a documentos de texto, como cartas, informes, currículums, trabajos escolares, entre otros
 
