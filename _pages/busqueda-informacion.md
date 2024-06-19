@@ -5,7 +5,6 @@ subtitle: Bases de datos, repositorios y buscadores académicos
 permalink: busqueda-informacion
 ---
 
-Hipster ipsum has become a staple for designers and developers looking to add some humor and personality to their projects. It’s a type of Lorem Ipsum text that mimics the quirky and non-traditional language used by hipsters. Hipster ipsum is often made up of phrases that are ironic, nonsensical, or just plain odd.
 
 # Herramientas Digitales
 
@@ -222,6 +221,63 @@ Gestionar tus búsquedas y referencias: Puedes crear listas personalizadas de re
 **Créditos:**
 Dareysa Lopez-Gonzalez
 
+## [PKP (Public Knowledge Project)](https://pkp.sfu.ca/)
+
+El Public Knowledge Project (PKP) es una iniciativa multinacional dedicada a mejorar la calidad y el alcance del acceso a la investigación académica. Fundada en 1998, PKP desarrolla software de código abierto y realiza investigaciones sobre la publicación académica y el acceso abierto.
+
+**Te permite:**
+
+El recurso cuenta con diversos softwares que contienen diferentes herramientas para la ayuda en la búsqueda de información, por ejemplo:
+
+**Open Journal Systems (OJS)**
+
+Es un software que nos permite llevar a cabo la gestión de revistas, facilitando la gestión de revistas académicas desde artículos hasta la publicación, de igual manera permite la publicación de artículos en línea con la opción de acceso abierto, no obstante el software puede realizar la gestión de suscripciones, siendo más precisos, revistas de suscripción.
+
+Es utilizado por miles de revistas en todo el mundo, facilitando la gestión editorial y el acceso abierto a la investigación.
+
+**Open Monograph Press (OMP)**
+
+El software ideal para la gestión y publicación de monografías y libros académicos, que incluye herramientas para la gestión del proceso editorial de libros, desde la propuesta inicial hasta la distribución final, por lo general es utilizado por editoriales académicas y universidades.
+
+**EXPERIENCIA**
+
+“Recientemente tuve la oportunidad de utilizar las herramientas del Public Knowledge Project (PKP) para explorar y gestionar publicaciones académicas, y mi experiencia fue muy positiva. Decidí empezar con Open Journal Systems (OJS) para familiarizarme con la plataforma de gestión de revistas académicas. La instalación fue relativamente sencilla gracias a la documentación clara proporcionada por PKP. He de decir que al explorar OJS, me impresionó su interfaz intuitiva y fácil de usar”
+
+**Créditos**
+Michelle Camargo-González
+
+## [OAPEN (Open Access Publishing in European Networks)](https://www.oapen.org/)
+
+OAPEN proporciona una plataforma para la publicación y el almacenamiento de libros académicos de acceso abierto, asegurando que estos estén disponibles para cualquier persona de forma gratuita.
+
+**Te permite:**
+
+Algunas de sus funcionalidades es el repositorio de acceso abierto. Debido a que todos los libros disponibles en la plataforma son de acceso abierto, significa que cualquier persona puede leerlos, descargarlos y utilizarlos sin costo. De igual manera, cubre una amplia gama de disciplinas académicas, incluyendo ciencias sociales, humanidades, ciencias naturales y más.
+
+La mayoría de las plataformas contienen información solamente en inglés, no obstante, OAPEN, es una herramienta en la que la información también se encuentra disponible en otros idiomas, lo que refleja la diversidad de las publicaciones académicas. Dentro de sus vastos beneficios OAPEN nos presenta una mayor visibilidad e impacto para los autores que publican en ella, apoyo en la transición y colaboración de editoriales y una amplia gama de libros sin costo alguno para instituciones académicas.
+
+**EXPERIENCIA**
+
+“Al ingresar al sitio web de OAPEN, me sorprendió gratamente la simplicidad y claridad del diseño. La interfaz es intuitiva y no tuve problemas para navegar por las diferentes secciones. La página principal presenta una barra de búsqueda prominente y accesos directos a categorías temáticas, lo que facilita el inicio de la búsqueda; al buscar los libros de mi interés, encontré una amplia variedad de ellos y al momento de descargarlos fue un proceso rápido y eficiente”
+
+**Créditos**
+Michelle Camargo-González
+
+## [SAGE Open RECURSO GRATUITO](https://us.sagepub.com/en-us/nam/journal/sage-open)
+
+SAGE Open es una revista académica de acceso abierto revisada por pares que abarca una amplia gama de disciplinas en las ciencias sociales y del comportamiento, así como en las ciencias y humanidades. Publicada por SAGE Publications, una de las editoriales académicas líderes a nivel mundial, SAGE Open está diseñada para proporcionar un foro de acceso abierto para la diseminación de investigaciones académicas de alta calidad.
+
+**Te permite:**
+
+Te permite publicar investigaciones académicas revisadas por pares en diversas disciplinas, ofreciendo un acceso abierto gratuito a todos los artículos sin necesidad de suscripciones, esto facilita una difusión rápida de tus hallazgos, aumentando la visibilidad y el impacto de tu trabajo a nivel mundial. Además, SAGE Open te permite mantener los derechos de autor de tu investigación mediante licencias Creative Commons, asegurando que tu trabajo pueda ser compartido y utilizado por otros bajo ciertas condiciones.
+
+**EXPERIENCIA**
+
+“La posibilidad de acceder gratuitamente a todos los artículos fue una gran ventaja. Pude descargar y leer varios artículos sin enfrentar las típicas barreras de pago, lo que hizo que la experiencia de investigación fuera mucho más fluida y accesible. Además, noté que todos los artículos habían pasado por un riguroso proceso de revisión por pares, lo que me dio confianza en la calidad y la validez de la información”
+
+**Créditos**
+Michelle Camargo-González
+
 ### Buscadores de recursos
 
 ## [Google Scholar](https://scholar.google.com/)
@@ -328,7 +384,7 @@ Como lo es el caso de la Dark Web; recordemos que la Dark Web es una subsección
 Es importante mencionar que en el siguiente apartado mencionaremos algunos de estos recursos con fines meramente informativos, haciendo hincapié en que el uso que se le dé por los usuarios, es bajo su propia responsabilidad.
 
 **Créditos:**
-Sofia Michelle Camargo-González
+Michelle Camargo-González
 
 ## [Sci-Hub](https://t.me/scihubreal)
 
@@ -445,7 +501,7 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 * Cierra todas las pestañas y ventanas de Tor.
 
 **Créditos:**
-Sofia Michelle Camargo-González
+ Michelle Camargo-González
 
 ---
 
@@ -460,7 +516,7 @@ Sofia Michelle Camargo-González
 Imágenes con licencia de Creative Commons CC0.
 
 **Créditos:**
-Sofia Michelle Camargo-González
+Michelle Camargo-González
 
 # Herramientas
 
