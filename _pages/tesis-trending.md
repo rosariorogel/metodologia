@@ -19,4 +19,7 @@ Querido lector, a continuación te presentamos una sección de periódico en don
 Esperamos, que la información del periódico te sea útil para que puedas en un futuro elaborar con éxito tu tesis doctoral.
 
 *Créditos: Fátima-Pantoja, Tere-Pueblas.*
+
+<div style="clear: both;"></div>
+
 *Colaboradores: Aldo-Contreras, Axel-Romero.*
