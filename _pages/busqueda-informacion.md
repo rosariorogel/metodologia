@@ -74,7 +74,7 @@ Entendemos como *recursos formales* plataformas como: bases de datos y buscadore
 2. **Búsqueda interdisciplinaria**: Permite buscar recursos en diferentes disciplinas y campos de estudio, lo que es especialmente útil para investigaciones que involucran múltiples áreas.
 
 <blockquote>
-  <p><em>Como estudiante de posgrado en ciencias de la computación, necesitaba encontrar artículos relevantes sobre el desarrollo de algoritmos de aprendizaje automático. Utilizando BASE, pude buscar artículos en revistas indexadas por SCIE y SSCI, lo que me permitió encontrar trabajos de alta calidad y relevancia en mi campo de estudio (Diego Alejandro Rivera-Martínez, Universidad Autónoma del Estado de Quintana Roo, México)<em></p>
+  <p><em>Como estudiante de posgrado en ciencias de la computación, necesitaba encontrar artículos relevantes sobre el desarrollo de algoritmos de aprendizaje automático. Utilizando BASE, pude buscar artículos en revistas indexadas por SCIE y SSCI, lo que me permitió encontrar trabajos de alta calidad y relevancia en mi campo de estudio (Diego Alejandro Rivera-Martínez, Universidad Autónoma del Estado de Quintana Roo, México).</em></p>
 </blockquote>
 
 #### [DOAJ](https://www.doaj.org/)
@@ -88,7 +88,7 @@ Entendemos como *recursos formales* plataformas como: bases de datos y buscadore
 3. **Indexación y clasificación**: DOAJ indexa y clasifica revistas de Acceso Abierto, lo que facilita la búsqueda y la recuperación de información relevante.
 
 <blockquote>
-  <p><em>Ha sido una herramienta fundamental durante mi universidad. Me ha permitido acceder a una gran cantidad de artículos científicos de muy alta calidad y de manera gratuita, lo que ha sido realmente conveniente para realizar mis investigaciones y trabajos académicos. Almacena artículos de diferentes áreas de conocimiento que ha sido relevante para diferentes cursos y proyectos (Valentina Martínez-Landa, Estudiante de comunicación, UAEMéx)<em></p>
+  <p><em>Ha sido una herramienta fundamental durante mi universidad. Me ha permitido acceder a una gran cantidad de artículos científicos de muy alta calidad y de manera gratuita, lo que ha sido realmente conveniente para realizar mis investigaciones y trabajos académicos. Almacena artículos de diferentes áreas de conocimiento que ha sido relevante para diferentes cursos y proyectos (Valentina Martínez-Landa, Estudiante de comunicación, UAEMéx)</em></p>
 </blockquote>
 
 #### [Project MUSE](https://muse.jhu.edu/)
