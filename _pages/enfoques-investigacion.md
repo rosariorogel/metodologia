@@ -72,8 +72,6 @@ Es un proceso de investigación que busca comprender un fenómeno dentro de su e
 
 Imagen con licencia de Creative Commons CC0.
 
-***Créditos: Derek Rosales-Nava.***
-
 ---
 
 ## **Enfoque Mixto**
@@ -89,17 +87,13 @@ La clave radica en comenzar con una pregunta de investigación clara y una hipó
 Las formas que adoptan los estudios con métodos mixtos dependen de las condiciones particulares derivadas del tema, las perspectivas y las hipótesis. Los autores que utilizan este enfoque se refieren a las técnicas empleadas y a las preguntas formuladas. Por lo tanto, podemos destacar tres características generales:
 
 1. Las investigaciones con métodos mixtos combinan, integran o mezclan técnicas, análisis, dimensiones, conceptos y/o paradigmas cuantitativos y cualitativos para abordar sus preguntas.
-   
 2. La combinación puede variar en cada fase de la investigación; no existe un orden o forma definida de combinación. A pesar de esta impredecibilidad, una de las primeras formas distinguibles fue la predominancia cuantitativa o cualitativa.
-
 3. En general, la combinación afecta el diseño de la investigación, las técnicas de recopilación de datos y la interpretación de los resultados obtenidos.
 
 Aunque los métodos mixtos operan de manera indefinida, pueden definirse no por criterios, sino por actitudes y habilidades casi artesanales para organizar y navegar en el caos, con características como:
 
 - Suelen tener una estructura compleja e indeterminada, sin un orden lógico único.
-  
 - Requieren ajustes continuos en el diseño de investigación para adaptarse a los contextos y a la incorporación de los resultados esperados.
-  
 - Son diseños flexibles y adaptables a los cambios requeridos por una combinación cuantitativa-cualitativa.
 
 ### **Beneficios de Utilizar Métodos Mixtos**:
@@ -107,16 +101,12 @@ Aunque los métodos mixtos operan de manera indefinida, pueden definirse no por 
 Utilizar métodos mixtos en la investigación proporciona varios beneficios importantes:
 
 - **Fortalecer la causalidad en la investigación:** Muchos métodos mixtos surgen para fortalecer la investigación causal, lo cual es crucial para obtener y explicar resultados de manera efectiva.
-
 - **Aumentar la calidad de las mediciones:** Otros estudios mixtos pueden mejorar la calidad de las mediciones, aumentando la validez interna y permitiendo una mejor expresión empírica de los conceptos teóricos.
-
 - **Aclarar la causalidad entre variables:** Los métodos mixtos también ayudan a clarificar la causalidad entre variables, integrando mediciones cuantitativas de causalidad y correlación con el contexto y el análisis de variables subjetivas.
 
 ![Infografía Método Cuantitativo](https://upload.wikimedia.org/wikipedia/commons/a/a5/M%C3%A9todo_Mixto.jpg)
 
 Imagen con licencia de Creative Commons CC0.
-
-***Créditos: Paola Altamirano-Dávila.***
 
 ---
 
@@ -146,5 +136,4 @@ Sin embargo, el enfoque mixto también presenta sus propias complejidades. La in
 
 Imagen con licencia de Creative Commons CC0.
 
-*Créditos: Fabiola Pulido-Márquez.*
 
