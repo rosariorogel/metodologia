@@ -106,6 +106,10 @@ Herrameintas de interpretación y análisis de datos
 
 ## Cuadro comparativo
 <img src="{{ site.baseurl }}/assets/img/Herramientas.png">
+| Herramienta   | ¿Qué es?      |  ¿Para qué es? |  A qué enfoque pertenece |  ¿Qué pueden obtener?  | Experiencia |
+| ------------- | ------------- |
+| Kobotoolbox   | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # Bibliografía
 Las fuentes utilizadas para la realización de este proyecto están disponibles en un grupo de Zotero llamado: Metodología FCPyS en el apartado [3.3 Herramientas de investigación](https://www.zotero.org/groups/5388483/metodologa_fcpys/collections/KR5PFIAK).
