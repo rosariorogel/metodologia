@@ -16,7 +16,7 @@ Todo aquel que busque ampliar su conocimiento, tendrá acceso a un grupo en [Zot
 * **Paola Altamirano-Dávila**: *Conceptualización, Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición*
 * **Alex Guerrero-Torres**: *Conceptualización, Curación de Datos, Investigación, Administración, Software, Escritura, Revisión y Edición*
 * **Fabiola Pulido-Márquez**: *Conceptualización, Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición*
-* **Derek Rosales-Nava**: *Conceptualización, Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición, Visaulización*
+* **Derek Rosales-Nava**: *Conceptualización, Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición, Visualización*
 
 ---
 
