@@ -40,11 +40,7 @@ La investigación cuantitativa busca dar un análisis de información enfocado a
 
 Imagen con licencia de Creative Commons CC0.
 
-***Créditos: Alex Guerrero-Torres.***
-
-
 ---
-
 
 ## **Enfoque cualitativo**
 
