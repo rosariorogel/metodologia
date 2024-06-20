@@ -18,7 +18,7 @@ En este apartado te ofrecemos una lista con algunas herramientas digitales que p
 * **Michelle Carmargo-González**: *Conceptualización, Curación de Datos, Investigación, Metodología, Recursos y Escritura*
 * **Valentina Martinez-Landa**: *Curación de Datos, Conceptualización, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición*
 * **Dareysa López-González**: *Conceptualización, Investigación, Metodología y Recursos*
-* **Fernanda De Jesús-Nicolás**: *Conceptualización, Metodología, Investigación, Análisis Fornal y Escritura*
+* **Fernanda De Jesús-Nicolás**: *Conceptualización, Metodología, Investigación, Análisis Formal y Escritura*
 
 <h2>Recursos Formales </h2>
 
