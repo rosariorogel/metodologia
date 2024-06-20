@@ -12,8 +12,8 @@ En este apartado, encontrarás información útil acerca de herramientas de Inte
 La Inteligencia Artificial es un campo de la informática que se enfoca en crear sistemas que puedan realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, el razonamiento, y la percepción.
 
 #### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
-* **María Cruz-Romero**: *Conceptualización, curación de datos, investigación, recursos, análisis formal, administración de proyecto, visualización, y escritura-borrador original*
-* **Mario Rojas-Camacho**: *Conceptualización, investigación, curación de datos, análisis formal, y visualización*
+* **María Cruz-Romero**: *Curación de datos, investigación, recursos, análisis formal, administración de proyecto, visualización, y escritura-borrador original*
+* **Mario Rojas-Camacho**: *Investigación, curación de datos, análisis formal, y visualización*
 * **Ramses Santos-Mendoza**: *Investigación, curación de datos, recursos, metodología y análisis formal*
 * **Efrén Yair Blanquel-Vara**: *Investigación, análisis formal, recursos, y metodología*
 * **Diego González-Reyes**: *Investigación, curación de datos, recursos, metodología, y análisis formal*
