@@ -11,8 +11,12 @@ Este apartado web es una herramienta valiosa para estudiantes, investigadores y 
 
 Todo aquel que busque ampliar su conocimiento, tendrá acceso a un grupo en [Zotero](https://www.zotero.org/groups/5388483/metodologa_fcpys/collections/XCB5HMLR), donde encontrará journals de acceso abierto, ensayos, libros, videos y páginas web asegurando así que la información es confiable. Las infografías mostradas en todas las imágenes fueron creadas con [Canva.](https://www.canva.com/ "Canva")
 
-***Créditos: Paola Altamirano-Dávila.***
+**#### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
 
+* **Paola Altamirano-Dávila**: *Conceptualización, Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición*
+* **Alex Guerrero-Torres**: *Conceptualización, Curación de Datos, Investigación, Administración, Software, Escritura, Revisión y Edición*
+* **Fabiola Pulido-Márquez**: *Conceptualización, Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición*
+* **Derek Rosales-Nava**: *Conceptualización, Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición, Visaulización*
 ---
 
 ## **Enfoque cuantitativo**
