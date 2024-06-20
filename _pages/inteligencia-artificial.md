@@ -17,12 +17,11 @@ En este primer apartado, se proporciona información acerca de una parte del des
 
 #### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
 
-* **María Cruz-Romero: Conceptualización, curación de datos, investigación, recursos, análisis formal, administración de proyecto, visualización, y escritura-borrador original*
-* **Mario Rojas-Camacho: Conceptualización, investigación, curación de datos, análisis formal, y visualización*
-* **Ramses Santos-Mendoza: Investigación, curación de datos, recursos, metodología y análisis formal*
-* **Efrén Yair Blanquel-Vara: Investigación, análisis formal, recursos, y metodología*
-* **Diego González-Reyes:
-Investigación, curación de datos, recursos, metodología, y análisis formal*
+* **María Cruz-Romero**: Conceptualización, curación de datos, investigación, recursos, análisis formal, administración de proyecto, visualización, y escritura-borrador original*
+* **Mario Rojas-Camacho**: Conceptualización, investigación, curación de datos, análisis formal, y visualización*
+* **Ramses Santos-Mendoza**: Investigación, curación de datos, recursos, metodología y análisis formal*
+* **Efrén Yair Blanquel-Vara**: Investigación, análisis formal, recursos, y metodología*
+* **Diego González-Reyes**: Investigación, curación de datos, recursos, metodología, y análisis formal*
 
 
 
