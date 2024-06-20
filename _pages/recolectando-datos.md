@@ -4,6 +4,7 @@ title: Recolección de Datos
 subtitle: Herramientas para recolectar datos de investigación
 permalink: recolectando-datos
 ---
+#_Herramientas para recolectar datos
 
 Bienvenidxs
 
@@ -16,17 +17,19 @@ Se adjunta un video previamente subido a la plataforma de YouTube, en donde expl
 HERRAMIENTAS DE INTERPRETACIÓN Y ANÁLISIS DE DATOS
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QojvHRwqCQE?si=VMqykijcEI35ofpV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+####
 
-## **Enfoques de investigación**
+
+<h2>Enfoques de investigación </h2>
 Los enfoques de investigación social son un conjunto de planteamientos, sistematizados y controlados que sirve para cuestionarte y entender mejor un problema (Faneite,2023).
-
 
 Para ello, las y los investigadores deben establecer qué pretende hacer en su estudio y su elección depende de los objetivos de su investigación, la naturaleza de los datos, los métodos y herramientas de recopilación que utilizará y otros aspectos que pueden definir su centro de atención en la investigación (Faneite,2023).
 
 Una vez que tenemos elaborado el problema de investigación, preguntas, objetivos e hipótesis, se elabora el diseño y se selecciona la muestra que se utilizará en el estudio de acuerdo con el enfoque elegido, la siguiente etapa consiste en recolectar datos pertinentes sobre las variables, sucesos, comunidades u objetos involucrados en la investigación (Gómez, 2006:121).
 
 
-## **Enfoque Cualitativo**
+### Enfoque Cualitativo
+--- 
 La investigación cualitativa implica recopilar y analizar datos no numéricos para comprender conceptos, opiniones o experiencias, así como datos sobre experiencias vividas, emociones o comportamientos, con los significados que las personas les atribuyen. Por esta razón, los resultados se expresan en palabras. (Investigación cualitativa y cuantitativa, s. f.)
 
 La investigación cualitativa se inicia formándose una idea general de un tema para ir luego definiendo lo que será investigado en relación con aquello que se descubre, que los sujetos hacen o dicen en su contexto, cruzándolo y confrontándolo permanentemente con la información obtenida de la revisión de literatura existente.
@@ -45,7 +48,8 @@ Es un software de análisis cualitativo de datos (CAQDAS) fácil de usar, analiz
 #### *Ejemplos de Uso*
 En este caso, existen diversas investigaciones las cuales utilizaron esta herramienta, esta pagina web muestra todo lo que te puede encontrar dento de esta herramienta (QDA miner lite, sin fecha, Provalis)
 
-## **Enfoque cuantitativo**
+### Enfoque cuantitativo
+---
 El enfoque cuantitativo de investigación utiliza la recolección de datos para probar hipótesis con base en la medición numérica y el análisis estadístico, con el fin de establecer pautas de comportamiento y probar teorías. Se basa en el uso de técnicas estadísticas para conocer y describir a la población o fenómeno que se está estudiando; se puede utilizar en diferentes áreas de conocimiento (Hernández,  Fernándezy Baptista; 2014, pp. 4-5).
 
 Su  intención  es  buscar  la  exactitud  de  mediciones  o  indicadores  sociales  con  el  fin  de generalizar sus resultados a poblaciones o situaciones amplias. Trabajan fundamentalmente con el número, el dato cuantificable (Galeano, 2004:24).
