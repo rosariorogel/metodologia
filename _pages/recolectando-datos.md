@@ -68,7 +68,7 @@ Puede utilizarse tanto como herramienta cuantitativa, dependiendo de los objetiv
 
 **Ejemplo de uso:**
 La herramienta Google Forms fue utilizada en la evaluación diagnóstica como apoyo en las actividades docentes, tal fue el caso con estudiantes de la Licenciatura en Turismo.
-Hermelinda Patricia Leyva López y sus coautoras Monserrat Gabriela Pérez Vera y Sandra Mercedes Pérez Vera publican el artículo científico con el propósito de promover el desarrollo y divulgación de la investigación en educación en América Latina en la Revista Iberoamericana para la Investigación y el Desarrollo Educativo (RIDE).
+Hermelinda Patricia Leyva López y sus coautoras Monserrat Gabriela Pérez Vera y Sandra Mercedes Pérez Vera publican el artículo científico [*"Google Forms en la evaluación diagnóstica como apoyo en las actividades docentes. Caso con estudiantes de la Licenciatura en Turismo"*](http://ride.org.mx/index.php/RIDE/article/view/374) con el propósito de promover el desarrollo y divulgación de la investigación en educación en América Latina en la Revista Iberoamericana para la Investigación y el Desarrollo Educativo (RIDE).
 
 ##### [KoboToolbox](https://www.kobotoolbox.org/)
 Herramienta desarrollada por la [Iniciativa Humanitaria de Harvard](https://www.kobotoolbox.org/about-us/impact/) para la recolección de datos cuantitativos y cualitativos en contextos humanitarios y de investigación. Esta es una herramienta de codigo abierto pero que se convierte de paga cuando se supera 1GB de almacenamiento de datos.
@@ -96,7 +96,7 @@ LimeSurvey es una herramienta útil para realizar encuestas en línea no solo en
 Herramienta de acceso por suscripción para la organización y el análisis de datos cualitativos. Esto comprende texto, audio, imagen, vídeo y archivos bibliográficos, así como datos de encuestas. No analiza datos cuantitativos por sí solo. MAXQDA está diseñado principalmente para el análisis de datos cualitativos, aunque también ofrece funciones avanzadas de análisis de métodos mixtos. 
 
 **Ejemplo de uso:**
-El artículo *"MAXQDA y su aplicación a las Ciencias Sociales: un estudio de caso comparado sobre vulnerabilidad urbana"* de Gloria Maria Caravantes López de Lerma y María de las Mercedes Botija Yagüe tiene por objeto presentar la aplicación del software MAXQDA a partir de un estudio de caso comparado sobre vulnerabilidad urbana en el Sur (Guatemala) y en el Norte (España). Respecto a un análisis de datos cualitativos y cuantitativos en el ámbito de las Ciencias Sociales.
+El artículo [*"MAXQDA y su aplicación a las Ciencias Sociales: un estudio de caso comparado sobre vulnerabilidad urbana"*](https://alternativasts.ua.es/article/view/19435) de Gloria Maria Caravantes López de Lerma y María de las Mercedes Botija Yagüe tiene por objeto presentar la aplicación del software MAXQDA a partir de un estudio de caso comparado sobre vulnerabilidad urbana en el Sur (Guatemala) y en el Norte (España). Respecto a un análisis de datos cualitativos y cuantitativos en el ámbito de las Ciencias Sociales.
 
 ## Para tener una mejor experiencia utilizando estas herramientas, te sugerirnos el siguiente video:
 ---
