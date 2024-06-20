@@ -95,7 +95,7 @@ Instagram: [@fernandade110](https://www.instagram.com/fernandade110?utm_source=q
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FOTO CLARA.jpg" style="float:left;width:200px;padding-right:20px;"> 
+<img src="{{ site.baseurl }}/assets/img/FotoClara.jpg" style="float:left;width:200px;padding-right:20px;"> 
 **Alma De La Cruz-Mejía** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx)
 
 Instagram: [@clar_mj](https://www.instagram.com/clar_mj?igsh=MXA2MHAwdmR1ZXF0NA==)
