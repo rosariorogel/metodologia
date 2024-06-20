@@ -28,8 +28,6 @@ Los enfoques de investigación social son un conjunto de planteamientos, sistema
 
 Para ello, las y los investigadores deben establecer qué pretende hacer en su estudio y su elección depende de los objetivos de su investigación, la naturaleza de los datos, los métodos y herramientas de recopilación que utilizará y otros aspectos que pueden definir su centro de atención en la investigación (Faneite,2023).
 
-Una vez que tenemos elaborado el problema de investigación, preguntas, objetivos e hipótesis, se elabora el diseño y se selecciona la muestra que se utilizará en el estudio de acuerdo con el enfoque elegido, la siguiente etapa consiste en recolectar datos pertinentes sobre las variables, sucesos, comunidades u objetos involucrados en la investigación (Gómez, 2006: 121).
-
 
 ## Enfoque Cualitativo
 
