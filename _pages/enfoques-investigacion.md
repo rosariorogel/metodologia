@@ -36,7 +36,7 @@ La investigación cuantitativa busca dar un análisis de información enfocado a
 ![Infografía Método Cuantitativo](https://upload.wikimedia.org/wikipedia/commons/1/19/Enfoque_Cuantitativo.png)
 
 ![Infografía Método Cuantitativo]
-<a title="Derekcin, CC0, undefined" href="https://commons.wikimedia.org/wiki/File:Enfoque_Cuantitativo.png"><img width="128" alt="Enfoque Cuantitativo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Enfoque_Cuantitativo.png/128px-Enfoque_Cuantitativo.png?20240615022428"></a>
+<a title="Derekcin, CC0, undefined" href="https://commons.wikimedia.org/wiki/File:Enfoque_Cuantitativo.png"><img width="128" alt="Enfoque Cuantitativo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Enfoque_Cuantitativo.png/128px-Enfoque_Cuantitativo.png?20240615022428"></a> 
 
 ---
 
