@@ -35,7 +35,6 @@ En esta sección buscamos resaltar y mostrar ventajas y algunas desventajas, de 
 Es el desarrollo de una empresa llamada [Open AI](https://openai.com/). Este es un sistema de chat, está basado en un modelo de lenguaje por Inteligencia Artificial GPT-3. Su modelo cuenta con al menos 175 millones de parámetros y está entrenado para hacer diferentes tareas de texto.
 
 **Ventajas:**
-
 * Entiende perfectamente español, puede entender más de 25 idiomas.
 * Es capaz de escribir guiones originales, y de alta calidad.
 * De no estar conforme con una respuesta se puede generar un contenido nuevo.
@@ -52,7 +51,6 @@ Es un motor de búsqueda conversacional basado en inteligencia artificial que ut
 * *Nota: Los nombres de cada uno de los co-fundadores de Perplexity AI, te enlazan a su cuenta de [X](https://x.com/?lang=es) (antes twitter), para que puedas visitar sus publicaciones más recientes.*
 
 **Ventajas:**
-
 * Mayor rapidez en la generación de respuestas, debido a que utiliza algoritmos avanzados de procesamiento de lenguaje natural y aprendizaje automático
 * Proporciona las páginas de donde se obtuvo la información que está proporcionando, te otorga las referencias.
 * Facilita la creación de contenido verficiable con fuentes, al proporcionar información sobre cualquier tema o evento en cuestión de segundos.
@@ -63,7 +61,6 @@ Es un motor de búsqueda conversacional basado en inteligencia artificial que ut
 Es un modelo de inteligencia artificial creado por Google, y que busca liderar el competitivo mercado de la inteligencia artificial, es un modelo multimodal, entiende varios tipos de información, tanto los textos que le escribas como las imágenes. Antes llevaba por nombre "Bard".
 
 **Ventajas:**
-
 * Da respuestas combinando conocimientos escritos con información extraída de las imágenes y los videos.
 * Responde preguntas relacionadas con la identificación detallada de objetos en imágenes y videos.
 * Responder a las preguntas y extrae información de diversos contenidos, como infografías, gráficos, cifras, tablas y páginas web.
@@ -74,7 +71,6 @@ Es un modelo de inteligencia artificial creado por Google, y que busca liderar e
 Es una herramienta que te permite explorar relaciones y obtener resúmenes de investigaciones académicas específicas. A diferencia de Chat GPT, Consensus tiene acceso limitado a bases de datos académicas de código abierto, lo que le permite ofrecer información precisa y confiable.
 
 **Ventajas:**
-
 * Acceso a bases de datos académicas de código abierto.
 * Ofrece resúmenes y citas de investigaciones específicas.
 * Permite acceder a documentos completos cuando estén disponibles.
