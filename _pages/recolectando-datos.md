@@ -52,7 +52,7 @@ En la revista  [*The Journal of Open Source Software*](https://joss.theoj.org/pa
 Es un software de análisis cualitativo de datos (CAQDAS) fácil de usar, analiza datos de diversas fuentes, como entrevistas, transcripciones, notas de campo, documentos, imágenes y audio. Esta herramienta busca organizar, codificar, analizar y visualizar datos cualitativos de manera eficiente y sistemática. Es una herramienta gratuita de descarga para Windows y iOS, sin embargo, puedes obtener una membresía para mayores beneficios.
 
 **Ejemplos de Uso:**
-Un artículo de la [Revista de la Universidad Politécnica]( https://www.upv.es/) titulado “Percepciones y expectativas del aprendizaje en jóvenes universitarios”, muestra el uso de la herramienta QDA Miner para recolección datos y grabar entrevistas. 
+Un artículo de la [Revista de la Universidad Politécnica]( https://www.upv.es/) titulado [Percepciones y expectativas del aprendizaje en jóvenes universitarios](http://hdl.handle.net/10251/70645), muestra el uso de la herramienta QDA Miner para recolección datos y grabar entrevistas. 
 
 ## Enfoque Cuantitativo
 
