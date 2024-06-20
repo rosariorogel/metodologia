@@ -4,7 +4,7 @@ title: Recolección de Datos
 subtitle: Herramientas para recolectar datos de investigación
 permalink: recolectando-datos
 ---
-#_Herramientas para recolectar datos
+# Herramientas para recolectar datos
 
 Bienvenidxs
 
