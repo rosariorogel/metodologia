@@ -4,6 +4,7 @@ title: Enfoques
 subtitle: Enfoques de investigación cuantitativos, cualitativos y mixtos
 permalink: enfoques-investigacion
 ---
+
 #Análisis de Métodos Cuantitativos, Cualitativos y Mixtos
 
 Los enfoques de investigación son los métodos y estrategias utilizados para investigar y adquirir conocimiento en diversas disciplinas, más en específico en las de carácter cinetífico o que requieren del método científico para su análisis, explicacicón y entendimiento. Este proyecto orienta y brinda algunas características sobre los métodos cuantitativos, cualitativos y mixtos, además exponemos ventajas y desventajas de los métodos "cuanti" y "cuali".
