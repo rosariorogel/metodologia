@@ -37,7 +37,7 @@ Las principales características de VOSviewer incluyen:
 5. **Análisis de co-ocurrencias:** Identifica y visualiza la frecuencia de términos en los títulos y resúmenes de artículos. 
 
 #### Así se ve VOSviewer:
-(<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg"><img width="512" alt="Estudiando con Vos Viewer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Estudiando_con_Vos_Viewer.jpg/512px-Estudiando_con_Vos_Viewer.jpg?20240615181614"></a>) 
+<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg"><img width="512" alt="Estudiando con Vos Viewer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Estudiando_con_Vos_Viewer.jpg/512px-Estudiando_con_Vos_Viewer.jpg?20240615181614"></a> 
 
 <a href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg">Paualaniss</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, 
 
@@ -53,7 +53,9 @@ Las principales características de Open Knowledge Maps incluyen:
 5. **Integración de recursos:** Integra diversas fuentes de información y bases de datos académicas; ofrece una visión amplia y consolidada de la literatura existente en un campo específico.
 
 #### Así se ve Open Knowledge Maps:
-(<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Open_Knowledge_Maps.jpg"><img width="512" alt="Estudiando con Open Knowledge Maps" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Estudiando_con_Open_Knowledge_Maps.jpg/512px-Estudiando_con_Open_Knowledge_Maps.jpg?20240615180008"></a>)
+<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Open_Knowledge_Maps.jpg"><img width="512" alt="Estudiando con Open Knowledge Maps" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Estudiando_con_Open_Knowledge_Maps.jpg/512px-Estudiando_con_Open_Knowledge_Maps.jpg?20240615180008"></a> 
+
+<a href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg">Paualaniss</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, 
 
 ### [Connected Papers](https://www.connectedpapers.com/)
 
@@ -68,7 +70,9 @@ Las principales características de Connected Papers incluyen:
 6. **Búsqueda y filtrado:** Permite buscar artículos específicos y filtrar los resultados según diversos criterios como año de publicación, autor, etc.
 
 #### Así se ve Connected Papers:
-(<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Connected_Papers.jpg"><img width="512" alt="Estudiando con Connected Papers" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Estudiando_con_Connected_Papers.jpg/512px-Estudiando_con_Connected_Papers.jpg?20240615181125"></a>)
+<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Connected_Papers.jpg"><img width="512" alt="Estudiando con Connected Papers" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Estudiando_con_Connected_Papers.jpg/512px-Estudiando_con_Connected_Papers.jpg?20240615181125"></a> 
+
+<a href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg">Paualaniss</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, 
 
 ### ¿Cómo sé cuál necesito?
 
@@ -87,6 +91,6 @@ Explora el Conocimiento: Cómo Open Knowledge Maps Impulsa tu Investigación
 **Para esto puedes usar Connected Papers**
 
 Revoluciona tu Investigación: Cómo Connected Papers Facilita tu Trabajo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5P0KuE70Ugs?si=LPLeig1faZX4KeAu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n7H4JEGfSmY?si=AIjCxQie9Sh97yRv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ¡Esperamos haberte ayudado a que tu elección sea mucho más fácil!
