@@ -15,11 +15,20 @@ La Inteligencia Artificial es un campo de la informática que se enfoca en crear
 
 En este primer apartado, se proporciona información acerca de una parte del desarrollo de la Inteligencia Artificial (IA), y de las fechas de lanzamiento de algunas herrmamientas de IA, con el propósito de dar un contexto histórico sobre cómo hemos logrado llegar hasta el avance que hoy se tiene de esta disciplina científica, este proceso se visualiza a través de una línea del tiempo, elaborada con la plataforma de código abierto [TimelineJS](https://timeline.knightlab.com/#preview-embed).
 
+#### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
+
+* **María Cruz-Romero: Conceptualización, curación de datos, investigación, recursos, análisis formal, administración de proyecto, visualización, y escritura-borrador original*
+* **Mario Rojas-Camacho: Conceptualización, investigación, curación de datos, análisis formal, y visualización*
+* **Ramses Santos-Mendoza: Investigación, curación de datos, recursos, metodología y análisis formal*
+* **Efrén Yair Blanquel-Vara: Investigación, análisis formal, recursos, y metodología*
+* **Diego González-Reyes:
+Investigación, curación de datos, recursos, metodología, y análisis formal*
+
+
+
 # Linea del tiempo de la Inteligencia Artificial y Herramientas IA
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vA75b1XuQN1jvZWzmRrr7Vyw-dzF62VKiWIXdvDrZ0s&font=Default&lang=es&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
-***Créditos:*** María Cruz-Romero, Mario Rojas-Camacho y Ramses Santos-Mendoza.
 
 # ¿Y tú, qué tanto usas la IA?
 
@@ -72,9 +81,6 @@ El presente gráfico indica que, el 48% de los universitarios usan la Inteligenc
 A partir del gráfico anterior se puede observar una gran tendencia al uso de Chat GPT abarcando el 56%, siendo así que existe un gran desconocimiento de los demás sitios de Inteligencia Artificial, mientras Chat GPT abarca más de la mitad, el sitio You solo obtuvo el 1%, lo que representa que solo una de cada cien personas usa You.com IA.
 En esta gráfica se puede visualizar la opción “otro”, dentro del cuestionario se coloco la pregunta de cuál sería ese otro, del 19% que contesto con “otro”, el 18% dijo que ninguna de las presentadas, y solo una persona menciono que usa [Character.ai](https://character.ai/).
 
-
-
-***Créditos:*** María Cruz-Romero, Mario Rojas-Camacho, y Ramses Santos-Mendoza.
 
 # Siempre es bueno saberlo
 
@@ -141,5 +147,5 @@ Es una herramienta que te permite explorar relaciones y obtener resúmenes de in
 * La plataforma puede tener limitaciones en cuanto a la cantidad de recursos y funcionalidades que se pueden ofrecer.
 * Su información esta actualizada hasta una cierta fecha, es posible que no tenga información de los eventos más recientes.
 
-***Créditos:*** Efrén Yair Blanquel-Vara y Diego González-Reyes.
+
 
