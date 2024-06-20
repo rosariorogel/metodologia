@@ -25,8 +25,6 @@ HERRAMIENTAS DE INTERPRETACIÓN Y ANÁLISIS DE DATOS
 + **Fernanda Sánchez-Martínez**: *Conceptualización, investigación, metodología, curación de datos, administración del proyecto, supervisión, revisión*
 + **Gerardo Gael Bernal-Sandoval**: *Conceptualización, metodología, investigación, análisis formal, escritura, curación de datos, edición de vídeo y administración*
 
-####
-
 
 <h2>Enfoques de investigación </h2>
 Los enfoques de investigación social son un conjunto de planteamientos, sistematizados y controlados que sirve para cuestionarte y entender mejor un problema (Faneite,2023).
