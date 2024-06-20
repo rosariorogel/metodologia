@@ -147,8 +147,6 @@ Es una plataforma digital que ofrece acceso abierto a una vasta colección de re
 1. **Encontrar publicaciones científicas de calidad contrastada:** Su buscador avanzado te facilita la búsqueda por autor, título, tema, palabras clave, ISSN y DOI, entre otros criterios.
 2. **Gestionar tus búsquedas y referencias:** Puedes crear listas personalizadas de resultados, guardar referencias bibliográficas en diferentes formatos y exportarlas a gestores de referencias como EndNote o Zotero.
 
-**Experiencia:**
-
 <blockquote>
   <p><em>El inicio de la página se ve estético y hace que la experiencia sea más agradable al navegar, ya que de cierta forma no se siente tan tediosa de usar, además de que es similar a los buscadores de siempre pero ya no es necesario revisar la información que aparece porque como ya es certificada por todas esas instituciones la revisión de calidad de información será menos cansada. (Dareysa Lopez-Gonzalez)</em></p>
 </blockquote>
