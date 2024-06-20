@@ -34,7 +34,7 @@ Las metodologías cuantitativas desempeñan un papel crucial en varios campos, c
 La investigación cuantitativa busca dar un análisis de información enfocado a los datos, preciso y objetivo, sin caer en subjetividades ni opiniones personales, los datos son reales y existentes. Lo único que cambia es la manera de interpretar estos datos, no la información en sí.
 
 ![Infografía Método Cuantitativo](https://upload.wikimedia.org/wikipedia/commons/1/19/Enfoque_Cuantitativo.png)
-Imagen con licencia de Creative Commons CC-BY.
+Creative Commons CC-BY.
 
 ---
 
@@ -57,7 +57,7 @@ Es un proceso de investigación que busca comprender un fenómeno dentro de su e
 * Los **datos que se recolectan son presentados** en forma de textos, imágenes, piezas audiovisuales, documentos y objetos por lo regular personales.
 
 ![Infografía Método Cuantitativo](https://upload.wikimedia.org/wikipedia/commons/3/3d/M%C3%A9todo_Cualitativo.png)
-Imagen con licencia de Creative Commons CC-BY.
+Creative Commons CC-BY.
 
 ---
 
@@ -88,7 +88,7 @@ Utilizar métodos mixtos en la investigación proporciona varios beneficios impo
 * **Aclarar la causalidad entre variables:** Los métodos mixtos también ayudan a clarificar la causalidad entre variables, integrando mediciones cuantitativas de causalidad y correlación con el contexto y el análisis de variables subjetivas.
 
 ![Infografía Método Cuantitativo](https://upload.wikimedia.org/wikipedia/commons/a/a5/M%C3%A9todo_Mixto.jpg)
-Imagen con licencia de Creative Commons CC-BY.
+Creative Commons CC-BY.
 
 ---
 
@@ -112,4 +112,4 @@ El enfoque mixto surge como una alternativa que busca combinar las fortalezas de
 Sin embargo, el enfoque mixto también presenta sus propias complejidades. La integración de datos de naturaleza tan diversa exige un mayor dominio de metodologías y técnicas tanto cuantitativas como cualitativas, lo que incrementa la complejidad del diseño de la investigación. Además, el proceso de integración y análisis de datos mixtos puede ser más demandante en términos de tiempo y recursos.
 
 ![Infografía Ventajas y Desventajas](https://upload.wikimedia.org/wikipedia/commons/4/4c/Ventajas_y_Desventajas.jpg)
-Imagen con licencia de Creative Commons CC-BY.
+Creative Commons CC-BY.
