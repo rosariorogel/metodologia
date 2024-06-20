@@ -33,10 +33,10 @@ Una vez que tenemos elaborado el problema de investigación, preguntas, objetivo
 
 ## Enfoque Cualitativo
 
-La investigación cualitativa implica recopilar y analizar datos no numéricos para comprender conceptos, opiniones o experiencias, así como datos sobre experiencias vividas, emociones o comportamientos, con los significados que las personas les atribuyen. Por esta razón, los resultados se expresan en palabras. (Investigación cualitativa y cuantitativa, s. f.)
+La investigación cualitativa implica recopilar y analizar datos no numéricos para comprender conceptos, opiniones o experiencias, así como datos sobre experiencias vividas, emociones o comportamientos, con los significados que las personas les atribuyen. Por esta razón, los resultados se expresan en palabras. (Vélez, s. f.)
 
 La investigación cualitativa se inicia formándose una idea general de un tema para ir luego definiendo lo que será investigado en relación con aquello que se descubre, que los sujetos hacen o dicen en su contexto, cruzándolo y confrontándolo permanentemente con la información obtenida de la revisión de literatura existente.
-No quiere esto decir que el proceso de investigación cualitativa no tenga una planificación y unos límites que respetar; en concreto los del marco metodológico declarado en la formulación. (SalusPlay, s. f.)
+No quiere esto decir que el proceso de investigación cualitativa no tenga una planificación y unos límites que respetar; en concreto los del marco metodológico declarado en la formulación. (Santander, 2021)
 
 ### Herramientas
 
