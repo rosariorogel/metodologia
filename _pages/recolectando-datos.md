@@ -32,14 +32,14 @@ Una vez que tenemos elaborado el problema de investigación, preguntas, objetivo
 
 
 ## Enfoque Cualitativo
---- 
+
 La investigación cualitativa implica recopilar y analizar datos no numéricos para comprender conceptos, opiniones o experiencias, así como datos sobre experiencias vividas, emociones o comportamientos, con los significados que las personas les atribuyen. Por esta razón, los resultados se expresan en palabras. (Investigación cualitativa y cuantitativa, s. f.)
 
 La investigación cualitativa se inicia formándose una idea general de un tema para ir luego definiendo lo que será investigado en relación con aquello que se descubre, que los sujetos hacen o dicen en su contexto, cruzándolo y confrontándolo permanentemente con la información obtenida de la revisión de literatura existente.
 No quiere esto decir que el proceso de investigación cualitativa no tenga una planificación y unos límites que respetar; en concreto los del marco metodológico declarado en la formulación. (SalusPlay, s. f.)
 
 ### Herramientas
----
+
 #### [Taguette](https://www.taguette.org/)
 Es una herramienta de software de código abierto diseñada para facilitar el análisis cualitativo de datos. Su uso optimiza los procesos de análisis de datos no estructurados en la investigación.
 
@@ -53,7 +53,7 @@ Es un software de análisis cualitativo de datos (CAQDAS) fácil de usar, analiz
 En este caso, existen diversas investigaciones las cuales utilizaron esta herramienta, esta pagina web muestra todo lo que te puede encontrar dento de esta herramienta (QDA miner lite, sin fecha, Provalis)
 
 ## Enfoque Cuantitativo
----
+
 El enfoque cuantitativo de investigación utiliza la recolección de datos para probar hipótesis con base en la medición numérica y el análisis estadístico, con el fin de establecer pautas de comportamiento y probar teorías. Se basa en el uso de técnicas estadísticas para conocer y describir a la población o fenómeno que se está estudiando; se puede utilizar en diferentes áreas de conocimiento (Hernández,  Fernándezy Baptista; 2014, pp. 4-5).
 
 Su  intención  es  buscar  la  exactitud  de  mediciones  o  indicadores  sociales  con  el  fin  de generalizar sus resultados a poblaciones o situaciones amplias. Trabajan fundamentalmente con el número, el dato cuantificable (Galeano, 2004:24).
@@ -75,7 +75,7 @@ La herramienta KoboToolbox fue utilizada para la recopilación de datos a travé
 Santiago Soares Da Silva y Marcio Rodrigues Silva publican el artículo científico en la Revista Eletrônica do Curso de GeografiaGraduação e Pós-Graduação (GEOAMBIENTE ON-LINE).
 
 ## Enfoque mixto
----
+
 La “metodología mixta”, es un enfoque pragmático de investigación, busca  que  los  datos  cualitativos se acoplen  a  los datos  cuantitativos, con  el  fin de enriquecer   la   metodología   y   los   resultados   de investigación. Este enfoque es adecuado por que logra una perspectiva más amplia y profunda, logrando una mayor teorización, los  datos son  más  y  variados. (Gómez, Deslauriers y Alzate,2010, p. 171)
 ### Herramientas
 #### [LimeSurvey](https://www.limesurvey.org/es)
@@ -98,7 +98,6 @@ Herrameintas de interpretación y análisis de datos
 
 ## **Cuadro comparativo**
 <img src="{{ site.baseurl }}/assets/img/Herramientas.png">
-
 
 # Bibliografía
 Las fuentes utilizadas para la realización de este proyecto están disponibles en un grupo de Zotero llamado: Metodología FCPyS en el apartado [3.3 Herramientas de investigación](https://www.zotero.org/groups/5388483/metodologa_fcpys/collections/KR5PFIAK).
