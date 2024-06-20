@@ -5,7 +5,7 @@ subtitle: Historia, uso y ventajas
 permalink: inteligencia-artificial
 ---
 
-# ¿Cómo aprovechar la Inteligencia en tu investigacvión? 
+# ¿Cómo aprovechar la Inteligencia en tu investigación? 
 
 En este apartado, encontrarás información útil acerca de herramientas de Inteligencia artificial en la investigación, parte de su desarrollo a lo largo del tiempo, y algunas estadísticas de su uso.
 
