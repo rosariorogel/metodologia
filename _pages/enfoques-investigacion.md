@@ -15,7 +15,7 @@ Si quieres ampliar tus conocimientos sobre este tema te sugerimos el Grupo Abier
 
 **Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):**
 * **Paola Altamirano-Dávila**: *Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición*
-* **Alex Guerrero-Torres**: *Curación de Datos, Investigación, Administración, Software, Visualización, Escritura, Revisión y Edición*
+* **Alex Guerrero-Torres**: *Curación de Datos, Investigación, Administración, Software, Escritura, Revisión y Edición, Visualización*
 * **Fabiola Pulido-Márquez**: *Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición*
 * **Derek Rosales-Nava**: *Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición, Visualización*
 
