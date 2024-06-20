@@ -19,7 +19,7 @@ Se adjunta un video previamente subido a la plataforma de YouTube, en donde expl
 + **Fernanda Sánchez-Martínez**: *Conceptualización, investigación, metodología, curación de datos, administración del proyecto, supervisión, revisión*
 + **Gerardo Gael Bernal-Sandoval**: *Conceptualización, metodología, investigación, análisis formal, escritura, curación de datos, edición de vídeo y administración*
 
-##Herramientas de gestión e interpretación de datos
+**Herramientas de gestión e interpretación de datos**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QojvHRwqCQE?si=VMqykijcEI35ofpV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>Enfoques de investigación </h2>
