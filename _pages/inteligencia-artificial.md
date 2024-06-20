@@ -26,55 +26,6 @@ En este primer apartado, se proporciona información acerca de una parte del des
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vA75b1XuQN1jvZWzmRrr7Vyw-dzF62VKiWIXdvDrZ0s&font=Default&lang=es&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### ¿Y tú, qué tanto usas la IA?
----
-En esta sección podrás visualizar los resultados de una encuesta acerca del uso y aplicación de herramientas de Inteligencia Artificial para la realización de trabajos académicos. La encuesta fue aplicada a  estudiantes de Licenciatura, Maestría y Doctorado de distintas disciplinas (enfocando específicamente a las ciencias sociales, exactas y de la salud), de la Universidad Autónoma del Estado de México.
-
-La encuesta constó de cinco preguntas en las que se consideró: el área de especialización, el grado de estudio y el uso que le da a las herramientas de Inteligencia Artificial para la investigación, la guía de preguntas fue la siguiente:
-
-* ¿Cuál es tu nivel de estudio?
-* ¿Cuál es tu área de estudio?
-* ¿Utilizas la Inteligencia Artificial para la elaboración de trabajos, investigaciones, o para la obtención de información?
-* ¿Con qué frecuencia haces uso de la IA (Inteligencia Artificial) para trabajos escolares que impliquen la investigación de datos?; y,
-* ¿Qué herramienta de IA, utilizas para la búsqueda de información?
-
-Los resultados a cada una de las preguntas fueron los que se muestran a continuación, los porcentajes dados en las presentes graficas corresponden a una muestra de cien personas.
-
-#### **Pregunta No. 1**
-
-<img src="{{site.baseurl }}/assets/img/Gráfica1NiveldeEstudioIA.png" style="float:left;width:500px;padding-right:28px;">
-De acuerdo con esta primera gráfica, se determina que el 91% de las personas encuestadas se encuentran estudiando una licenciatura.
-
-<div style="clear: both;"></div>
-
-#### **Pregunta No. 2**
-
-<img src="{{site.baseurl }}/assets/img/Gráfica2ÁreadeEstudioIA.png" style="float:left;width:500px;padding-right:28px;">
-De acuerdo con el gráfico, los estudiantes de ciencias sociales con el 56% fueron quienes más respondieron la encuesta, siguiendo los de ciencias de la salud con un 34%, mientras que, el 10% fueron estudiantes de las ciencias exactas.
-
-<div style="clear: both;"></div>
-
-#### **Pregunta No. 3**
-
-<img src="{{site.baseurl }}/assets/img/Gráfica3UsoIA.png" style="float:left;width:500px;padding-right:28px;">
-De acuerdo con este gráfico, el 74% por ciento de alumnos que estudian en el nivel superior de educación utilizan la inteligencia artificial para la investigación y el trabajo académico.
-
-<div style="clear: both;"></div>
-
-#### **Pregunta No. 4**
-
-<img src="{{site.baseurl }}/assets/img//Gráfica4FrecuenciaUsoIA.png" style="float:left;width:500px;padding-right:28px;">
-El presente gráfico indica que, el 48% de los universitarios usan la Inteligencia Artificial 2 veces por semana, mientras que, el 17% lo utiliza siempre, es decir que no hay investigación que no lleve una respuesta dada por alguna Inteligencia Artificial.
-
-<div style="clear: both;"></div>
-
-#### **Pregunta No. 5**
-
-<img src="{{site.baseurl }}/assets/img/Gráfica5SitiosUsadosIA.png" style="float:left;width:500px;padding-right:28px;">
-A partir del gráfico anterior se puede observar una gran tendencia al uso de Chat GPT abarcando el 56%, siendo así que existe un gran desconocimiento de los demás sitios de Inteligencia Artificial, mientras Chat GPT abarca más de la mitad, el sitio You solo obtuvo el 1%, lo que representa que solo una de cada cien personas usa You.com IA.
-En esta gráfica se puede visualizar la opción “otro”, dentro del cuestionario se coloco la pregunta de cuál sería ese otro, del 19% que contesto con “otro”, el 18% dijo que ninguna de las presentadas, y solo una persona menciono que usa [Character.ai](https://character.ai/).
-
-
 # Siempre es bueno saberlo
 
 En esta sección buscamos resaltar y mostrar ventajas y algunas desventajas, de cuatro de las Inteligencias Artificiales más utilizadas por alumnos de estudios superiores, con el fin de compartir sitios seguros y con gran ayuda para la resolución de problemas y apoyo a la investigación.
@@ -138,3 +89,51 @@ Es una herramienta que te permite explorar relaciones y obtener resúmenes de in
 * Acceso limitado a documentos completos (a excepción de Chat gpt 4.0).
 * La plataforma puede tener limitaciones en cuanto a la cantidad de recursos y funcionalidades que se pueden ofrecer.
 * Su información esta actualizada hasta una cierta fecha, es posible que no tenga información de los eventos más recientes.
+
+### ¿Y tú, qué tanto usas la IA?
+---
+En esta sección podrás visualizar los resultados de una encuesta acerca del uso y aplicación de herramientas de Inteligencia Artificial para la realización de trabajos académicos. La encuesta fue aplicada a  estudiantes de Licenciatura, Maestría y Doctorado de distintas disciplinas (enfocando específicamente a las ciencias sociales, exactas y de la salud), de la Universidad Autónoma del Estado de México.
+
+La encuesta constó de cinco preguntas en las que se consideró: el área de especialización, el grado de estudio y el uso que le da a las herramientas de Inteligencia Artificial para la investigación, la guía de preguntas fue la siguiente:
+
+* ¿Cuál es tu nivel de estudio?
+* ¿Cuál es tu área de estudio?
+* ¿Utilizas la Inteligencia Artificial para la elaboración de trabajos, investigaciones, o para la obtención de información?
+* ¿Con qué frecuencia haces uso de la IA (Inteligencia Artificial) para trabajos escolares que impliquen la investigación de datos?; y,
+* ¿Qué herramienta de IA, utilizas para la búsqueda de información?
+
+Los resultados a cada una de las preguntas fueron los que se muestran a continuación, los porcentajes dados en las presentes graficas corresponden a una muestra de cien personas.
+
+#### **Pregunta No. 1**
+
+<img src="{{site.baseurl }}/assets/img/Gráfica1NiveldeEstudioIA.png" style="float:left;width:500px;padding-right:28px;">
+De acuerdo con esta primera gráfica, se determina que el 91% de las personas encuestadas se encuentran estudiando una licenciatura.
+
+<div style="clear: both;"></div>
+
+#### **Pregunta No. 2**
+
+<img src="{{site.baseurl }}/assets/img/Gráfica2ÁreadeEstudioIA.png" style="float:left;width:500px;padding-right:28px;">
+De acuerdo con el gráfico, los estudiantes de ciencias sociales con el 56% fueron quienes más respondieron la encuesta, siguiendo los de ciencias de la salud con un 34%, mientras que, el 10% fueron estudiantes de las ciencias exactas.
+
+<div style="clear: both;"></div>
+
+#### **Pregunta No. 3**
+
+<img src="{{site.baseurl }}/assets/img/Gráfica3UsoIA.png" style="float:left;width:500px;padding-right:28px;">
+De acuerdo con este gráfico, el 74% por ciento de alumnos que estudian en el nivel superior de educación utilizan la inteligencia artificial para la investigación y el trabajo académico.
+
+<div style="clear: both;"></div>
+
+#### **Pregunta No. 4**
+
+<img src="{{site.baseurl }}/assets/img//Gráfica4FrecuenciaUsoIA.png" style="float:left;width:500px;padding-right:28px;">
+El presente gráfico indica que, el 48% de los universitarios usan la Inteligencia Artificial 2 veces por semana, mientras que, el 17% lo utiliza siempre, es decir que no hay investigación que no lleve una respuesta dada por alguna Inteligencia Artificial.
+
+<div style="clear: both;"></div>
+
+#### **Pregunta No. 5**
+
+<img src="{{site.baseurl }}/assets/img/Gráfica5SitiosUsadosIA.png" style="float:left;width:500px;padding-right:28px;">
+A partir del gráfico anterior se puede observar una gran tendencia al uso de Chat GPT abarcando el 56%, siendo así que existe un gran desconocimiento de los demás sitios de Inteligencia Artificial, mientras Chat GPT abarca más de la mitad, el sitio You solo obtuvo el 1%, lo que representa que solo una de cada cien personas usa You.com IA.
+En esta gráfica se puede visualizar la opción “otro”, dentro del cuestionario se coloco la pregunta de cuál sería ese otro, del 19% que contesto con “otro”, el 18% dijo que ninguna de las presentadas, y solo una persona menciono que usa [Character.ai](https://character.ai/).
