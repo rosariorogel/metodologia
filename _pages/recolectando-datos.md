@@ -76,7 +76,7 @@ Características: Fácil creación de formularios para la recolección de datos 
 
 **Ejemplo de uso:**
 La herramienta KoboToolbox fue utilizada para la recopilación de datos a través de un teléfono inteligente y la tabulación automática en diferentes formatos.
-Santiago Soares Da Silva y Marcio Rodrigues Silva publicaron un artículo científico en la *Revista Eletrônica do Curso de GeografiaG raduação e Pós-Graduação* (GEOAMBIENTE ON-LINE).
+Santiago Soares Da Silva y Marcio Rodrigues Silva publicaron un artículo titulado  [Uso de kobotoolbox como herramienta para optimizar la recopilación y tabulación de datos en la investigación científica](https://doi.org/10.5216/revgeoamb.vi36.58264) en la  [Revista Eletrônica do Curso de GeografiaG raduação e Pós-Graduação, GEOAMBIENTE ON-LINE](https://revistas.ufj.edu.br/geoambiente/index).
 
 ## Enfoque mixto
 
