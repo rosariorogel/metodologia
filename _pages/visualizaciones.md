@@ -5,7 +5,7 @@ subtitle: Herramientas de análisis y visualización bibliométrica
 permalink: visualizaciones
 ---
 
-#Herramientas de visualización de campos académicos
+# Herramientas de visualización de campos académicos
 
 En esta sección del sitio web, se presentan diversas herramientas gráficas con el objetivo de ayudar a los investigadores y estudiantes a visualizar los datos obtenidos de sus consultas. Además, ofrece una comparación entre ellas para permitir el desarrollo y manejo de sus competencias y habilidades.
 
