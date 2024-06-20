@@ -34,6 +34,14 @@ Entendemos como *recursos formales* plataformas como: bases de datos y buscadore
 
 1. Acceso a la literatura científica: proporciona acceso a una amplia variedad de revistas y artículos de alta calidad, lo que facilita la búsqueda y el análisis de la literatura científica.
 2. Evaluación de la calidad de los artículos: Los índices de citas de WoS permiten evaluar la calidad y el impacto de los artículos científicos
+<blockquote>
+  <p><em>La plataforma WoS es muy sencilla de utilizar, y cuenta con una gran base de datos de científicos de diferentes áreas.
+La búsqueda se puede realizar de diferentes formas: palabras clave, título, resumen, editoriales, áreas o más de una categoría a la vez.
+Una vez realizada la búsqueda podremos filtrar la información por año, autor, editorial, zona, palabras clave, entre otros.
+Los documentos se pueden descargar desde la plataforma para leerlos.
+Pero también se pueden descargar los metadatos de toda la búsqueda realizada, en diferentes formatos, como BitText, CSV, PlainTxt. Los metadatos son útiles para un análisis más amplio de la información utilizando software especializado. (Diego Boehlke-Vargas, Estudiante de la Universidad  Regional de Blumenau, Brasil)</em></p>
+</blockquote>
+
 
 #### [Scopus](https://www.scopus.com/)
 
