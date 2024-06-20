@@ -107,16 +107,11 @@ Herrameintas de interpretación y análisis de datos
 ## Cuadro comparativo
 <img src="{{ site.baseurl }}/assets/img/Herramientas.png">
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
-
 
 | Herramienta   | ¿Qué es?      |  ¿Para qué es? |  A qué enfoque pertenece |  ¿Qué pueden obtener?  | Experiencia |
 | ------------- | ------------- |
-| Kobotoolbox   | Content Cell  |
+| [Taguette](https://www.taguette.org/) | Es una herramienta de software de código abierto diseñada para facilitar el análisis cualitativo de datos. Es especialmente útil para investigadores, académicos y cualquier persona que necesite codificar y analizar textos, como entrevistas, artículos, o cualquier tipo de contenido escrito. | Funciona como aplicación web, instalación en servidor o en computadora local. Su uso optimiza los procesos de análisis de datos no estructurados en la investigación | Enfoque cualitativo | Exportación de códigos e informes: Los resultados del análisis pueden ser exportados en formatos como CSV, PDF, hojas de cálculo y documentos de texto. Análisis de datos no estructurados: Taguette es especialmente útil para el análisis de datos no estructurados, como texto, audio, video, y otros formatos de archivo.*Compatibilidad con varios formatos de archivo: Taguette es compatible con varios formatos de archivo, incluyendo PDF, Word, texto, HTML, EPUB, MOBI, Open Documents y Rich Text Files. | Es una herramienta  sencilla, ya que es de gran ayuda para tener tu información de una manera organizada. |
+
 | Content Cell  | Content Cell  |
 
 # Bibliografía
