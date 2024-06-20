@@ -56,9 +56,9 @@ Un artículo de la [Revista de la Universidad Politécnica]( https://www.upv.es/
 
 ## Enfoque Cuantitativo
 
-El enfoque cuantitativo de investigación utiliza la recolección de datos para probar hipótesis con base en la medición numérica y el análisis estadístico, con el fin de establecer pautas de comportamiento y probar teorías. Se basa en el uso de técnicas estadísticas para conocer y describir a la población o fenómeno que se está estudiando; se puede utilizar en diferentes áreas de conocimiento (Hernández,  Fernándezy Baptista; 2014, pp. 4-5).
+El enfoque cuantitativo de investigación utiliza la recolección de datos para probar hipótesis con base en la medición numérica y el análisis estadístico, con el fin de establecer pautas de comportamiento y probar teorías. Se basa en el uso de técnicas estadísticas para conocer y describir a la población o fenómeno que se está estudiando; se puede utilizar en diferentes áreas de conocimiento (Torrez,2018).
 
-Su  intención  es  buscar  la  exactitud  de  mediciones  o  indicadores  sociales  con  el  fin  de generalizar sus resultados a poblaciones o situaciones amplias. Trabajan fundamentalmente con el número, el dato cuantificable (Galeano, 2004:24).
+Su  intención  es  buscar  la  exactitud  de  mediciones  o  indicadores  sociales  con  el  fin  de generalizar sus resultados a poblaciones o situaciones amplias. Trabajan fundamentalmente con el número, el dato cuantificable (Torrez 2018).
 
 A continuación, te recomendamos dos herramientas para la recopilación de datos cuantitativos con la finalidad de crear formularios de forma fácil y rápida:
 
