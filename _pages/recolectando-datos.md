@@ -106,6 +106,7 @@ Herrameintas de interpretación y análisis de datos
 
 ## Cuadro comparativo
 <img src="{{ site.baseurl }}/assets/img/Herramientas.png">
+
 | Herramienta   | ¿Qué es?      |  ¿Para qué es? |  A qué enfoque pertenece |  ¿Qué pueden obtener?  | Experiencia |
 | ------------- | ------------- |
 | Kobotoolbox   | Content Cell  |
