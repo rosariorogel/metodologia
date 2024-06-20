@@ -72,17 +72,17 @@ Las principales características de Connected Papers incluyen:
 
 Elegir alguna de ellas depende de los resultados y el análisis que quieras obtener, es por eso que te compartimos estos videos en los que comparamos estas tres herramientas.
 
->**Para esto puedes usar VOSviewer**
+**Para esto puedes usar VOSviewer**
 
 Navega la Ciencia: Desbloquea el Potencial de VOSviewer en tu Investigación
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p-6pKxQgqv0?si=nISvsvMpgbIG0NAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
->**Para esto puedes usar Open Knowledge Maps**
+**Para esto puedes usar Open Knowledge Maps**
 
 Explora el Conocimiento: Cómo Open Knowledge Maps Impulsa tu Investigación
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OI6TQV4euHk?si=5huHD1koiNkFV1eG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
->**Para esto puedes usar Connected Papers**
+**Para esto puedes usar Connected Papers**
 
 Revoluciona tu Investigación: Cómo Connected Papers Facilita tu Trabajo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5P0KuE70Ugs?si=LPLeig1faZX4KeAu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
