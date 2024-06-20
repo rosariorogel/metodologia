@@ -80,7 +80,7 @@ Santiago Soares Da Silva y Marcio Rodrigues Silva publicaron un artículo titula
 
 ## Enfoque mixto
 
-La “metodología mixta”, es un enfoque pragmático de investigación, busca  que  los  datos  cualitativos se acoplen  a  los datos  cuantitativos, con  el  fin de enriquecer   la   metodología   y   los   resultados   de investigación. Este enfoque es adecuado por que logra una perspectiva más amplia y profunda, logrando una mayor teorización, los  datos son  más  y  variados. (Gómez, Deslauriers y Alzate,2010, p. 171)
+La “metodología mixta”, es un enfoque pragmático de investigación, busca  que  los  datos  cualitativos se acoplen  a  los datos  cuantitativos, con  el  fin de enriquecer   la   metodología   y   los   resultados   de investigación. Este enfoque es adecuado por que logra una perspectiva más amplia y profunda, logrando una mayor teorización, los  datos son  más  y  variados. (Gómez, 2018).
 
 ### Herramientas
 
