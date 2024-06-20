@@ -15,10 +15,10 @@ Querido lector, a continuación te presentamos una sección donde ofrecemos algu
 * **Aldo Contreras-Fuentes**: *Edición en GuitHub*
 * **Axel Romero-Álvarez**: *Edición en GuitHub*
 
-<img src="{{ site.baseurl }}/assets/img/periodico.pdf - 1.jpg" style="float:left;width:500px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/Periódico_pag1.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/periodico.pdf - 2.jpg" style="float:left;width:500px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/Periódico_pag2.jpg" style="float:left;width:500px;padding-right:20px;">
 <div style="clear: both;"></div>
 
 Esperamos, que la información del periódico te sea útil para que puedas en un futuro elaborar con éxito tu tesis doctoral.
