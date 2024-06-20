@@ -74,7 +74,7 @@ Instagram: [@mich_1968](https://www.instagram.com/mich_1968/)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoMiguel.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAldoMig.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Aldo Contreras-Fuentes** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx). 
 
 Instagram: [@contrari_di_fonti](https://www.instagram.com/contrari_di_fonti?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
