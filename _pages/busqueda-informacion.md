@@ -328,8 +328,8 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 
 ### Infografías sobre recursos de información digital 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_1.jpg" style="float:center;width:1000px;padding-right:100px;">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/1/15/INFOGRAF%C3%8DA_RECURSOS_DE_INVESTIGACI%C3%93N_DIGITAL_1.jpg" width="278" height="695">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/INFOGRAFÍA_RECURSOS_DE_INVESTIGACIÓN_DIGITAL_2.jpg" style="float:center;width:1000px;padding-right:100px;">
+<img alt="Archivo:INFOGRAFÍA RECURSOS DE INFORMACIÓN DIGITAL 3.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/INFOGRAF%C3%8DA_RECURSOS_DE_INFORMACI%C3%93N_DIGITAL_3.jpg/240px-INFOGRAF%C3%8DA_RECURSOS_DE_INFORMACI%C3%93N_DIGITAL_3.jpg?20240620232414" decoding="async" width="240" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/INFOGRAF%C3%8DA_RECURSOS_DE_INFORMACI%C3%93N_DIGITAL_3.jpg/360px-INFOGRAF%C3%8DA_RECURSOS_DE_INFORMACI%C3%93N_DIGITAL_3.jpg?20240620232414 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/INFOGRAF%C3%8DA_RECURSOS_DE_INFORMACI%C3%93N_DIGITAL_3.jpg/480px-INFOGRAF%C3%8DA_RECURSOS_DE_INFORMACI%C3%93N_DIGITAL_3.jpg?20240620232414 2x" data-file-width="800" data-file-height="2000">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg" style="float:center;width:1000px;padding-right:100px;">
