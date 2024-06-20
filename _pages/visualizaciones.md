@@ -37,7 +37,8 @@ Las principales características de VOSviewer incluyen:
 5. **Análisis de co-ocurrencias:** Identifica y visualiza la frecuencia de términos en los títulos y resúmenes de artículos. 
 
 #### Así se ve VOSviewer:
-(<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg"><img width="512" alt="Estudiando con Vos Viewer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Estudiando_con_Vos_Viewer.jpg/512px-Estudiando_con_Vos_Viewer.jpg?20240615181614"></a>)
+(<a title="Paualaniss, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg"><img width="512" alt="Estudiando con Vos Viewer" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Estudiando_con_Vos_Viewer.jpg/512px-Estudiando_con_Vos_Viewer.jpg?20240615181614"></a>) 
+<a href="https://commons.wikimedia.org/wiki/File:Estudiando_con_Vos_Viewer.jpg">Paualaniss</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, 
 
 ### [Open Knowledge Maps](https://openknowledgemaps.org/about)
 
