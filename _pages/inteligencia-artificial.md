@@ -30,7 +30,7 @@ En este primer apartado, se proporciona información acerca de una parte del des
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vA75b1XuQN1jvZWzmRrr7Vyw-dzF62VKiWIXdvDrZ0s&font=Default&lang=es&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### ¿Y tú, qué tanto usas la IA?
-
+---
 En esta sección podrás visualizar los resultados de una encuesta acerca del uso y aplicación de herramientas de Inteligencia Artificial para la realización de trabajos académicos. La encuesta fue aplicada a  estudiantes de Licenciatura, Maestría y Doctorado de distintas disciplinas (enfocando específicamente a las ciencias sociales, exactas y de la salud), de la Universidad Autónoma del Estado de México.
 
 La encuesta constó de cinco preguntas en las que se consideró: el área de especialización, el grado de estudio y el uso que le da a las herramientas de Inteligencia Artificial para la investigación, la guía de preguntas fue la siguiente:
