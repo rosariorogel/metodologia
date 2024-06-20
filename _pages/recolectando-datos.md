@@ -46,7 +46,7 @@ Es una herramienta de software de código abierto diseñada para facilitar el an
 Consideramos que la herramienta puede ayudar de una buena forma al análisis de tus textos y a poder tener una buena organización, además con las etiquetas que tú coloques en tus documentos te servirá para encontrar más rápido tus ideas centrales. 
 
 **Ejemplos de Uso:**
-En la revista  [*The Journal of Open Source Software*](https://joss.theoj.org/papers/10.21105/joss.03522) nos hacen un pequeño resumen sobre el uso de la herramienta y nos comentan sobre publicaciones de investigaciones y artículos que han usado este software, tiene un grupo en [Zotero](https://www.zotero.org/groups/4373578/taguette) donde recopilan dichos textos.
+[*The Journal of Open Source Software*](https://joss.theoj.org/papers/10.21105/joss.03522) nos hacen un pequeño resumen sobre el uso de la herramienta y nos comentan sobre publicaciones de investigaciones y artículos que han usado este software, tiene un grupo en [Zotero](https://www.zotero.org/groups/4373578/taguette) donde recopilan dichos textos.
 
 #### [QDA Miner lite](https://provalisresearch.com/es/products/software-de-analisis-cualitativo/freeware/)
 Es un software de análisis cualitativo de datos (CAQDAS) fácil de usar, analiza datos de diversas fuentes, como entrevistas, transcripciones, notas de campo, documentos, imágenes y audio. Esta herramienta busca organizar, codificar, analizar y visualizar datos cualitativos de manera eficiente y sistemática. Es una herramienta gratuita de descarga para Windows y iOS, sin embargo, puedes obtener una membresía para mayores beneficios.
