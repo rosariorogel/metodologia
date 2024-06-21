@@ -140,7 +140,7 @@ Instagram: [@PaolaLP](https://www.instagram.com/paolalazaropastor/)
 <img src="{{ site.baseurl }}/assets/img/FotoDareysa.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Dareysa López-González** Estudiante de la carrera de comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx)
 
-[@daregnlz](https://www.instagram.com/daregnlz?igsh=ajUwdXRqdHoxaWZ0)
+Instagram: [@daregnlz](https://www.instagram.com/daregnlz?igsh=ajUwdXRqdHoxaWZ0)
 
 <div style="clear: both;"></div>
 
