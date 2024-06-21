@@ -14,10 +14,10 @@ Se adjunta un video previamente subido a la plataforma de YouTube, en donde expl
 
 #### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
 + **Danna Anderes-Rosas**: *Curación de datos, análisis formal, investigación, metodología y recursos*
-+ **Clara De la Cruz -Mejia**: *Conceptualización de datos, curación de datos, investigación, recursos y escritura*
-+ **Andrea Villa-Mateos**: *Conceptualización, investigación, metodología, escritura*
-+ **Fernanda Sánchez-Martínez**: *Conceptualización, investigación, metodología, curación de datos, administración del proyecto, supervisión, revisión*
-+ **Gerardo Gael Bernal-Sandoval**: *Conceptualización, metodología, investigación, análisis formal, escritura, curación de datos, edición de vídeo y administración*
++ **Clara De la Cruz -Mejia**: *Curación de datos, investigación, recursos y escritura*
++ **Andrea Villa-Mateos**: *Investigación, metodología, escritura*
++ **Fernanda Sánchez-Martínez**: *Investigación, metodología, curación de datos, administración del proyecto, supervisión, revisión*
++ **Gerardo Gael Bernal-Sandoval**: *Metodología, investigación, análisis formal, escritura, curación de datos, edición de vídeo y administración*
 
 **Herramientas de gestión e interpretación de datos**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QojvHRwqCQE?si=VMqykijcEI35ofpV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
