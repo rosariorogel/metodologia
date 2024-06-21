@@ -328,7 +328,7 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 
 ### Infografías sobre recursos de información digital 
 
-<a title="Canva, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Portada.jpg"><img width="1024" alt="Portada" src="undefined"></a>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Portada.jpg" width="278" height="695">
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAF%C3%8DA_RECURSOS_DE_INFORMACI%C3%93N_DIGITAL_3.jpg" width="278" height="695">
 
