@@ -330,6 +330,12 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Portada.jpg" width="278" height="695">
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAF%C3%8DA_RECURSOS_DE_INFORMACI%C3%93N_DIGITAL_3.jpg" width="278" height="695">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Segundo.jpg" width="278" height="695">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/INFOGRAFÍA_RECURSOS_DE_INFORMACIÓN_DIGITAL_3.jpg" style="float:center;width:1000px;padding-right:100px;">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Tercero.jpg" width="278" height="695">
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Cuarta.jpg" width="278" height="695">
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Quinta_info.jpg" width="278" height="695">
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sexto.jpg" width="278" height="695">
