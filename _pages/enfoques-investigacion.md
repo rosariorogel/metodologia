@@ -18,6 +18,7 @@ Si quieres ampliar tus conocimientos sobre este tema te sugerimos el Grupo Abier
 * **Paola Altamirano-Dávila**: *Conceptualización, Curación de Datos, Metodología, Investigación, Administración, Recursos, Software, Validación, Escritura, Revisión y Edición*
 * **Alex Guerrero-Torres**: *Curación de Datos, Investigación, Administración, Recursos, Software, Validación, Escritura, Revisión y Edición, Visualización*
 * **Fabiola Pulido-Márquez**: *Curación de Datos, Metodología, Investigación, Administración, Recursos, Software, Validación, Escritura, Revisión y Edición*
+
 ---
 
 <h2>Enfoque cuantitativo </h2>
