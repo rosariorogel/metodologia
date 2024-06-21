@@ -14,11 +14,10 @@ Este apartado web es una herramienta valiosa para estudiantes, investigadores y 
 Si quieres ampliar tus conocimientos sobre este tema te sugerimos el Grupo Abierto en Zotero denominado [Metodología FCPyS](https://www.zotero.org/groups/5388483/metodologa_fcpys/collections/XCB5HMLR), donde encontrarás un listado de bibliografía que incluye artículos, ensayos, libros, videos y páginas web sobre este tema, con información confiable. Las infografías mostradas en todas las imágenes de esta sección fueron creadas con [Canva.](https://www.canva.com/ "Canva")
 
 **Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):**
-* **Paola Altamirano-Dávila**: *Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición*
-* **Alex Guerrero-Torres**: *Curación de Datos, Investigación, Administración, Software, Escritura, Revisión y Edición, Visualización*
-* **Fabiola Pulido-Márquez**: *Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición*
-* **Derek Rosales-Nava**: *Curación de Datos, Metodología, Investigación, Administración, Software, Escritura, Revisión y Edición, Visualización*
-
+* **Derek Rosales-Nava**: *Conceptualización, Curación de Datos, Análisis Formal, Metodología, Investigación, Administración, Recursos, Software, Supervisión, Escritura, Revisión y Edición, Visualización*
+* **Paola Altamirano-Dávila**: *Conceptualización, Curación de Datos, Metodología, Investigación, Administración, Recursos, Software, Validación, Escritura, Revisión y Edición*
+* **Alex Guerrero-Torres**: *Curación de Datos, Investigación, Administración, Recursos, Software, Validación, Escritura, Revisión y Edición, Visualización*
+* **Fabiola Pulido-Márquez**: *Curación de Datos, Metodología, Investigación, Administración, Recursos, Software, Validación, Escritura, Revisión y Edición*
 ---
 
 <h2>Enfoque cuantitativo </h2>
