@@ -14,11 +14,11 @@ Es aquí donde herramientas digitales para la investigación entran en juego. Es
 En este apartado te ofrecemos una lista con algunas herramientas digitales que pueden potenciar tu trabajo, lo que te permitirá navegar con mayor facilidad y efectividad en el vasto mar de la información.
 
 #### Créditos, en función de la [Taxonomia CRediT](https://credit.niso.org/):
-* **Christian Galván-Iglesias**: *Investigación, Metodología, Conceptualización, Recursos y Curación de Datos*
-* **Michelle Carmargo-González**: *Conceptualización, Curación de Datos, Investigación, Metodología, Recursos y Escritura*
-* **Valentina Martinez-Landa**: *Curación de Datos, Conceptualización, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición*
-* **Dareysa López-González**: *Conceptualización, Investigación, Metodología y Recursos*
-* **Fernanda De Jesús-Nicolás**: *Conceptualización, Metodología, Investigación, Análisis Formal y Escritura*
+* **Christian Galván-Iglesias**: *Investigación, Metodología, Recursos y Curación de Datos*
+* **Michelle Carmargo-González**: *Curación de Datos, Investigación, Metodología, Recursos y Escritura*
+* **Valentina Martinez-Landa**: *Curación de Datos, Análisis Formal, Investigación, Adminsitración, Supervisión y Edición*
+* **Dareysa López-González**: *Investigación, Metodología y Recursos*
+* **Fernanda De Jesús-Nicolás**: *Metodología, Investigación, Análisis Formal y Escritura*
 
 <h2>Recursos Formales </h2>
 
