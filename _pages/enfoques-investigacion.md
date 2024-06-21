@@ -35,7 +35,7 @@ La investigación cuantitativa busca dar un análisis de información enfocado a
 
 ![Infografía Método Cuantitativo](https://upload.wikimedia.org/wikipedia/commons/1/19/Enfoque_Cuantitativo.png) 
 
-<a href="https://commons.wikimedia.org/wiki/File:Enfoque_Cuantitativo.png">Derekcin</a>, CC0, 
+<a href="https://commons.wikimedia.org/wiki/File:Enfoque_Cuantitativo.png">Derekcin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons 
 
 ---
 
@@ -59,7 +59,7 @@ Es un proceso de investigación que busca comprender un fenómeno dentro de su e
 
 ![Infografía Método Cualitativo](https://upload.wikimedia.org/wikipedia/commons/3/3d/M%C3%A9todo_Cualitativo.png) 
 
-<a href="https://commons.wikimedia.org/wiki/File:M%C3%A9todo_Cualitativo.png">Derekcin</a>, CC0, 
+<a href="https://commons.wikimedia.org/wiki/File:M%C3%A9todo_Cualitativo.png">Derekcin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons 
 
 ---
 
@@ -91,7 +91,7 @@ Utilizar métodos mixtos en la investigación proporciona varios beneficios impo
 
 ![Infografía Método Mixto](https://upload.wikimedia.org/wikipedia/commons/a/a5/M%C3%A9todo_Mixto.jpg) 
 
-<a href="https://commons.wikimedia.org/wiki/File:M%C3%A9todo_Mixto.jpg">Derekcin</a>, CC0, 
+<a href="https://commons.wikimedia.org/wiki/File:M%C3%A9todo_Mixto.jpg">Derekcin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons 
 
 ---
 
@@ -116,4 +116,4 @@ Sin embargo, el enfoque mixto también presenta sus propias complejidades. La in
 
 ![Infografía Ventajas y Desventajas](https://upload.wikimedia.org/wikipedia/commons/4/4c/Ventajas_y_Desventajas.jpg) 
 
-<a href="https://commons.wikimedia.org/wiki/File:Ventajas_y_Desventajas.jpg">Derekcin</a>, CC0, 
+<a href="https://commons.wikimedia.org/wiki/File:Ventajas_y_Desventajas.jpg">Derekcin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
