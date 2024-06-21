@@ -331,7 +331,8 @@ Se trata de un repositorio de información en la dark web (o web profunda), func
 <a title="Usuario:AllenMartinez14, CC BY-SA 4.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Portada.jpg"><img width="null" alt="Portada" src="undefined"></a>
 <a href="https://commons.wikimedia.org/wiki/File:Portada.jpg">Usuario:AllenMartinez14</a>, CC BY-SA 4.0, via Wikimedia Commons
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Segundo.jpg" width="278" height="695">
+<a title="Usuario:AllenMartinez14, CC BY-SA 4.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Segundo.jpg"><img width="null" alt="Segundo" src="undefined"></a>
+<a href="https://commons.wikimedia.org/wiki/File:Segundo.jpg">Usuario:AllenMartinez14</a>, CC BY-SA 4.0, via Wikimedia Commons
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Tercero.jpg" width="278" height="695">
 
