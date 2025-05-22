@@ -7,7 +7,7 @@ permalink: credits
 
 ### Desarrollo de contenidos, estudiantes de pregrado
 
-<img src="{{ site.baseurl }}/assets/img/FotoGabriel.jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoGabriel.jpg" style="float:left;width:200px;padding-right:20px;">
 **Gabriel Vélez Cuartas** Profesor, Departamento de Sociología [Universidad de Antioquia](https://www.udea.edu.co).
 
 <img src="{{ site.baseurl }}/assets/img/FotoEli.jpeg" style="float:left;width:200px;padding-right:20px;">
