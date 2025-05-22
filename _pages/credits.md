@@ -7,6 +7,9 @@ permalink: credits
 
 ### Desarrollo de contenidos, estudiantes de pregrado
 
+<img src="{{ site.baseurl }}/assets/img/FotoGabriel.jpeg" style="float:left;width:200px;padding-right:20px;">
+**Gabriel Vélez Cuartas** Profesor, Departamento de Sociología [Universidad de Antioquia](https://www.udea.edu.co).
+
 <img src="{{ site.baseurl }}/assets/img/FotoEli.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Elizabeth de Jesus Acuña Medina** Estudiante de la carrera en comunicación, Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx).
 
