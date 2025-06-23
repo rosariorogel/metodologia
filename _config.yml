@@ -223,6 +223,10 @@ date_format: "%B %-d, %Y"
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  
+remote_theme: mmistakes/beautiful-jekyll
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
@@ -262,9 +266,6 @@ include: ['_pages','_páginas']
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-remote-theme
-
-remote_theme: mmistakes/beautiful-jekyll
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
